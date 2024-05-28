@@ -15,11 +15,11 @@ def get_proxy_url(url):
 
 class MySpiderSpider(scrapy.Spider):
     name = "my_spider"
-    allowed_domains = ["www.your-url-with-403-response.com"]
+    allowed_domains = ["https://www.ireland.ie/en/dfa/embassies/"]
     # start_urls = ["https://www.your-url-with-403-response.com"]
 
     def start_requests(self):
-        start_url = "https://www.your-url-with-403-response.com/page/items"
+        start_url = "https://www.ireland.ie/en/dfa/embassies/"
         yield scrapy.Request(url=get_proxy_url(start_url), callback=self.parse)
 
     def parse(self, response):
