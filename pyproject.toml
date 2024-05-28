@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "scrapy-scrapeops-template"
+version = "0.1.0"
+description = "A basic spider project for websites that respond with a HTTP 403"
+authors = ["Juan Carlos Cordovez-Mantilla <cordovez@el-cordovez.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.11"
+Scrapy = "^2.11.2"
+scrapy-user-agents = "^0.1.1"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
