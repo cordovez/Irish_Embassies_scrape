@@ -21,9 +21,9 @@ class MySpiderSpider(scrapy.Spider):
         get_proxy_url("https://www.ireland.ie/en/"),
         get_proxy_url("https://www.ireland.ie/en/dfa/embassies/"),
     ]
-    # custom_settings = {
-    #     "OFFSITE_ENABLED": False,
-    # }
+    custom_settings = {
+        "OFFSITE_ENABLED": False,
+    }
 
     def _assign_emb(self, item) -> bool:
         return not item.css('div.rich-text p:contains("We do not have an Embassy")')
@@ -93,7 +93,7 @@ class MySpiderSpider(scrapy.Spider):
 
                 self.logger.debug(f"Making request for {country} to URL: {url}")
 
-                yield response.follow(
+                yield scrapy.Request(
                     url,
                     callback=self.parse_embassy,
                     meta={
