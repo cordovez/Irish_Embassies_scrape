@@ -2,3173 +2,2080 @@
     {
         "country": "Afghanistan",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/uae/abudhabi/",
-        "tels": [
-            "+971 2 4958200"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/uae/abudhabi/",
+        "emb_tel": "+971 2 4958200",
         "emb_address": "Atiq Bin Majid Al Muhairi Street, Al Bateen, P.O. Box 61581, Abu Dhabi, United Arab Emirates",
-        "addresses": [
-            "Atiq Bin Majid Al Muhairi Street, Al Bateen, P.O. Box 61581, Abu Dhabi, United Arab Emirates"
-        ]
+        "consulates": []
     },
     {
         "country": "Albania",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/greece/athens/",
-        "tels": [
-            "+30 210 723 2771"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/greece/athens/",
+        "emb_tel": "+30 210 723 2771",
         "emb_address": "7 Leoforos Vasileos Konstantinou, 106 74, Athens, Greece",
-        "addresses": [
-            "7 Leoforos Vasileos Konstantinou, 106 74, Athens, Greece"
-        ]
+        "consulates": []
     },
     {
         "country": "Algeria",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/switzerland/berne/",
-        "tels": [
-            "+41 31 350 03 80"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/switzerland/berne/",
+        "emb_tel": "+41 31 350 03 80",
         "emb_address": "2nd floor Kirchenfeldstrasse 68, P.O. Box 262, CH-3000 Berne 6, Switzerland",
-        "addresses": [
-            "2nd floor Kirchenfeldstrasse 68, P.O. Box 262, CH-3000 Berne 6, Switzerland"
-        ]
+        "consulates": []
     },
     {
         "country": "Andorra, Principality of",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/spain/madrid/",
-        "tels": [],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/spain/madrid/",
+        "emb_tel": "",
         "emb_address": "Paseo de la Castellana 46-4, 28046, Madrid., Spain",
-        "addresses": [
-            "Paseo de la Castellana 46-4, 28046, Madrid., Spain"
-        ]
+        "consulates": []
     },
     {
         "country": "Angola",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/portugal/lisbon/",
-        "tels": [
-            "+351 213308200"
-        ],
-        "emb_address": "Avenida da Liberdade, Nr. 200, 4th floor, Lisbon, 1250-147",
-        "addresses": [
-            "Avenida da Liberdade, Nr. 200, 4th floor, Lisbon, 1250-147"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/portugal/lisbon/",
+        "emb_tel": "+351 213308200",
+        "emb_address": "Avenida da Liberdade,, Nr. 200, 4th floor,, Lisbon, 1250-147",
+        "consulates": []
     },
     {
         "country": "Anguilla",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/usa/washington/",
-        "tels": [
-            "+1 202 462 3939"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/usa/washington/",
+        "emb_tel": "+1 202 462 3939",
         "emb_address": "2234 Massachusetts Ave, NW Washington DC 20008, USA",
-        "addresses": [
-            "2234 Massachusetts Ave, NW Washington DC 20008, USA"
-        ]
+        "consulates": []
     },
     {
         "country": "Antigua and Barbuda",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/usa/washington/",
-        "tels": [
-            "+1 202 462 3939"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/usa/washington/",
+        "emb_tel": "+1 202 462 3939",
         "emb_address": "2234 Massachusetts Ave, NW Washington DC 20008, USA",
-        "addresses": [
-            "2234 Massachusetts Ave, NW Washington DC 20008, USA"
-        ]
+        "consulates": []
     },
     {
         "country": "Argentina",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/argentina/buenosaires/",
-        "tels": [
-            "+54 (11) 4808-5700"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/argentina/buenosaires/",
+        "emb_tel": "+54 (11) 4808-5700",
         "emb_address": "Edificio Bluesky, 6th Floor, Avenida del Libertador 1068, Recoleta, Buenos Aires",
-        "addresses": [
-            "Edificio Bluesky, 6th Floor, Avenida del Libertador 1068, Recoleta, Buenos Aires"
-        ]
+        "consulates": []
     },
     {
         "country": "Armenia",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/bulgaria/sofia/",
-        "tels": [
-            "+359 2 985 3425",
-            "+37 410 526330",
-            "Alt tel: +37 410 526331"
-        ],
-        "emb_address": "Platinum Business Centre, 26-30 Bacho Kiro street, Sofia 1000, Bulgaria",
-        "addresses": [
-            "Platinum Business Centre, 26-30 Bacho Kiro street, Sofia 1000, Bulgaria",
-            "Jonathan Stark, 3rd Floor, 18/1 Vardanants str., Yerevan 0010, Armenia"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/bulgaria/sofia/",
+        "emb_tel": "+359 2 985 3425",
+        "emb_address": "Platinum Business Centre, 26-30 Bacho Kiro street, Sofia 1000,, Bulgaria",
+        "consulates": []
     },
     {
         "country": "Aruba",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/thenetherlands/thehague/",
-        "tels": [
-            "+31 (0)70 363 0993"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/thenetherlands/thehague/",
+        "emb_tel": "+31 (0)70 363 0993",
         "emb_address": "Scheveningseweg 112, 2584 AE The Hague, The Netherlands",
-        "addresses": [
-            "Scheveningseweg 112, 2584 AE The Hague, The Netherlands"
-        ]
+        "consulates": []
     },
     {
         "country": "Australia",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/australia/canberra/",
-        "tels": [
-            "+61 2 62140000",
-            "+61 2 9273 8500",
-            "+61 8 6557 5802"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/australia/canberra/",
+        "emb_tel": "+61 2 62140000",
         "emb_address": "20 Arkana Street, Yarralumla, ACT 2600, Canberra",
-        "addresses": [
-            "20 Arkana Street, Yarralumla, ACT 2600, Canberra",
-            "Level 26, 1 Market Street, Sydney, NSW 2000",
-            "Martin Kavanagh, Kavanagh Lawyers, WA Level 3, 165/580 Hay Street, Perth, WA 6000"
-        ]
+        "consulates": []
     },
     {
         "country": "Austria",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/austria/vienna/",
-        "tels": [
-            "+43 (0)1 715 4246",
-            "+43 1 715 76 9826"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/austria/vienna/",
+        "emb_tel": "+43 (0)1 715 4246",
         "emb_address": "Rotenturmstraße 16-18, A-1010 Vienna, Austria",
-        "addresses": [
-            "Rotenturmstraße 16-18, A-1010 Vienna, Austria",
-            "Rotenturmstrasse 16-18, 5th Floor, 1010 Vienna, Austria"
-        ]
+        "consulates": []
     },
     {
         "country": "Azerbaijan",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/turkiye/ankara/",
-        "tels": [
-            "+90 312 459 1000"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/turkiye/ankara/",
+        "emb_tel": "+90 312 459 1000",
         "emb_address": "Ugur Mumcu Caddesi No.88, MNG Binasi, A&B Blok, Kat 1, Gaziosmanpasa, Ankara 06700",
-        "addresses": [
-            "Ugur Mumcu Caddesi No.88, MNG Binasi, A&B Blok, Kat 1, Gaziosmanpasa, Ankara 06700"
-        ]
+        "consulates": []
     },
     {
         "country": "Bahamas",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/canada/ottawa/",
-        "tels": [
-            "+1 613 233 6281",
-            "+1 242 397 2100"
-        ],
-        "emb_address": "150 Metcalfe Street, Suite 1700, Ottawa, ON K2P 1P1",
-        "addresses": [
-            "150 Metcalfe Street, Suite 1700, Ottawa, ON K2P 1P1",
-            "William Mills, 34 Collins Avenue, PO Box SS-5091, Nassau, The Bahamas"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/canada/ottawa/",
+        "emb_tel": "+1 613 233 6281",
+        "emb_address": "150 Metcalfe Street,, Suite 1700,, Ottawa, ON K2P 1P1",
+        "consulates": []
     },
     {
         "country": "Bahrain",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/saudiarabia/riyadh/",
-        "tels": [
-            "+966 11 407 1530",
-            "+973 1 772 8146"
-        ],
-        "emb_address": "P.O. Box 94349, Plot No. 3114, Al Idrisi, Assafarat District, Riyadh 12513, Kingdom of Saudi Arabia",
-        "addresses": [
-            "P.O. Box 94349, Plot No. 3114, Al Idrisi, Assafarat District, Riyadh 12513, Kingdom of Saudi Arabia",
-            "P.O. Box 94349, Riyadh 11693, Saudi Arabia",
-            "c/o Buhindi Group, Building 266, Road 2804, Al Seef District 428, Manama, Kingdom of Bahrain"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/saudiarabia/riyadh/",
+        "emb_tel": "+966 11 407 1530",
+        "emb_address": "P.O. Box 94349,, Plot No. 3114, Al Idrisi,, Assafarat District, Riyadh 12513,, Kingdom of Saudi Arabia",
+        "consulates": []
     },
     {
         "country": "Bangladesh",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/india/newdelhi/",
-        "tels": [
-            "+91 11 4940 3200"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/india/newdelhi/",
+        "emb_tel": "+91 11 4940 3200",
         "emb_address": "C17 Malcha Marg, Chanakyapuri, New Delhi 110 021, India",
-        "addresses": [
-            "C17 Malcha Marg, Chanakyapuri, New Delhi 110 021, India"
-        ]
+        "consulates": []
     },
     {
         "country": "Barbados",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/usa/washington/",
-        "tels": [
-            "+1 202 462 3939"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/usa/washington/",
+        "emb_tel": "+1 202 462 3939",
         "emb_address": "2234 Massachusetts Ave, NW Washington DC 20008, USA",
-        "addresses": [
-            "2234 Massachusetts Ave, NW Washington DC 20008, USA"
-        ]
+        "consulates": []
     },
     {
         "country": "Belarus",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/lithuania/vilnius/",
-        "tels": [
-            "+370 5 2629460"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/lithuania/vilnius/",
+        "emb_tel": "+370 5 2629460",
         "emb_address": "Gedimino Prospektas 1, Vilnius, LT-01103, Lithuania",
-        "addresses": [
-            "Gedimino Prospektas 1, Vilnius, LT-01103, Lithuania"
-        ]
+        "consulates": []
     },
     {
         "country": "Belgium",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.iehttps://www.ireland.ie/en/belgium/",
-        "tels": [
-            "+32 2 2823 400",
-            "+32 474 99 56 66",
-            "+32 2 282 32 00",
-            "+32 02-707-2693"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.iehttps://www.ireland.ie/en/belgium/",
+        "emb_tel": "+32 2 2823 400",
         "emb_address": "Rue Froissart - Froissartstraat 50, 1040 Brussels, Belgium",
-        "addresses": [
-            "Rue Froissart - Froissartstraat 50, 1040 Brussels, Belgium",
-            "Yves Rombouts, Veldkantvoetweg 82, 2540 Hove, Antwerpen, Belgium",
-            "Rue Froissart 50, 1040 Brussels, Belgium",
-            "Boulevard Leopold III, 1110 Brussels, Belgium"
-        ]
+        "consulates": []
     },
     {
         "country": "Belize",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/mexico/mexicocity/",
-        "tels": [
-            "+52 55 5520 5803"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/mexico/mexicocity/",
+        "emb_tel": "+52 55 5520 5803",
         "emb_address": "Goldsmith #53 Piso 4, Col. Polanco, Chapultepec, Alcaldía Miguel Hidalgo, CP, 11560, Ciudad de México, México",
-        "addresses": [
-            "Goldsmith #53 Piso 4, Col. Polanco, Chapultepec, Alcaldía Miguel Hidalgo, CP, 11560, Ciudad de México, México"
-        ]
+        "consulates": []
     },
     {
         "country": "Benin",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/nigeria/abuja/",
-        "tels": [
-            "+234 209 462 1080"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/nigeria/abuja/",
+        "emb_tel": "+234 209 462 1080",
         "emb_address": "11 Negro Crescent, Maitama District, Abuja, Nigeria",
-        "addresses": [
-            "11 Negro Crescent, Maitama District, Abuja, Nigeria"
-        ]
+        "consulates": []
     },
     {
         "country": "Bermuda",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/usa/washington/",
-        "tels": [
-            "+1 202 462 3939",
-            "+1 441 295 6574"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/usa/washington/",
+        "emb_tel": "+1 202 462 3939",
         "emb_address": "2234 Massachusetts Ave, NW Washington DC 20008, USA",
-        "addresses": [
-            "2234 Massachusetts Ave, NW Washington DC 20008, USA",
-            "John R Kane, 3rd Floor, Windsor Place, 22 Queen Street, Hamilton HM 11, Bermuda"
-        ]
+        "consulates": []
     },
     {
         "country": "Bhutan",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Bolivia",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/argentina/buenosaires/",
-        "tels": [
-            "+54 (11) 4808-5700",
-            "+591 72024100"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/argentina/buenosaires/",
+        "emb_tel": "+54 (11) 4808-5700",
         "emb_address": "Edificio Bluesky, 6th Floor, Avenida del Libertador 1068, Recoleta, Buenos Aires",
-        "addresses": [
-            "Edificio Bluesky, 6th Floor, Avenida del Libertador 1068, Recoleta, Buenos Aires",
-            "Peter O'Toole, Av. San Martin y Calle Hugo Wast, Comercial Chuubi, Planta Alta, Of 16, Barrio Equipetrol, Santa Cruz, Bolivia"
-        ]
+        "consulates": []
     },
     {
         "country": "Bosnia-Herzegovina",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/slovenia/ljubljana/",
-        "tels": [
-            "+386 1 300 8970"
-        ],
-        "emb_address": "Palača Kapitelj, 1st floor, Poljanski nasip 6, 1000 Ljubljana, Slovenia",
-        "addresses": [
-            "Palača Kapitelj, 1st floor, Poljanski nasip 6, 1000 Ljubljana, Slovenia"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/slovenia/ljubljana/",
+        "emb_tel": "+386 1 300 8970",
+        "emb_address": "Palača Kapitelj, 1st floor,, Poljanski nasip 6, 1000 Ljubljana, Slovenia",
+        "consulates": []
     },
     {
         "country": "Botswana",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/southafrica/pretoria/",
-        "tels": [
-            "+27 12 452 1000",
-            "+267 3905807"
-        ],
-        "emb_address": "2nd Floor, Building A, OMK House, 238 Florence Ribeiro Avenue, Nieuw Muckleneuk, Pretoria, South Africa, 0181",
-        "addresses": [
-            "2nd Floor, Building A, OMK House, 238 Florence Ribeiro Avenue, Nieuw Muckleneuk, Pretoria, South Africa, 0181",
-            "Paul Sullivan, Plot 50, Section 1, Gaborone International Commerce Park, PO Box 502555, Gaborone, Botswana"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/southafrica/pretoria/",
+        "emb_tel": "+27 12 452 1000",
+        "emb_address": "2nd Floor, Building A, OMK House,, 238 Florence Ribeiro Avenue, Nieuw Muckleneuk,, Pretoria,, South Africa, 0181",
+        "consulates": []
     },
     {
         "country": "Bouvet Island",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Brazil",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/brazil/brasilia/",
-        "tels": [
-            "+55 61 3248 8800",
-            "+55 11 3149 7600"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/brazil/brasilia/",
+        "emb_tel": "+55 61 3248 8800",
         "emb_address": "SHIS QL 12 conjunto 05 casa 09, Lago Sul, Brasília - DF, CEP 71630-255, Brazil",
-        "addresses": [
-            "SHIS QL 12 conjunto 05 casa 09, Lago Sul, Brasília - DF, CEP 71630-255, Brazil",
-            "Alameda Santos, 787, conj 61 – 6 º andar, CEP: 01419-001 Cerqueira César, São Paulo – SP, Brazil"
-        ]
+        "consulates": []
     },
     {
         "country": "British Indian Ocean Territory",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/india/newdelhi/",
-        "tels": [
-            "+91 11 4940 3200"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/india/newdelhi/",
+        "emb_tel": "+91 11 4940 3200",
         "emb_address": "C17 Malcha Marg, Chanakyapuri, New Delhi 110 021, India",
-        "addresses": [
-            "C17 Malcha Marg, Chanakyapuri, New Delhi 110 021, India"
-        ]
+        "consulates": []
     },
     {
         "country": "Brunei Darussalam",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/singapore/embassy/",
-        "tels": [
-            "+65 6238 7616"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/singapore/embassy/",
+        "emb_tel": "+65 6238 7616",
         "emb_address": "541 Orchard Road, Liat Towers, 8th Floor, Singapore 238881",
-        "addresses": [
-            "541 Orchard Road, Liat Towers, 8th Floor, Singapore 238881"
-        ]
+        "consulates": []
     },
     {
         "country": "Bulgaria",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/bulgaria/sofia/",
-        "tels": [
-            "+359 2 985 3425"
-        ],
-        "emb_address": "Platinum Business Centre, 26-30 Bacho Kiro street, Sofia 1000, Bulgaria",
-        "addresses": [
-            "Platinum Business Centre, 26-30 Bacho Kiro street, Sofia 1000, Bulgaria"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/bulgaria/sofia/",
+        "emb_tel": "+359 2 985 3425",
+        "emb_address": "Platinum Business Centre, 26-30 Bacho Kiro street, Sofia 1000,, Bulgaria",
+        "consulates": []
     },
     {
         "country": "Burkina Faso",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/nigeria/abuja/",
-        "tels": [
-            "+234 209 462 1080"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/nigeria/abuja/",
+        "emb_tel": "+234 209 462 1080",
         "emb_address": "11 Negro Crescent, Maitama District, Abuja, Nigeria",
-        "addresses": [
-            "11 Negro Crescent, Maitama District, Abuja, Nigeria"
-        ]
+        "consulates": []
     },
     {
         "country": "Burundi",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/tanzania/daressalaam/",
-        "tels": [],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/tanzania/daressalaam/",
+        "emb_tel": "",
         "emb_address": "353 Touré Drive, Masaki, Dar es Salaam, Tanzania",
-        "addresses": [
-            "353 Touré Drive, Masaki, Dar es Salaam, Tanzania"
-        ]
+        "consulates": []
     },
     {
         "country": "Cambodia",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/vietnam/hanoi/",
-        "tels": [
-            "+84 24 3974 3291"
-        ],
-        "emb_address": "2nd floor, 41A Ly Thai To, Hoan Kiem District, Hanoi, Vietnam",
-        "addresses": [
-            "2nd floor, 41A Ly Thai To, Hoan Kiem District, Hanoi, Vietnam"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/vietnam/hanoi/",
+        "emb_tel": "+84 24 3974 3291",
+        "emb_address": "2nd floor,, 41A Ly Thai To, Hoan Kiem District, Hanoi, Vietnam",
+        "consulates": []
     },
     {
         "country": "Cameroon",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/nigeria/abuja/",
-        "tels": [
-            "+234 209 462 1080"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/nigeria/abuja/",
+        "emb_tel": "+234 209 462 1080",
         "emb_address": "11 Negro Crescent, Maitama District, Abuja, Nigeria",
-        "addresses": [
-            "11 Negro Crescent, Maitama District, Abuja, Nigeria"
-        ]
+        "consulates": []
     },
     {
         "country": "Canada",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/canada/ottawa/",
-        "tels": [
-            "+1 613 233 6281",
-            "+1 437 290 6315",
-            "+1 236 521 7300",
-            "+1 403 813 5337",
-            "+1 403 615 7464",
-            "+1 709 738 6280",
-            "+1 902 800 2064"
-        ],
-        "emb_address": "150 Metcalfe Street, Suite 1700, Ottawa, ON K2P 1P1",
-        "addresses": [
-            "150 Metcalfe Street, Suite 1700, Ottawa, ON K2P 1P1",
-            "Spaces at The Permanent, 320 Bay Street, Toronto, Ontario M5H4A6",
-            "1300-1095 West Pender Street, Vancouver BC, V6E 2M6, Canada",
-            "Deirdre Halferty (Community, Cultural and Consular), 215 Glamorgan Place, SW Calgary, AB, T3E 5B9",
-            "Laureen Regan (Trade and Investment), 1 – 3617 Blackburn Road SE, Calgary, AB, T2G 4A3, Canada",
-            "Mark Dobbin, 95 Water Street, 2nd Floor, P.O. Box 5383 Stn. C, St. John's, NL, A1C 5W2",
-            "Brian Doherty, 5136 Prince St, Halifax, NS, B3J 1L4, Canada",
-            "Vacant"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/canada/ottawa/",
+        "emb_tel": "+1 613 233 6281",
+        "emb_address": "150 Metcalfe Street,, Suite 1700,, Ottawa, ON K2P 1P1",
+        "consulates": []
     },
     {
         "country": "Cape Verde",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/portugal/lisbon/",
-        "tels": [
-            "+351 213308200"
-        ],
-        "emb_address": "Avenida da Liberdade, Nr. 200, 4th floor, Lisbon, 1250-147",
-        "addresses": [
-            "Avenida da Liberdade, Nr. 200, 4th floor, Lisbon, 1250-147"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/portugal/lisbon/",
+        "emb_tel": "+351 213308200",
+        "emb_address": "Avenida da Liberdade,, Nr. 200, 4th floor,, Lisbon, 1250-147",
+        "consulates": []
     },
     {
         "country": "Cayman Islands",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/usa/washington/",
-        "tels": [
-            "+1 202 462 3939"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/usa/washington/",
+        "emb_tel": "+1 202 462 3939",
         "emb_address": "2234 Massachusetts Ave, NW Washington DC 20008, USA",
-        "addresses": [
-            "2234 Massachusetts Ave, NW Washington DC 20008, USA"
-        ]
+        "consulates": []
     },
     {
         "country": "Central African Republic",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Chad",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [
-            "+1 (212)421-6934"
-        ],
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "+1 (212)421-6934",
         "emb_address": "885 Second Avenue, 21st Floor, (between 47th & 48th st.), NY 10017, USA",
-        "addresses": [
-            "885 Second Avenue, 21st Floor, (between 47th & 48th st.), NY 10017, USA"
-        ]
+        "consulates": []
     },
     {
         "country": "Chile",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/chile/santiago/",
-        "tels": [
-            "+56 233 04 6600"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/chile/santiago/",
+        "emb_tel": "+56 233 04 6600",
         "emb_address": "Avenida Apoquindo 2929, Piso 18, Las Condes",
-        "addresses": [
-            "Avenida Apoquindo 2929, Piso 18, Las Condes"
-        ]
+        "consulates": []
     },
     {
         "country": "China",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/china/beijing/",
-        "tels": [
-            "+86 10 8531 6200",
-            "+86 21 6010 1360",
-            "+852 2535 0700"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/china/beijing/",
+        "emb_tel": "+86 10 8531 6200",
         "emb_address": "3 Ritan Dong Lu, Chaoyang District, Beijing 100600, People's Republic of China",
-        "addresses": [
-            "3 Ritan Dong Lu, Chaoyang District, Beijing 100600, People's Republic of China",
-            "Ireland House, Unit 903, JC Plaza, 1225 Nanjing Road West, Shanghai 200040, People's Republic of China",
-            "20/F, 33 Des Voeux Road, Central, Hong Kong"
-        ]
+        "consulates": []
     },
     {
         "country": "Christmas Island",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Cocos (Keeling) Islands",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Colombia",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/colombia/bogota/",
-        "tels": [
-            "+57 601 657 6060"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/colombia/bogota/",
+        "emb_tel": "+57 601 657 6060",
         "emb_address": "Oficina 1605, Edificio Tierra Firme, Bogotá DC, Colombia, Ak 9 #115-30",
-        "addresses": [
-            "Oficina 1605, Edificio Tierra Firme, Bogotá DC, Colombia, Ak 9 #115-30"
-        ]
+        "consulates": []
     },
     {
         "country": "Comoros",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Congo",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [
-            "+1 (212)421-6934"
-        ],
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "+1 (212)421-6934",
         "emb_address": "885 Second Avenue, 21st Floor, (between 47th & 48th st.), NY 10017, USA",
-        "addresses": [
-            "885 Second Avenue, 21st Floor, (between 47th & 48th st.), NY 10017, USA"
-        ]
+        "consulates": []
     },
     {
         "country": "Congo, Democratic Republic of",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/tanzania/daressalaam/",
-        "tels": [],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/tanzania/daressalaam/",
+        "emb_tel": "",
         "emb_address": "353 Touré Drive, Masaki, Dar es Salaam, Tanzania",
-        "addresses": [
-            "353 Touré Drive, Masaki, Dar es Salaam, Tanzania"
-        ]
+        "consulates": []
     },
     {
         "country": "Cook Islands",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Costa Rica",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/mexico/mexicocity/",
-        "tels": [
-            "+52 55 5520 5803"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/mexico/mexicocity/",
+        "emb_tel": "+52 55 5520 5803",
         "emb_address": "Goldsmith #53 Piso 4, Col. Polanco, Chapultepec, Alcaldía Miguel Hidalgo, CP, 11560, Ciudad de México, México",
-        "addresses": [
-            "Goldsmith #53 Piso 4, Col. Polanco, Chapultepec, Alcaldía Miguel Hidalgo, CP, 11560, Ciudad de México, México"
-        ]
+        "consulates": []
     },
     {
         "country": "Côte d'Ivoire",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/nigeria/abuja/",
-        "tels": [
-            "+234 209 462 1080"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/nigeria/abuja/",
+        "emb_tel": "+234 209 462 1080",
         "emb_address": "11 Negro Crescent, Maitama District, Abuja, Nigeria",
-        "addresses": [
-            "11 Negro Crescent, Maitama District, Abuja, Nigeria"
-        ]
+        "consulates": []
     },
     {
         "country": "Croatia",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/croatia/zagreb/",
-        "tels": [
-            "+385 1 6278 920",
-            "+385 21 362 008"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/croatia/zagreb/",
+        "emb_tel": "+385 1 6278 920",
         "emb_address": "Miramarska Avenue 23/lll, 10000 Zagreb, Croatia",
-        "addresses": [
-            "Miramarska Avenue 23/lll, 10000 Zagreb, Croatia",
-            "Mr. Emil Tedeschi, Rovinjska 4, 2100 Split, Croatia"
-        ]
+        "consulates": []
     },
     {
         "country": "Cuba",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/mexico/mexicocity/",
-        "tels": [
-            "+52 55 5520 5803"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/mexico/mexicocity/",
+        "emb_tel": "+52 55 5520 5803",
         "emb_address": "Goldsmith #53 Piso 4, Col. Polanco, Chapultepec, Alcaldía Miguel Hidalgo, CP, 11560, Ciudad de México, México",
-        "addresses": [
-            "Goldsmith #53 Piso 4, Col. Polanco, Chapultepec, Alcaldía Miguel Hidalgo, CP, 11560, Ciudad de México, México"
-        ]
+        "consulates": []
     },
     {
         "country": "Curacao",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/thenetherlands/thehague/",
-        "tels": [
-            "+31 (0)70 363 0993"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/thenetherlands/thehague/",
+        "emb_tel": "+31 (0)70 363 0993",
         "emb_address": "Scheveningseweg 112, 2584 AE The Hague, The Netherlands",
-        "addresses": [
-            "Scheveningseweg 112, 2584 AE The Hague, The Netherlands"
-        ]
+        "consulates": []
     },
     {
         "country": "Cyprus",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/cyprus/nicosia/",
-        "tels": [
-            "+357 2281 8183"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/cyprus/nicosia/",
+        "emb_tel": "+357 2281 8183",
         "emb_address": "7 Aiantos Street, St. Omologites, 1082 Nicosia, Cyprus",
-        "addresses": [
-            "7 Aiantos Street, St. Omologites, 1082 Nicosia, Cyprus"
-        ]
+        "consulates": []
     },
     {
         "country": "Czech Republic",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/czech-republic/prague/",
-        "tels": [
-            "+420 257 011 280"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/czech-republic/prague/",
+        "emb_tel": "+420 257 011 280",
         "emb_address": "Tržiště 13, 118 00 Prague 1, 2nd Floor",
-        "addresses": [
-            "Tržiště 13, 118 00 Prague 1, 2nd Floor"
-        ]
+        "consulates": []
     },
     {
         "country": "Denmark",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/denmark/copenhagen/",
-        "tels": [
-            "+45 35 47 32 00"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/denmark/copenhagen/",
+        "emb_tel": "+45 35 47 32 00",
         "emb_address": "Østbanegade 21, 2100 Copenhagen Ø, Denmark",
-        "addresses": [
-            "Østbanegade 21, 2100 Copenhagen Ø, Denmark"
-        ]
+        "consulates": []
     },
     {
         "country": "Djibouti",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/ethiopia/addisababa/",
-        "tels": [
-            "+251 11 518 0500"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/ethiopia/addisababa/",
+        "emb_tel": "+251 11 518 0500",
         "emb_address": "Guinea Conakry Street, Addis Ababa, Ethiopia",
-        "addresses": [
-            "Guinea Conakry Street, Addis Ababa, Ethiopia"
-        ]
+        "consulates": []
     },
     {
         "country": "Dominica",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/usa/washington/",
-        "tels": [
-            "+1 202 462 3939"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/usa/washington/",
+        "emb_tel": "+1 202 462 3939",
         "emb_address": "2234 Massachusetts Ave, NW Washington DC 20008, USA",
-        "addresses": [
-            "2234 Massachusetts Ave, NW Washington DC 20008, USA"
-        ]
+        "consulates": []
     },
     {
         "country": "Dominican Republic",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/colombia/bogota/",
-        "tels": [
-            "+57 601 657 6060"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/colombia/bogota/",
+        "emb_tel": "+57 601 657 6060",
         "emb_address": "Oficina 1605, Edificio Tierra Firme, Bogotá DC, Colombia, Ak 9 #115-30",
-        "addresses": [
-            "Oficina 1605, Edificio Tierra Firme, Bogotá DC, Colombia, Ak 9 #115-30"
-        ]
+        "consulates": []
     },
     {
         "country": "Ecuador",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/chile/santiago/",
-        "tels": [
-            "+56 233 04 6600",
-            "+593 99569 7020"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/chile/santiago/",
+        "emb_tel": "+56 233 04 6600",
         "emb_address": "Avenida Apoquindo 2929, Piso 18, Las Condes",
-        "addresses": [
-            "Avenida Apoquindo 2929, Piso 18, Las Condes",
-            "Mr. George McCabe, Samborondon Business Center, Torre B, Piso 3, Ofic 301, Km 1.5 via Samborondon, Guayaquil, Ecuador, Chile"
-        ]
+        "consulates": []
     },
     {
         "country": "Egypt",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/egypt/cairo/",
-        "tels": [
-            "+202 27287100",
-            "+002 03 4941007",
-            "Alt tel: +002 03 4941008"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/egypt/cairo/",
+        "emb_tel": "+202 27287100",
         "emb_address": "18 Hassan Sabry Street, 11561 Zamalek, Cairo, Egypt",
-        "addresses": [
-            "18 Hassan Sabry Street, 11561 Zamalek, Cairo, Egypt",
-            "Hisham G Helmy, 17 Elfaraana Street, Azarita, Alexandria, Egypt"
-        ]
+        "consulates": []
     },
     {
         "country": "El Salvador",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/mexico/mexicocity/",
-        "tels": [
-            "+52 55 5520 5803"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/mexico/mexicocity/",
+        "emb_tel": "+52 55 5520 5803",
         "emb_address": "Goldsmith #53 Piso 4, Col. Polanco, Chapultepec, Alcaldía Miguel Hidalgo, CP, 11560, Ciudad de México, México",
-        "addresses": [
-            "Goldsmith #53 Piso 4, Col. Polanco, Chapultepec, Alcaldía Miguel Hidalgo, CP, 11560, Ciudad de México, México"
-        ]
+        "consulates": []
     },
     {
         "country": "Equatorial Guinea",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Eritrea",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/kenya/nairobi/",
-        "tels": [
-            "+254 020 513 5300"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/kenya/nairobi/",
+        "emb_tel": "+254 020 513 5300",
         "emb_address": "4th Floor, Delta Office Suites, Manyani Road, off Waiyaki Way, PO Box 30659-00100, Nairobi",
-        "addresses": [
-            "4th Floor, Delta Office Suites, Manyani Road, off Waiyaki Way, PO Box 30659-00100, Nairobi"
-        ]
+        "consulates": []
     },
     {
         "country": "Estonia",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/estonia/tallinn/",
-        "tels": [
-            "+372 (0)6 811 870"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/estonia/tallinn/",
+        "emb_tel": "+372 (0)6 811 870",
         "emb_address": "Rävala pst 5, 10143, Tallinn, Estonia",
-        "addresses": [
-            "Rävala pst 5, 10143, Tallinn, Estonia"
-        ]
+        "consulates": []
     },
     {
         "country": "Eswatini",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/mozambique/maputo/",
-        "tels": [
-            "+258 21 501 700"
-        ],
-        "emb_address": "Avenida Julius Nyerere 3630, Sommershield, Maputo, Mozambique",
-        "addresses": [
-            "Avenida Julius Nyerere 3630, Sommershield, Maputo, Mozambique"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/mozambique/maputo/",
+        "emb_tel": "+258 21 501 700",
+        "emb_address": "Avenida Julius Nyerere 3630,, Sommershield,, Maputo,, Mozambique",
+        "consulates": []
     },
     {
         "country": "Ethiopia",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/ethiopia/addisababa/",
-        "tels": [
-            "+251 11 518 0500"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/ethiopia/addisababa/",
+        "emb_tel": "+251 11 518 0500",
         "emb_address": "Guinea Conakry Street, Addis Ababa, Ethiopia",
-        "addresses": [
-            "Guinea Conakry Street, Addis Ababa, Ethiopia"
-        ]
+        "consulates": []
     },
     {
         "country": "Faroe Islands",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/denmark/copenhagen/",
-        "tels": [
-            "+45 35 47 32 00"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/denmark/copenhagen/",
+        "emb_tel": "+45 35 47 32 00",
         "emb_address": "Østbanegade 21, 2100 Copenhagen Ø, Denmark",
-        "addresses": [
-            "Østbanegade 21, 2100 Copenhagen Ø, Denmark"
-        ]
+        "consulates": []
     },
     {
         "country": "Fiji",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/australia/canberra/",
-        "tels": [
-            "+61 2 62140000"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/australia/canberra/",
+        "emb_tel": "+61 2 62140000",
         "emb_address": "20 Arkana Street, Yarralumla, ACT 2600, Canberra",
-        "addresses": [
-            "20 Arkana Street, Yarralumla, ACT 2600, Canberra"
-        ]
+        "consulates": []
     },
     {
         "country": "Finland",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/finland/helsinki/",
-        "tels": [
-            "+358 9 682 4240"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/finland/helsinki/",
+        "emb_tel": "+358 9 682 4240",
         "emb_address": "Erottajankatu 7 A, 00130 Helsinki, Finland",
-        "addresses": [
-            "Erottajankatu 7 A, 00130 Helsinki, Finland",
-            "Mr. Erkki Yrjölä, Helsinki"
-        ]
+        "consulates": []
     },
     {
         "country": "France",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/france/paris/",
-        "tels": [
-            "+33 1 44 17 67 00",
-            "+33 1 44 17 67 81",
-            "+33 1 44 17 67 50",
-            "+33 2 33 44 11 11",
-            "+33 (0) 6 14 10 00 79",
-            "+33 2 98 29 27 03",
-            "Alt tel: +33 6 45 75 09 94",
-            "+33 6 49 73 82 68"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/france/paris/",
+        "emb_tel": "+33 1 44 17 67 00",
         "emb_address": "12 avenue Foch, (entrance 4 rue Rude), 75116 Paris, France",
-        "addresses": [
-            "12 avenue Foch, (entrance 4 rue Rude), 75116 Paris, France",
-            "23 rue Crepet, 69007 Lyon, France",
-            "12 Avenue Foch, 75116 Paris, France",
-            "11 boulevard du Président Edwards, 67000 Strasbourg, France",
-            "Mr. Ole Gregre Bockmann, Gare Maritime Sud, 50100 Cherbourg, France",
-            "Dr. Michael Smurfit, Le Sardanapale, 2 Avenue Princesse Grace, MC98000, Monaco",
-            "Mr Jean Marc Roué, Rue Alexis Gourvennec, 29680 Roscoff, France",
-            "Mr Kevin McGreevy, 40 rue du Japon, 31400 Toulouse, France"
-        ]
+        "consulates": []
     },
     {
         "country": "French Guiana",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/france/paris/",
-        "tels": [
-            "+33 1 44 17 67 00"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/france/paris/",
+        "emb_tel": "+33 1 44 17 67 00",
         "emb_address": "12 avenue Foch, (entrance 4 rue Rude), 75116 Paris, France",
-        "addresses": [
-            "12 avenue Foch, (entrance 4 rue Rude), 75116 Paris, France"
-        ]
+        "consulates": []
     },
     {
         "country": "Gabon",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Gambia, Republic of the",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/nigeria/abuja/",
-        "tels": [
-            "+234 209 462 1080"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/nigeria/abuja/",
+        "emb_tel": "+234 209 462 1080",
         "emb_address": "11 Negro Crescent, Maitama District, Abuja, Nigeria",
-        "addresses": [
-            "11 Negro Crescent, Maitama District, Abuja, Nigeria"
-        ]
+        "consulates": []
     },
     {
         "country": "Georgia",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/bulgaria/sofia/",
-        "tels": [
-            "+359 2 985 3425",
-            "+995 595 276 624"
-        ],
-        "emb_address": "Platinum Business Centre, 26-30 Bacho Kiro street, Sofia 1000, Bulgaria",
-        "addresses": [
-            "Platinum Business Centre, 26-30 Bacho Kiro street, Sofia 1000, Bulgaria",
-            "Jeffrey Kent, 11 Ioseb Grishashvili Street, Tbilisi 0105, Georgia"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/bulgaria/sofia/",
+        "emb_tel": "+359 2 985 3425",
+        "emb_address": "Platinum Business Centre, 26-30 Bacho Kiro street, Sofia 1000,, Bulgaria",
+        "consulates": []
     },
     {
         "country": "Germany",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/germany/berlin/",
-        "tels": [
-            "+49 30220720",
-            "+49 69 667 74 8041",
-            "+49 2204 609 860",
-            "+49 40 4418 6113",
-            "+49 711 351 607 10"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/germany/berlin/",
+        "emb_tel": "+49 30220720",
         "emb_address": "Jägerstraße 51, 10117 Berlin, Germany",
-        "addresses": [
-            "Jägerstraße 51, 10117 Berlin, Germany",
-            "Signature OpernTurm, Bockenheimer Landstraße 2-4, 60306 Frankfurt am Main, Germany",
-            "Ms. Brigitte Wagner-Halswick, Frankenforsterstraße 77, 51427 Bergisch Gladbach, Germany",
-            "Dr. Michael Fisser, Böttgerstraße 9, 20148 Hamburg, Germany",
-            "Dr. Wolfgang Häfele, Meßstetter Str. 8, 70567 Stuttgart, Germany"
-        ]
+        "consulates": []
     },
     {
         "country": "Ghana",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/nigeria/abuja/",
-        "tels": [
-            "+234 209 462 1080",
-            "+233 302 518112 - 6"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/nigeria/abuja/",
+        "emb_tel": "+234 209 462 1080",
         "emb_address": "11 Negro Crescent, Maitama District, Abuja, Nigeria",
-        "addresses": [
-            "11 Negro Crescent, Maitama District, Abuja, Nigeria",
-            "Block B - Polo Views, 13 Airport Bypass Road, GL-143-8064, PO Box CT2475, Cantonments, Accra, Ghana"
-        ]
+        "consulates": []
     },
     {
         "country": "Great Britain",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/greatbritain/london/",
-        "tels": [
-            "+44 20 72352171",
-            "+44 29 2045 5558",
-            "+44 131 226 7711",
-            "+44 161 638 9240"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/greatbritain/london/",
+        "emb_tel": "+44 20 72352171",
         "emb_address": "17 Grosvenor Place, London, SW1X 7HR",
-        "addresses": [
-            "17 Grosvenor Place, London, SW1X 7HR",
-            "2 Caspian Point, Caspian Way, Cardiff Bay, CF10 4DQ, Wales",
-            "16 Randolph Crescent, Edinburgh, EH3 7TT, Scotland",
-            "17 Marble St, 14th Floor, Manchester, M2 3AW, England"
-        ]
+        "consulates": []
     },
     {
         "country": "Greece",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/greece/athens/",
-        "tels": [
-            "+30 210 723 2771",
-            "+30 2661023921",
-            "+30 2810 215 060",
-            "+30 22410 75655",
-            "+30 2310 465177"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/greece/athens/",
+        "emb_tel": "+30 210 723 2771",
         "emb_address": "7 Leoforos Vasileos Konstantinou, 106 74, Athens, Greece",
-        "addresses": [
-            "7 Leoforos Vasileos Konstantinou, 106 74, Athens, Greece",
-            "Ms. Anastasia Lychnou, 5, Rizospaston Voulefton Ioniou Voulis, 491 00, Corfu, Greece",
-            "Mr. Ioannis Xenikakis, Xenikakis S.A., Leoforos Knosou 278, 71409 Heraklion, Crete, Greece",
-            "Mr. Skevos Mougros, 111 Amerikis Street, 85100, Rhodes, Greece",
-            "Mr. Theodoros Mavroudis, 5 Aristotelous Square, 54624, Thessaloniki, Greece"
-        ]
+        "consulates": []
     },
     {
         "country": "Greenland",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/denmark/copenhagen/",
-        "tels": [
-            "+45 35 47 32 00"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/denmark/copenhagen/",
+        "emb_tel": "+45 35 47 32 00",
         "emb_address": "Østbanegade 21, 2100 Copenhagen Ø, Denmark",
-        "addresses": [
-            "Østbanegade 21, 2100 Copenhagen Ø, Denmark"
-        ]
+        "consulates": []
     },
     {
         "country": "Grenada",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/usa/washington/",
-        "tels": [
-            "+1 202 462 3939"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/usa/washington/",
+        "emb_tel": "+1 202 462 3939",
         "emb_address": "2234 Massachusetts Ave, NW Washington DC 20008, USA",
-        "addresses": [
-            "2234 Massachusetts Ave, NW Washington DC 20008, USA"
-        ]
+        "consulates": []
     },
     {
         "country": "Guadeloupe (French)",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/france/paris/",
-        "tels": [
-            "+33 1 44 17 67 00"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/france/paris/",
+        "emb_tel": "+33 1 44 17 67 00",
         "emb_address": "12 avenue Foch, (entrance 4 rue Rude), 75116 Paris, France",
-        "addresses": [
-            "12 avenue Foch, (entrance 4 rue Rude), 75116 Paris, France"
-        ]
+        "consulates": []
     },
     {
         "country": "Guatemala",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/mexico/mexicocity/",
-        "tels": [
-            "+52 55 5520 5803",
-            "+502 48022222"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/mexico/mexicocity/",
+        "emb_tel": "+52 55 5520 5803",
         "emb_address": "Goldsmith #53 Piso 4, Col. Polanco, Chapultepec, Alcaldía Miguel Hidalgo, CP, 11560, Ciudad de México, México",
-        "addresses": [
-            "Goldsmith #53 Piso 4, Col. Polanco, Chapultepec, Alcaldía Miguel Hidalgo, CP, 11560, Ciudad de México, México",
-            "Andres Wyld, 8 Avenida 3-90 Zona 14, Edificio La Rambla torre II oficina 3-1, Guatemala City 01014"
-        ]
+        "consulates": []
     },
     {
         "country": "Guinea",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/sierraleone/freetown/",
-        "tels": [
-            "+232 79 250628"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/sierraleone/freetown/",
+        "emb_tel": "+232 79 250628",
         "emb_address": "8 St. Joseph’s Avenue, Off Spur Road, Freetown, Sierra Leone",
-        "addresses": [
-            "8 St. Joseph’s Avenue, Off Spur Road, Freetown, Sierra Leone"
-        ]
+        "consulates": []
     },
     {
         "country": "Guinea Bissau",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/portugal/lisbon/",
-        "tels": [
-            "+351 213308200"
-        ],
-        "emb_address": "Avenida da Liberdade, Nr. 200, 4th floor, Lisbon, 1250-147",
-        "addresses": [
-            "Avenida da Liberdade, Nr. 200, 4th floor, Lisbon, 1250-147"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/portugal/lisbon/",
+        "emb_tel": "+351 213308200",
+        "emb_address": "Avenida da Liberdade,, Nr. 200, 4th floor,, Lisbon, 1250-147",
+        "consulates": []
     },
     {
         "country": "Guyana",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/brazil/brasilia/",
-        "tels": [
-            "+55 61 3248 8800",
-            "+592 2269 339"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/brazil/brasilia/",
+        "emb_tel": "+55 61 3248 8800",
         "emb_address": "SHIS QL 12 conjunto 05 casa 09, Lago Sul, Brasília - DF, CEP 71630-255, Brazil",
-        "addresses": [
-            "SHIS QL 12 conjunto 05 casa 09, Lago Sul, Brasília - DF, CEP 71630-255, Brazil",
-            "Dr. Deen Sharma, 10 Bel Air Springs, Greater Georgetown, Guyana"
-        ]
+        "consulates": []
     },
     {
         "country": "Haiti",
         "has_emb": true,
-        "ambassador": null,
-        "website": null,
-        "tels": [
-            "+1 (212)421-6934"
-        ],
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "+1 (212)421-6934",
         "emb_address": "885 Second Avenue, 21st Floor, (between 47th & 48th st.), NY 10017, USA",
-        "addresses": [
-            "885 Second Avenue, 21st Floor, (between 47th & 48th st.), NY 10017, USA"
-        ]
+        "consulates": []
     },
     {
         "country": "Heard and McDonald Islands",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Holy See",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/holysee/vaticancity/",
-        "tels": [
-            "+39 06 5852 3880"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/holysee/vaticancity/",
+        "emb_tel": "+39 06 5852 3880",
         "emb_address": "Via dei Corridori, 48, 00193 Rome, Italy",
-        "addresses": [
-            "Via dei Corridori, 48, 00193 Rome, Italy"
-        ]
+        "consulates": []
     },
     {
         "country": "Honduras",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/mexico/mexicocity/",
-        "tels": [
-            "+52 55 5520 5803"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/mexico/mexicocity/",
+        "emb_tel": "+52 55 5520 5803",
         "emb_address": "Goldsmith #53 Piso 4, Col. Polanco, Chapultepec, Alcaldía Miguel Hidalgo, CP, 11560, Ciudad de México, México",
-        "addresses": [
-            "Goldsmith #53 Piso 4, Col. Polanco, Chapultepec, Alcaldía Miguel Hidalgo, CP, 11560, Ciudad de México, México"
-        ]
+        "consulates": []
     },
     {
         "country": "Hungary",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/hungary/budapest/",
-        "tels": [
-            "+36 1 301 4960"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/hungary/budapest/",
+        "emb_tel": "+36 1 301 4960",
         "emb_address": "Budapest 1054., Szabadsag ter 7., Bank Center, Budapest",
-        "addresses": [
-            "Budapest 1054., Szabadsag ter 7., Bank Center, Budapest"
-        ]
+        "consulates": []
     },
     {
         "country": "Iceland",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/norway/oslo/",
-        "tels": [
-            "+47 2201 7200",
-            "+354 840 7134"
-        ],
-        "emb_address": "Floor 6, Haakon VIIs gate 1, PO Box 4006 AMB, 0244 Oslo, Norway",
-        "addresses": [
-            "Floor 6, Haakon VIIs gate 1, PO Box 4006 AMB, 0244 Oslo, Norway",
-            "Jens Thordarson, Ingólfsstræti 5, 101 Reykjavik, Iceland"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/norway/oslo/",
+        "emb_tel": "+47 2201 7200",
+        "emb_address": "Floor 6,, Haakon VIIs gate 1, PO Box 4006 AMB, 0244 Oslo, Norway",
+        "consulates": []
     },
     {
         "country": "India",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/india/newdelhi/",
-        "tels": [
-            "+91 11 4940 3200",
-            "+91 22 69033400",
-            "+91 80 2808 2006",
-            "+91 44 6609 7700",
-            "+91 33 35036200"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/india/newdelhi/",
+        "emb_tel": "+91 11 4940 3200",
         "emb_address": "C17 Malcha Marg, Chanakyapuri, New Delhi 110 021, India",
-        "addresses": [
-            "C17 Malcha Marg, Chanakyapuri, New Delhi 110 021, India",
-            "3rd Floor, TCG Financial Centre, G–Block, Bandra Kurla Complex, Mumbai 400098, India",
-            "Dr. Kiran Mazumdar-Shaw, C/o Biocon Limited, 20th K M Hosur Road, Electronics City PO, Bangalore 560100",
-            "Rajeev Mecheri, Mecheri Centre 49, Eldams Road, Teynampet, Chennai 600018",
-            "Mayank Jalan, Keventer Agro Ltd, 34/1 Diamond Harbour Road, Kolkata 700027"
-        ]
+        "consulates": []
     },
     {
         "country": "Indonesia",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/indonesia/jakarta/",
-        "tels": [
-            "+62 21 280 94300"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/indonesia/jakarta/",
+        "emb_tel": "+62 21 280 94300",
         "emb_address": "World Trade Centre 1, L-14, Jl. Jend. Sudirman Kav 29-31, Jakarta 12920",
-        "addresses": [
-            "World Trade Centre 1, L-14, Jl. Jend. Sudirman Kav 29-31, Jakarta 12920"
-        ]
+        "consulates": []
     },
     {
         "country": "Iran",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/turkiye/ankara/",
-        "tels": [
-            "+90 312 459 1000",
-            "+98 21 8804 1925"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/turkiye/ankara/",
+        "emb_tel": "+90 312 459 1000",
         "emb_address": "Ugur Mumcu Caddesi No.88, MNG Binasi, A&B Blok, Kat 1, Gaziosmanpasa, Ankara 06700",
-        "addresses": [
-            "Ugur Mumcu Caddesi No.88, MNG Binasi, A&B Blok, Kat 1, Gaziosmanpasa, Ankara 06700",
-            "Alireza Feizollahi, S.J. Assadabadi Avenue, Corner of 50th Street, No. 2/6, First Floor, Tehran, Iran"
-        ]
+        "consulates": []
     },
     {
         "country": "Iraq",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/jordan/amman/",
-        "tels": [
-            "+962 65903200"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/jordan/amman/",
+        "emb_tel": "+962 65903200",
         "emb_address": "Bashir Kheir Street 15, Opposite the Orthodox Club, Abdoun, Amman, Jordan",
-        "addresses": [
-            "Bashir Kheir Street 15, Opposite the Orthodox Club, Abdoun, Amman, Jordan"
-        ]
+        "consulates": []
     },
     {
         "country": "Israel",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/israel/telaviv/",
-        "tels": [
-            "+972 36964166"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/israel/telaviv/",
+        "emb_tel": "+972 36964166",
         "emb_address": "Amot Atrium Tower, 2 Ze'ev Jabotinsky, Ramat Gan, 5250501",
-        "addresses": [
-            "Amot Atrium Tower, 2 Ze'ev Jabotinsky, Ramat Gan, 5250501"
-        ]
+        "consulates": []
     },
     {
         "country": "Italy",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/italy/rome/",
-        "tels": [
-            "+39 02 551 87569"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/italy/rome/",
+        "emb_tel": "+39 02 551 87569",
         "emb_address": "Villa Spada, Via Giacomo Medici 1, Roma 00153, Italy",
-        "addresses": [
-            "Villa Spada, Via Giacomo Medici 1, Roma 00153, Italy",
-            "Antonietta Marsaglia, Corso di Porta Vittoria, 18, 20122 Milano, Italy"
-        ]
+        "consulates": []
     },
     {
         "country": "Jamaica",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/canada/ottawa/",
-        "tels": [
-            "+1 613 233 6281",
-            "+1 876 932 8423"
-        ],
-        "emb_address": "150 Metcalfe Street, Suite 1700, Ottawa, ON K2P 1P1",
-        "addresses": [
-            "150 Metcalfe Street, Suite 1700, Ottawa, ON K2P 1P1",
-            "Brian J. Denning, Penthouse - Scotiabank Centre, Corner of Port Royal & Duke Streets, Kingston, Jamaica W.I."
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/canada/ottawa/",
+        "emb_tel": "+1 613 233 6281",
+        "emb_address": "150 Metcalfe Street,, Suite 1700,, Ottawa, ON K2P 1P1",
+        "consulates": []
     },
     {
         "country": "Japan",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/japan/tokyo/",
-        "tels": [
-            "+81 0332630695",
-            "+81 11 221 2451"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/japan/tokyo/",
+        "emb_tel": "+81 0332630695",
         "emb_address": "Ireland House, 2-10-7 Kojimachi, Chiyoda-ku, Tokyo, Japan, 102-0083",
-        "addresses": [
-            "Ireland House, 2-10-7 Kojimachi, Chiyoda-ku, Tokyo, Japan, 102-0083",
-            "Seiji Kasama, C/O ID Partners Company Limited, 3F Takimoto Building, Kita 1-jo Nishi 7-chome 4-banchi, Chuo-ku Sapporo 060-0001"
-        ]
+        "consulates": []
     },
     {
         "country": "Jordan",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/jordan/amman/",
-        "tels": [
-            "+962 65903200"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/jordan/amman/",
+        "emb_tel": "+962 65903200",
         "emb_address": "Bashir Kheir Street 15, Opposite the Orthodox Club, Abdoun, Amman, Jordan",
-        "addresses": [
-            "Bashir Kheir Street 15, Opposite the Orthodox Club, Abdoun, Amman, Jordan"
-        ]
+        "consulates": []
     },
     {
         "country": "Kazakhstan",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [
-            "+7 4959375911"
-        ],
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "+7 4959375911",
         "emb_address": "Grokholski Pereulok 5, Moscow 129090, Russia",
-        "addresses": [
-            "Grokholski Pereulok 5, Moscow 129090, Russia"
-        ]
+        "consulates": []
     },
     {
         "country": "Kenya",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/kenya/nairobi/",
-        "tels": [
-            "+254 020 513 5300"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/kenya/nairobi/",
+        "emb_tel": "+254 020 513 5300",
         "emb_address": "4th Floor, Delta Office Suites, Manyani Road, off Waiyaki Way, PO Box 30659-00100, Nairobi",
-        "addresses": [
-            "4th Floor, Delta Office Suites, Manyani Road, off Waiyaki Way, PO Box 30659-00100, Nairobi"
-        ]
+        "consulates": []
     },
     {
         "country": "Kiribati",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Korea, Democratic Republic of (North Korea)",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/republic-of-korea/seoul/",
-        "tels": [
-            "+02 721 7200"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/republic-of-korea/seoul/",
+        "emb_tel": "+02 721 7200",
         "emb_address": "Leema Bldg. 13F., 42, Jongro 1-gil, Jongno-gu, Seoul, Korea 03152",
-        "addresses": [
-            "Leema Bldg. 13F., 42, Jongro 1-gil, Jongno-gu, Seoul, Korea 03152"
-        ]
+        "consulates": []
     },
     {
         "country": "Korea, Republic of (South Korea)",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/republic-of-korea/seoul/",
-        "tels": [
-            "+02 721 7200",
-            "+02 721 7200"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/republic-of-korea/seoul/",
+        "emb_tel": "+02 721 7200",
         "emb_address": "Leema Bldg. 13F., 42, Jongro 1-gil, Jongno-gu, Seoul, Korea 03152",
-        "addresses": [
-            "Leema Bldg. 13F., 42, Jongro 1-gil, Jongno-gu, Seoul, Korea 03152",
-            "Leema Bldg. 13F., 42, Jongro 1-gil, Jongno-gu, Seoul, Korea 03152"
-        ]
+        "consulates": []
     },
     {
         "country": "Kosovo",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/hungary/budapest/",
-        "tels": [
-            "+36 1 301 4960"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/hungary/budapest/",
+        "emb_tel": "+36 1 301 4960",
         "emb_address": "Budapest 1054., Szabadsag ter 7., Bank Center, Budapest",
-        "addresses": [
-            "Budapest 1054., Szabadsag ter 7., Bank Center, Budapest"
-        ]
+        "consulates": []
     },
     {
         "country": "Kuwait",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/uae/abudhabi/",
-        "tels": [
-            "+971 2 4958200"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/uae/abudhabi/",
+        "emb_tel": "+971 2 4958200",
         "emb_address": "Atiq Bin Majid Al Muhairi Street, Al Bateen, P.O. Box 61581, Abu Dhabi, United Arab Emirates",
-        "addresses": [
-            "Atiq Bin Majid Al Muhairi Street, Al Bateen, P.O. Box 61581, Abu Dhabi, United Arab Emirates"
-        ]
+        "consulates": []
     },
     {
         "country": "Kyrgyz Republic (Kyrgystan)",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Laos",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/vietnam/hanoi/",
-        "tels": [
-            "+84 24 3974 3291"
-        ],
-        "emb_address": "2nd floor, 41A Ly Thai To, Hoan Kiem District, Hanoi, Vietnam",
-        "addresses": [
-            "2nd floor, 41A Ly Thai To, Hoan Kiem District, Hanoi, Vietnam"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/vietnam/hanoi/",
+        "emb_tel": "+84 24 3974 3291",
+        "emb_address": "2nd floor,, 41A Ly Thai To, Hoan Kiem District, Hanoi, Vietnam",
+        "consulates": []
     },
     {
         "country": "Latvia",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/latvia/riga/",
-        "tels": [
-            "+371 6703 9370"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/latvia/riga/",
+        "emb_tel": "+371 6703 9370",
         "emb_address": "Alberta Street 13, Riga, Latvia, LV-1010",
-        "addresses": [
-            "Alberta Street 13, Riga, Latvia, LV-1010"
-        ]
+        "consulates": []
     },
     {
         "country": "Lebanon",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/egypt/cairo/",
-        "tels": [
-            "+202 27287100",
-            "+961 139 5005"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/egypt/cairo/",
+        "emb_tel": "+202 27287100",
         "emb_address": "18 Hassan Sabry Street, 11561 Zamalek, Cairo, Egypt",
-        "addresses": [
-            "18 Hassan Sabry Street, 11561 Zamalek, Cairo, Egypt",
-            "Georges H. Siam, Badaro 2000 Building 1st Floor, Badaro Street, Badaro-Beirut, Lebanon"
-        ]
+        "consulates": []
     },
     {
         "country": "Lesotho",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/southafrica/pretoria/",
-        "tels": [
-            "+27 12 452 1000",
-            "+266 223 24182"
-        ],
-        "emb_address": "2nd Floor, Building A, OMK House, 238 Florence Ribeiro Avenue, Nieuw Muckleneuk, Pretoria, South Africa, 0181",
-        "addresses": [
-            "2nd Floor, Building A, OMK House, 238 Florence Ribeiro Avenue, Nieuw Muckleneuk, Pretoria, South Africa, 0181",
-            "Ms. Mannete Malethole Ramaili, Cathedral Area, Main South 1 Road, P.O. Box 7159, Maseru 100, Lesotho"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/southafrica/pretoria/",
+        "emb_tel": "+27 12 452 1000",
+        "emb_address": "2nd Floor, Building A, OMK House,, 238 Florence Ribeiro Avenue, Nieuw Muckleneuk,, Pretoria,, South Africa, 0181",
+        "consulates": []
     },
     {
         "country": "Liberia",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/liberia/monrovia/",
-        "tels": [
-            "+231 7767 56020"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/liberia/monrovia/",
+        "emb_tel": "+231 7767 56020",
         "emb_address": "LCL Compound 12th Street, Sinkor, Monrovia, Liberia",
-        "addresses": [
-            "LCL Compound 12th Street, Sinkor, Monrovia, Liberia"
-        ]
+        "consulates": []
     },
     {
         "country": "Libya",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/italy/rome/",
-        "tels": [],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/italy/rome/",
+        "emb_tel": "",
         "emb_address": "Villa Spada, Via Giacomo Medici 1, Roma 00153, Italy",
-        "addresses": [
-            "Villa Spada, Via Giacomo Medici 1, Roma 00153, Italy"
-        ]
+        "consulates": []
     },
     {
         "country": "Liechtenstein",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/switzerland/berne/",
-        "tels": [
-            "+41 31 350 03 80"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/switzerland/berne/",
+        "emb_tel": "+41 31 350 03 80",
         "emb_address": "2nd floor Kirchenfeldstrasse 68, P.O. Box 262, CH-3000 Berne 6, Switzerland",
-        "addresses": [
-            "2nd floor Kirchenfeldstrasse 68, P.O. Box 262, CH-3000 Berne 6, Switzerland"
-        ]
+        "consulates": []
     },
     {
         "country": "Lithuania",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/lithuania/vilnius/",
-        "tels": [
-            "+370 5 2629460"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/lithuania/vilnius/",
+        "emb_tel": "+370 5 2629460",
         "emb_address": "Gedimino Prospektas 1, Vilnius, LT-01103, Lithuania",
-        "addresses": [
-            "Gedimino Prospektas 1, Vilnius, LT-01103, Lithuania"
-        ]
+        "consulates": []
     },
     {
         "country": "Luxembourg",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/luxembourg/embassy/",
-        "tels": [
-            "+352 450 610"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/luxembourg/embassy/",
+        "emb_tel": "+352 450 610",
         "emb_address": "Résidence Christina (2nd floor), 28 route d'Arlon, L-1140 Luxembourg",
-        "addresses": [
-            "Résidence Christina (2nd floor), 28 route d'Arlon, L-1140 Luxembourg"
-        ]
+        "consulates": []
     },
     {
         "country": "Madagascar",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/mozambique/maputo/",
-        "tels": [
-            "+258 21 501 700"
-        ],
-        "emb_address": "Avenida Julius Nyerere 3630, Sommershield, Maputo, Mozambique",
-        "addresses": [
-            "Avenida Julius Nyerere 3630, Sommershield, Maputo, Mozambique"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/mozambique/maputo/",
+        "emb_tel": "+258 21 501 700",
+        "emb_address": "Avenida Julius Nyerere 3630,, Sommershield,, Maputo,, Mozambique",
+        "consulates": []
     },
     {
         "country": "Malawi",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/malawi/lilongwe/",
-        "tels": [
-            "+265 985 936 610"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/malawi/lilongwe/",
+        "emb_tel": "+265 985 936 610",
         "emb_address": "Arwa House (3rd Floor), 13/14 City Centre, Lilongwe, Malawi",
-        "addresses": [
-            "Arwa House (3rd Floor), 13/14 City Centre, Lilongwe, Malawi"
-        ]
+        "consulates": []
     },
     {
         "country": "Malaysia",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/malaysia/kualalumpur/",
-        "tels": [
-            "+603 2167 8200"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/malaysia/kualalumpur/",
+        "emb_tel": "+603 2167 8200",
         "emb_address": "South Block, 5th Floor, The Amp Walk, 218 Jalan Ampang, Kuala Lumpur, 50450, Malaysia",
-        "addresses": [
-            "South Block, 5th Floor, The Amp Walk, 218 Jalan Ampang, Kuala Lumpur, 50450, Malaysia"
-        ]
+        "consulates": []
     },
     {
         "country": "Maldives",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/india/newdelhi/",
-        "tels": [
-            "+91 11 4940 3200"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/india/newdelhi/",
+        "emb_tel": "+91 11 4940 3200",
         "emb_address": "C17 Malcha Marg, Chanakyapuri, New Delhi 110 021, India",
-        "addresses": [
-            "C17 Malcha Marg, Chanakyapuri, New Delhi 110 021, India"
-        ]
+        "consulates": []
     },
     {
         "country": "Mali",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Malta",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/malta/valletta/",
-        "tels": [
-            "+356 21334744"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/malta/valletta/",
+        "emb_tel": "+356 21334744",
         "emb_address": "Whitehall Mansions, Ix-Xatt ta’ Ta’ Xbiex, XBX 1026, Malta",
-        "addresses": [
-            "Whitehall Mansions, Ix-Xatt ta’ Ta’ Xbiex, XBX 1026, Malta"
-        ]
+        "consulates": []
     },
     {
         "country": "Marshall Islands",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Martinique (French)",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/usa/washington/",
-        "tels": [
-            "+1 202 462 3939"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/usa/washington/",
+        "emb_tel": "+1 202 462 3939",
         "emb_address": "2234 Massachusetts Ave, NW Washington DC 20008, USA",
-        "addresses": [
-            "2234 Massachusetts Ave, NW Washington DC 20008, USA"
-        ]
+        "consulates": []
     },
     {
         "country": "Mauritania",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Mauritius",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/southafrica/pretoria/",
-        "tels": [
-            "+27 12 452 1000"
-        ],
-        "emb_address": "2nd Floor, Building A, OMK House, 238 Florence Ribeiro Avenue, Nieuw Muckleneuk, Pretoria, South Africa, 0181",
-        "addresses": [
-            "2nd Floor, Building A, OMK House, 238 Florence Ribeiro Avenue, Nieuw Muckleneuk, Pretoria, South Africa, 0181"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/southafrica/pretoria/",
+        "emb_tel": "+27 12 452 1000",
+        "emb_address": "2nd Floor, Building A, OMK House,, 238 Florence Ribeiro Avenue, Nieuw Muckleneuk,, Pretoria,, South Africa, 0181",
+        "consulates": []
     },
     {
         "country": "Mayotte",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Mexico",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/mexico/mexicocity/",
-        "tels": [
-            "+52 55 5520 5803",
-            "+52 998 195 9063"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/mexico/mexicocity/",
+        "emb_tel": "+52 55 5520 5803",
         "emb_address": "Goldsmith #53 Piso 4, Col. Polanco, Chapultepec, Alcaldía Miguel Hidalgo, CP, 11560, Ciudad de México, México",
-        "addresses": [
-            "Goldsmith #53 Piso 4, Col. Polanco, Chapultepec, Alcaldía Miguel Hidalgo, CP, 11560, Ciudad de México, México",
-            "Anthony Leeman, Av. Coba 15, Mza.8, SM22, Cancún, 77500 Quintana Roo Mexico"
-        ]
+        "consulates": []
     },
     {
         "country": "Moldova, Republic of",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/romania/bucharest/",
-        "tels": [
-            "+40 758611959",
-            "+373 22 80 7145"
-        ],
-        "emb_address": "Bulevardul Iuliu Maniu 6L, București 061072, Bucharest, Romania",
-        "addresses": [
-            "Bulevardul Iuliu Maniu 6L, București 061072, Bucharest, Romania",
-            "Dr. Suzanne O'Connell, Skytower, Office 1A, 5th Floor, Vlaicu Pircalab Str. 63, Chisinau, MD-2012  Republ"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/romania/bucharest/",
+        "emb_tel": "+40 758611959",
+        "emb_address": "Bulevardul Iuliu Maniu 6L,, București 061072,, Bucharest, Romania",
+        "consulates": []
     },
     {
         "country": "Monaco",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/france/paris/",
-        "tels": [
-            "+33 1 44 17 67 00",
-            "+33 (0) 6 14 10 00 79"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/france/paris/",
+        "emb_tel": "+33 1 44 17 67 00",
         "emb_address": "12 avenue Foch, (entrance 4 rue Rude), 75116 Paris, France",
-        "addresses": [
-            "12 avenue Foch, (entrance 4 rue Rude), 75116 Paris, France",
-            "Dr. Michael Smurfit, Le Sardanapale, 2 Avenue Princesse Grace, MC98000, Monaco"
-        ]
+        "consulates": []
     },
     {
         "country": "Mongolia",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/china/beijing/",
-        "tels": [
-            "+86 10 8531 6200"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/china/beijing/",
+        "emb_tel": "+86 10 8531 6200",
         "emb_address": "3 Ritan Dong Lu, Chaoyang District, Beijing 100600, People's Republic of China",
-        "addresses": [
-            "3 Ritan Dong Lu, Chaoyang District, Beijing 100600, People's Republic of China"
-        ]
+        "consulates": []
     },
     {
         "country": "Montenegro",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/hungary/budapest/",
-        "tels": [
-            "+36 1 301 4960",
-            "+38 111 263 7667"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/hungary/budapest/",
+        "emb_tel": "+36 1 301 4960",
         "emb_address": "Budapest 1054., Szabadsag ter 7., Bank Center, Budapest",
-        "addresses": [
-            "Budapest 1054., Szabadsag ter 7., Bank Center, Budapest",
-            "Ann Pesic, Kosancicev venac 2/1, 11000 Belgrade, Serbia"
-        ]
+        "consulates": []
     },
     {
         "country": "Montserrat",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Morocco",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/morocco/rabat/",
-        "tels": [
-            "+212 530134083",
-            "+212 5 2882 1212",
-            "+212 5 2227 2721"
-        ],
-        "emb_address": "Rabat Mahaj Ryad Centre, Avenue Attine, Bâtiment 7, Hay Ryad, Rabat, Morocco",
-        "addresses": [
-            "Rabat Mahaj Ryad Centre, Avenue Attine, Bâtiment 7, Hay Ryad, Rabat, Morocco",
-            "Mohammed Chafik Mahfoud Filali, Hotel Kenzi Europa, Boulevard du 20 Aoút, BP. 808, Agadir, Morocco",
-            "Ghali Bennani, 57, Bd Abdelmoumen, Rue Salim Cherkkaoui, Résidence Al Hadi B20, 5ème étage, Casablanca Morocco"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/morocco/rabat/",
+        "emb_tel": "+212 530134083",
+        "emb_address": "Rabat Mahaj Ryad Centre,, Avenue Attine, Bâtiment 7,, Hay Ryad,, Rabat, Morocco",
+        "consulates": []
     },
     {
         "country": "Mozambique",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/mozambique/maputo/",
-        "tels": [
-            "+258 21 501 700"
-        ],
-        "emb_address": "Avenida Julius Nyerere 3630, Sommershield, Maputo, Mozambique",
-        "addresses": [
-            "Avenida Julius Nyerere 3630, Sommershield, Maputo, Mozambique"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/mozambique/maputo/",
+        "emb_tel": "+258 21 501 700",
+        "emb_address": "Avenida Julius Nyerere 3630,, Sommershield,, Maputo,, Mozambique",
+        "consulates": []
     },
     {
         "country": "Myanmar/Burma",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/thailand/bangkok/",
-        "tels": [
-            "+66 2 016 1360"
-        ],
-        "emb_address": "208 Wireless Road 12th Floor, Unit 1201, Lumphini, Pathumwan, Bangkok 10330",
-        "addresses": [
-            "208 Wireless Road 12th Floor, Unit 1201, Lumphini, Pathumwan, Bangkok 10330"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/thailand/bangkok/",
+        "emb_tel": "+66 2 016 1360",
+        "emb_address": "208 Wireless Road 12th Floor,, Unit 1201, Lumphini, Pathumwan, Bangkok 10330",
+        "consulates": []
     },
     {
         "country": "Namibia",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/zambia/lusaka/",
-        "tels": [],
-        "emb_address": "6663 Katima Mulilo Rd, P.O. Box 34923, Lusaka 10101, Zambia",
-        "addresses": [
-            "6663 Katima Mulilo Rd, P.O. Box 34923, Lusaka 10101, Zambia"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/zambia/lusaka/",
+        "emb_tel": "",
+        "emb_address": "6663 Katima Mulilo Rd,, P.O. Box 34923,, Lusaka 10101,, Zambia",
+        "consulates": []
     },
     {
         "country": "Nauru",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Nepal",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/india/newdelhi/",
-        "tels": [
-            "+91 11 4940 3200",
-            "+977 1 4783140",
-            "Alt tel: +977 1 4780141"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/india/newdelhi/",
+        "emb_tel": "+91 11 4940 3200",
         "emb_address": "C17 Malcha Marg, Chanakyapuri, New Delhi 110 021, India",
-        "addresses": [
-            "C17 Malcha Marg, Chanakyapuri, New Delhi 110 021, India",
-            "Manoj Shrestha, G.P.O box: 1665, New Everest Construction PvT. Ltd, Naya Baneshwor, Kathmandu, Nepal"
-        ]
+        "consulates": []
     },
     {
         "country": "Netherlands",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/thenetherlands/thehague/",
-        "tels": [
-            "+31 (0)70 363 0993"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/thenetherlands/thehague/",
+        "emb_tel": "+31 (0)70 363 0993",
         "emb_address": "Scheveningseweg 112, 2584 AE The Hague, The Netherlands",
-        "addresses": [
-            "Scheveningseweg 112, 2584 AE The Hague, The Netherlands"
-        ]
+        "consulates": []
     },
     {
         "country": "Netherlands Antilles",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/thenetherlands/thehague/",
-        "tels": [
-            "+31 (0)70 363 0993"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/thenetherlands/thehague/",
+        "emb_tel": "+31 (0)70 363 0993",
         "emb_address": "Scheveningseweg 112, 2584 AE The Hague, The Netherlands",
-        "addresses": [
-            "Scheveningseweg 112, 2584 AE The Hague, The Netherlands"
-        ]
+        "consulates": []
     },
     {
         "country": "New Caledonia (French)",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "New Zealand",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/new-zealand/wellington/",
-        "tels": [
-            "+64 4 471 2252"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/new-zealand/wellington/",
+        "emb_tel": "+64 4 471 2252",
         "emb_address": "Level 10, 86 Victoria Street, PO Box 11498 Manners Street, Wellington 6011, New Zealand",
-        "addresses": [
-            "Level 10, 86 Victoria Street, PO Box 11498 Manners Street, Wellington 6011, New Zealand",
-            "Niamh McMahon, Level 1, 5 High Street, PO Box 2710 Shortland Street, 1010, Auckland, New Zealand"
-        ]
+        "consulates": []
     },
     {
         "country": "Nicaragua",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/mexico/mexicocity/",
-        "tels": [
-            "+52 55 5520 5803"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/mexico/mexicocity/",
+        "emb_tel": "+52 55 5520 5803",
         "emb_address": "Goldsmith #53 Piso 4, Col. Polanco, Chapultepec, Alcaldía Miguel Hidalgo, CP, 11560, Ciudad de México, México",
-        "addresses": [
-            "Goldsmith #53 Piso 4, Col. Polanco, Chapultepec, Alcaldía Miguel Hidalgo, CP, 11560, Ciudad de México, México"
-        ]
+        "consulates": []
     },
     {
         "country": "Niger",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/nigeria/abuja/",
-        "tels": [
-            "+234 209 462 1080"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/nigeria/abuja/",
+        "emb_tel": "+234 209 462 1080",
         "emb_address": "11 Negro Crescent, Maitama District, Abuja, Nigeria",
-        "addresses": [
-            "11 Negro Crescent, Maitama District, Abuja, Nigeria"
-        ]
+        "consulates": []
     },
     {
         "country": "Nigeria",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/nigeria/abuja/",
-        "tels": [
-            "+234 209 462 1080",
-            "+234 7062107778",
-            "Alt tel: +234 70538002"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/nigeria/abuja/",
+        "emb_tel": "+234 209 462 1080",
         "emb_address": "11 Negro Crescent, Maitama District, Abuja, Nigeria",
-        "addresses": [
-            "11 Negro Crescent, Maitama District, Abuja, Nigeria",
-            "Cornelius Guilfoyle, 22A Lugard Avenue, Ikoyi, Lagos, Nigeria"
-        ]
+        "consulates": []
     },
     {
         "country": "Norfolk Island",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "North Macedonia, Republic of",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/romania/bucharest/",
-        "tels": [
-            "+40 758611959"
-        ],
-        "emb_address": "Bulevardul Iuliu Maniu 6L, București 061072, Bucharest, Romania",
-        "addresses": [
-            "Bulevardul Iuliu Maniu 6L, București 061072, Bucharest, Romania"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/romania/bucharest/",
+        "emb_tel": "+40 758611959",
+        "emb_address": "Bulevardul Iuliu Maniu 6L,, București 061072,, Bucharest, Romania",
+        "consulates": []
     },
     {
         "country": "Northern Mariana Islands",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Norway",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/norway/oslo/",
-        "tels": [
-            "+47 2201 7200",
-            "+47 4678 8912"
-        ],
-        "emb_address": "Floor 6, Haakon VIIs gate 1, PO Box 4006 AMB, 0244 Oslo, Norway",
-        "addresses": [
-            "Floor 6, Haakon VIIs gate 1, PO Box 4006 AMB, 0244 Oslo, Norway",
-            "Mr Gavin Collins, Honorary Consul of Ireland, Olav Kyrres gate 8, 5014, Bergen, Norway"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/norway/oslo/",
+        "emb_tel": "+47 2201 7200",
+        "emb_address": "Floor 6,, Haakon VIIs gate 1, PO Box 4006 AMB, 0244 Oslo, Norway",
+        "consulates": []
     },
     {
         "country": "Oman",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/saudiarabia/riyadh/",
-        "tels": [
-            "+966 11 407 1530",
-            "+968 2456 4324"
-        ],
-        "emb_address": "P.O. Box 94349, Plot No. 3114, Al Idrisi, Assafarat District, Riyadh 12513, Kingdom of Saudi Arabia",
-        "addresses": [
-            "P.O. Box 94349, Plot No. 3114, Al Idrisi, Assafarat District, Riyadh 12513, Kingdom of Saudi Arabia",
-            "P.O. Box 94349, Riyadh 11693, Saudi Arabia",
-            "Dr. Mohammed Hasan Darwish, Building no 21, Office number 33, Way no 403, Al Qurum, Sultanate of Oman"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/saudiarabia/riyadh/",
+        "emb_tel": "+966 11 407 1530",
+        "emb_address": "P.O. Box 94349,, Plot No. 3114, Al Idrisi,, Assafarat District, Riyadh 12513,, Kingdom of Saudi Arabia",
+        "consulates": []
     },
     {
         "country": "Pakistan",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/turkiye/ankara/",
-        "tels": [
-            "+90 312 459 1000",
-            "+92 21 35891181 - 82 - 83"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/turkiye/ankara/",
+        "emb_tel": "+90 312 459 1000",
         "emb_address": "Ugur Mumcu Caddesi No.88, MNG Binasi, A&B Blok, Kat 1, Gaziosmanpasa, Ankara 06700",
-        "addresses": [
-            "Ugur Mumcu Caddesi No.88, MNG Binasi, A&B Blok, Kat 1, Gaziosmanpasa, Ankara 06700",
-            "Osman Asghar Khan, House number 91/1 1st Lower Commercial Street, Phase IV, Defence Housing Authority, Karachi 75500, Pakistan"
-        ]
+        "consulates": []
     },
     {
         "country": "Palau",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Palestinian Authority",
         "has_emb": true,
-        "ambassador": null,
-        "website": null,
-        "tels": [
-            "+972 2 294 9800"
-        ],
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "+972 2 294 9800",
         "emb_address": "Al-Wataniah Towers building, 2nd floor, Al-Bireh Municipality Street, Ramallah District",
-        "addresses": [
-            "Al-Wataniah Towers building, 2nd floor, Al-Bireh Municipality Street, Ramallah District"
-        ]
+        "consulates": []
     },
     {
         "country": "Panama",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/colombia/bogota/",
-        "tels": [
-            "+57 601 657 6060",
-            "+507 264 6633"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/colombia/bogota/",
+        "emb_tel": "+57 601 657 6060",
         "emb_address": "Oficina 1605, Edificio Tierra Firme, Bogotá DC, Colombia, Ak 9 #115-30",
-        "addresses": [
-            "Oficina 1605, Edificio Tierra Firme, Bogotá DC, Colombia, Ak 9 #115-30",
-            "Dr Juan Carlos Rosas, Via Espana 122, Torre Delta, 14th Floor, P.O. Box 0834-01774, Panama City, Republic of Panama"
-        ]
+        "consulates": []
     },
     {
         "country": "Papua New Guinea",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/australia/canberra/",
-        "tels": [
-            "+61 2 62140000"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/australia/canberra/",
+        "emb_tel": "+61 2 62140000",
         "emb_address": "20 Arkana Street, Yarralumla, ACT 2600, Canberra",
-        "addresses": [
-            "20 Arkana Street, Yarralumla, ACT 2600, Canberra"
-        ]
+        "consulates": []
     },
     {
         "country": "Paraguay",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/argentina/buenosaires/",
-        "tels": [
-            "+54 (11) 4808-5700",
-            "+595 992444009",
-            "Alt tel: +595 984690007"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/argentina/buenosaires/",
+        "emb_tel": "+54 (11) 4808-5700",
         "emb_address": "Edificio Bluesky, 6th Floor, Avenida del Libertador 1068, Recoleta, Buenos Aires",
-        "addresses": [
-            "Edificio Bluesky, 6th Floor, Avenida del Libertador 1068, Recoleta, Buenos Aires",
-            "Conor McEnroy, Plaza Center Santa Teresa, 6th Floor, 2351 Avenida Aviadores del Chaco, Asunción 1771, Paraguay"
-        ]
-    },
-    {
-        "country": "Partnership for Peace Delegation",
-        "has_emb": true,
-        "ambassador": null,
-        "website": null,
-        "tels": [
-            "+32 02-707-2693"
-        ],
-        "emb_address": "Boulevard Leopold III, 1110 Brussels, Belgium",
-        "addresses": [
-            "Boulevard Leopold III, 1110 Brussels, Belgium"
-        ]
-    },
-    {
-        "country": "Permanent Representation of Ireland to the Council of Europe",
-        "has_emb": true,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": "11 boulevard du Président Edwards, 67000 Strasbourg, France",
-        "addresses": [
-            "11 boulevard du Président Edwards, 67000 Strasbourg, France"
-        ]
-    },
-    {
-        "country": "Permanent Representation of Ireland to the OECD and UNESCO",
-        "has_emb": true,
-        "ambassador": null,
-        "website": null,
-        "tels": [
-            "+33 1 44 17 67 50"
-        ],
-        "emb_address": "12 Avenue Foch, 75116 Paris, France",
-        "addresses": [
-            "12 Avenue Foch, 75116 Paris, France"
-        ]
-    },
-    {
-        "country": "Permanent Representation of Ireland to the OSCE",
-        "has_emb": true,
-        "ambassador": null,
-        "website": null,
-        "tels": [
-            "+43 1 715 76 9826"
-        ],
-        "emb_address": "Rotenturmstrasse 16-18, 5th Floor, 1010 Vienna, Austria",
-        "addresses": [
-            "Rotenturmstrasse 16-18, 5th Floor, 1010 Vienna, Austria"
-        ]
-    },
-    {
-        "country": "Permanent Representation of Ireland to the European Union",
-        "has_emb": true,
-        "ambassador": null,
-        "website": null,
-        "tels": [
-            "+32 2 282 32 00"
-        ],
-        "emb_address": "Rue Froissart 50, 1040 Brussels, Belgium",
-        "addresses": [
-            "Rue Froissart 50, 1040 Brussels, Belgium"
-        ]
-    },
-    {
-        "country": "Permanent Mission of Ireland to the United Nations and other International Organisations at Geneva",
-        "has_emb": true,
-        "ambassador": null,
-        "website": null,
-        "tels": [
-            "+41 22 919 1950"
-        ],
-        "emb_address": "Rue de Moillebeau 58, Case Postale 339, 1209 Geneva 19, Switzerland",
-        "addresses": [
-            "Rue de Moillebeau 58, Case Postale 339, 1209 Geneva 19, Switzerland"
-        ]
-    },
-    {
-        "country": "Permanent Mission of Ireland to the United Nations, New York",
-        "has_emb": true,
-        "ambassador": null,
-        "website": null,
-        "tels": [
-            "+1 (212)421-6934"
-        ],
-        "emb_address": "885 Second Avenue, 21st Floor, (between 47th & 48th st.), NY 10017, USA",
-        "addresses": [
-            "885 Second Avenue, 21st Floor, (between 47th & 48th st.), NY 10017, USA"
-        ]
+        "consulates": []
     },
     {
         "country": "Peru",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/chile/santiago/",
-        "tels": [
-            "+56 233 04 6600",
-            "+511 222 5252"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/chile/santiago/",
+        "emb_tel": "+56 233 04 6600",
         "emb_address": "Avenida Apoquindo 2929, Piso 18, Las Condes",
-        "addresses": [
-            "Avenida Apoquindo 2929, Piso 18, Las Condes",
-            "Mr. Eduardo Benavides Torres, Estudio Berninzon & Benavides Abogados, Av. Camino Real 390, Torre Central, Oficina 801, Centro Camino Real, San Isidro, Lima 27, Peru"
-        ]
+        "consulates": []
     },
     {
         "country": "Philippines",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/philippines/manila/",
-        "tels": [
-            "+632 8859 5140"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/philippines/manila/",
+        "emb_tel": "+632 8859 5140",
         "emb_address": "30/F Tower 2, RCBC Plaza, 6819 Ayala Avenue, Makati City, 1200, Philippines",
-        "addresses": [
-            "30/F Tower 2, RCBC Plaza, 6819 Ayala Avenue, Makati City, 1200, Philippines"
-        ]
+        "consulates": []
     },
     {
         "country": "Pitcairn Island",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Poland",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/poland/warsaw/",
-        "tels": [
-            "+48 22 564 2200",
-            "+48 501 432 144"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/poland/warsaw/",
+        "emb_tel": "+48 22 564 2200",
         "emb_address": "ul. Mysia 5, 6th Floor, 00-496 Warsaw, Poland",
-        "addresses": [
-            "ul. Mysia 5, 6th Floor, 00-496 Warsaw, Poland",
-            "Pan Artur Sikora, ul. Fredry 7, lok. 48 (Masztalarnia), 61-701 Poznań, Poland"
-        ]
+        "consulates": []
     },
     {
         "country": "Polynesia (French)",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/france/paris/",
-        "tels": [
-            "+33 1 44 17 67 00"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/france/paris/",
+        "emb_tel": "+33 1 44 17 67 00",
         "emb_address": "12 avenue Foch, (entrance 4 rue Rude), 75116 Paris, France",
-        "addresses": [
-            "12 avenue Foch, (entrance 4 rue Rude), 75116 Paris, France"
-        ]
+        "consulates": []
     },
     {
         "country": "Portugal",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/portugal/lisbon/",
-        "tels": [
-            "+351 213308200"
-        ],
-        "emb_address": "Avenida da Liberdade, Nr. 200, 4th floor, Lisbon, 1250-147",
-        "addresses": [
-            "Avenida da Liberdade, Nr. 200, 4th floor, Lisbon, 1250-147"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/portugal/lisbon/",
+        "emb_tel": "+351 213308200",
+        "emb_address": "Avenida da Liberdade,, Nr. 200, 4th floor,, Lisbon, 1250-147",
+        "consulates": []
     },
     {
         "country": "Puerto Rico",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/usa/washington/",
-        "tels": [
-            "+1 202 462 3939"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/usa/washington/",
+        "emb_tel": "+1 202 462 3939",
         "emb_address": "2234 Massachusetts Ave, NW Washington DC 20008, USA",
-        "addresses": [
-            "2234 Massachusetts Ave, NW Washington DC 20008, USA"
-        ]
+        "consulates": []
     },
     {
         "country": "Qatar",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/uae/abudhabi/",
-        "tels": [
-            "+971 2 4958200"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/uae/abudhabi/",
+        "emb_tel": "+971 2 4958200",
         "emb_address": "Atiq Bin Majid Al Muhairi Street, Al Bateen, P.O. Box 61581, Abu Dhabi, United Arab Emirates",
-        "addresses": [
-            "Atiq Bin Majid Al Muhairi Street, Al Bateen, P.O. Box 61581, Abu Dhabi, United Arab Emirates"
-        ]
+        "consulates": []
     },
     {
         "country": "Reunion (French)",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/france/paris/",
-        "tels": [
-            "+33 1 44 17 67 00"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/france/paris/",
+        "emb_tel": "+33 1 44 17 67 00",
         "emb_address": "12 avenue Foch, (entrance 4 rue Rude), 75116 Paris, France",
-        "addresses": [
-            "12 avenue Foch, (entrance 4 rue Rude), 75116 Paris, France"
-        ]
+        "consulates": []
     },
     {
         "country": "Romania",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/romania/bucharest/",
-        "tels": [
-            "+40 758611959",
-            "+373 22 80 7145"
-        ],
-        "emb_address": "Bulevardul Iuliu Maniu 6L, București 061072, Bucharest, Romania",
-        "addresses": [
-            "Bulevardul Iuliu Maniu 6L, București 061072, Bucharest, Romania",
-            "S-P O'Mahony, Strada Septimiu Albini 115, Cluj-Napoca 400457, Romania",
-            "Eoghain O’Byrne, Strada Aurel Vlaicu 4A, Sânmartin 417495, Romania",
-            "Dr. Suzanne O'Connell, Skytower, Office 1A, 5th Floor, Vlaicu Pircalab Str. 63, Chisinau, MD-2012  Republ"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/romania/bucharest/",
+        "emb_tel": "+40 758611959",
+        "emb_address": "Bulevardul Iuliu Maniu 6L,, București 061072,, Bucharest, Romania",
+        "consulates": []
     },
     {
         "country": "Russian Federation",
         "has_emb": true,
-        "ambassador": null,
-        "website": null,
-        "tels": [
-            "+7 4959375911"
-        ],
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "+7 4959375911",
         "emb_address": "Grokholski Pereulok 5, Moscow 129090, Russia",
-        "addresses": [
-            "Grokholski Pereulok 5, Moscow 129090, Russia"
-        ]
+        "consulates": []
     },
     {
         "country": "Rwanda",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/uganda/kampala/",
-        "tels": [
-            "+256 417-713000"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/uganda/kampala/",
+        "emb_tel": "+256 417-713000",
         "emb_address": "Post Office Box 7791, Plot 25, Yusuf Lule Road, Nakasero, Kampala",
-        "addresses": [
-            "Post Office Box 7791, Plot 25, Yusuf Lule Road, Nakasero, Kampala"
-        ]
+        "consulates": []
     },
     {
         "country": "S. Georgia and the S. Sandwich Islands",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Saint Helena",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Saint Kitts and Nevis Anguilla",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/usa/washington/",
-        "tels": [
-            "+1 202 462 3939"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/usa/washington/",
+        "emb_tel": "+1 202 462 3939",
         "emb_address": "2234 Massachusetts Ave, NW Washington DC 20008, USA",
-        "addresses": [
-            "2234 Massachusetts Ave, NW Washington DC 20008, USA"
-        ]
+        "consulates": []
     },
     {
         "country": "Saint Pierre and Miquelon",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Saint Tome (Sao Tome) and Principe",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/nigeria/abuja/",
-        "tels": [
-            "+234 209 462 1080"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/nigeria/abuja/",
+        "emb_tel": "+234 209 462 1080",
         "emb_address": "11 Negro Crescent, Maitama District, Abuja, Nigeria",
-        "addresses": [
-            "11 Negro Crescent, Maitama District, Abuja, Nigeria"
-        ]
+        "consulates": []
     },
     {
         "country": "Saint Vincent and Grenadines",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/usa/washington/",
-        "tels": [
-            "+1 202 462 3939"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/usa/washington/",
+        "emb_tel": "+1 202 462 3939",
         "emb_address": "2234 Massachusetts Ave, NW Washington DC 20008, USA",
-        "addresses": [
-            "2234 Massachusetts Ave, NW Washington DC 20008, USA"
-        ]
+        "consulates": []
     },
     {
         "country": "Samoa",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "San Marino",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/italy/rome/",
-        "tels": [],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/italy/rome/",
+        "emb_tel": "",
         "emb_address": "Villa Spada, Via Giacomo Medici 1, Roma 00153, Italy",
-        "addresses": [
-            "Villa Spada, Via Giacomo Medici 1, Roma 00153, Italy"
-        ]
+        "consulates": []
     },
     {
         "country": "Saudi Arabia",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/saudiarabia/riyadh/",
-        "tels": [
-            "+966 11 407 1530"
-        ],
-        "emb_address": "P.O. Box 94349, Plot No. 3114, Al Idrisi, Assafarat District, Riyadh 12513, Kingdom of Saudi Arabia",
-        "addresses": [
-            "P.O. Box 94349, Plot No. 3114, Al Idrisi, Assafarat District, Riyadh 12513, Kingdom of Saudi Arabia",
-            "P.O. Box 94349, Riyadh 11693, Saudi Arabia"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/saudiarabia/riyadh/",
+        "emb_tel": "+966 11 407 1530",
+        "emb_address": "P.O. Box 94349,, Plot No. 3114, Al Idrisi,, Assafarat District, Riyadh 12513,, Kingdom of Saudi Arabia",
+        "consulates": []
     },
     {
         "country": "Senegal",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/nigeria/abuja/",
-        "tels": [
-            "+221 338 205 003",
-            "+234 209 462 1080"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/nigeria/abuja/",
+        "emb_tel": "+221 338 205 003",
         "emb_address": "1er Étage, Villa Venus, Rue du Portugal, Avenue des Ambassadeurs, B.P. 281 Dakar, Senegal",
-        "addresses": [
-            "1er Étage, Villa Venus, Rue du Portugal, Avenue des Ambassadeurs, B.P. 281 Dakar, Senegal",
-            "11 Negro Crescent, Maitama District, Abuja, Nigeria"
-        ]
+        "consulates": []
     },
     {
         "country": "Serbia",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/greece/athens/",
-        "tels": [
-            "+30 210 723 2771",
-            "+38 111 263 7667"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/greece/athens/",
+        "emb_tel": "+30 210 723 2771",
         "emb_address": "7 Leoforos Vasileos Konstantinou, 106 74, Athens, Greece",
-        "addresses": [
-            "7 Leoforos Vasileos Konstantinou, 106 74, Athens, Greece",
-            "Ann Pesic, Kosancicev venac 2/1, 11000 Belgrade, Serbia"
-        ]
+        "consulates": []
     },
     {
         "country": "Seychelles",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/tanzania/daressalaam/",
-        "tels": [],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/tanzania/daressalaam/",
+        "emb_tel": "",
         "emb_address": "353 Touré Drive, Masaki, Dar es Salaam, Tanzania",
-        "addresses": [
-            "353 Touré Drive, Masaki, Dar es Salaam, Tanzania"
-        ]
+        "consulates": []
     },
     {
         "country": "Sierra Leone",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/sierraleone/freetown/",
-        "tels": [
-            "+232 79 250628"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/sierraleone/freetown/",
+        "emb_tel": "+232 79 250628",
         "emb_address": "8 St. Joseph’s Avenue, Off Spur Road, Freetown, Sierra Leone",
-        "addresses": [
-            "8 St. Joseph’s Avenue, Off Spur Road, Freetown, Sierra Leone"
-        ]
+        "consulates": []
     },
     {
         "country": "Singapore",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/singapore/embassy/",
-        "tels": [
-            "+65 6238 7616"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/singapore/embassy/",
+        "emb_tel": "+65 6238 7616",
         "emb_address": "541 Orchard Road, Liat Towers, 8th Floor, Singapore 238881",
-        "addresses": [
-            "541 Orchard Road, Liat Towers, 8th Floor, Singapore 238881"
-        ]
+        "consulates": []
     },
     {
         "country": "Sint Maarten",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/thenetherlands/thehague/",
-        "tels": [
-            "+31 (0)70 363 0993"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/thenetherlands/thehague/",
+        "emb_tel": "+31 (0)70 363 0993",
         "emb_address": "Scheveningseweg 112, 2584 AE The Hague, The Netherlands",
-        "addresses": [
-            "Scheveningseweg 112, 2584 AE The Hague, The Netherlands"
-        ]
+        "consulates": []
     },
     {
         "country": "Slovak Republic",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/slovak-republic/bratislava/",
-        "tels": [
-            "+421 3233 8700"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/slovak-republic/bratislava/",
+        "emb_tel": "+421 3233 8700",
         "emb_address": "Mostová 2, 811 02 Bratislava, Slovak Republic",
-        "addresses": [
-            "Mostová 2, 811 02 Bratislava, Slovak Republic"
-        ]
+        "consulates": []
     },
     {
         "country": "Slovenia",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/slovenia/ljubljana/",
-        "tels": [
-            "+386 1 300 8970"
-        ],
-        "emb_address": "Palača Kapitelj, 1st floor, Poljanski nasip 6, 1000 Ljubljana, Slovenia",
-        "addresses": [
-            "Palača Kapitelj, 1st floor, Poljanski nasip 6, 1000 Ljubljana, Slovenia"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/slovenia/ljubljana/",
+        "emb_tel": "+386 1 300 8970",
+        "emb_address": "Palača Kapitelj, 1st floor,, Poljanski nasip 6, 1000 Ljubljana, Slovenia",
+        "consulates": []
     },
     {
         "country": "Solomon Islands",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/australia/canberra/",
-        "tels": [
-            "+61 2 62140000"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/australia/canberra/",
+        "emb_tel": "+61 2 62140000",
         "emb_address": "20 Arkana Street, Yarralumla, ACT 2600, Canberra",
-        "addresses": [
-            "20 Arkana Street, Yarralumla, ACT 2600, Canberra"
-        ]
+        "consulates": []
     },
     {
         "country": "Somalia",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/kenya/nairobi/",
-        "tels": [
-            "+254 020 513 5300"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/kenya/nairobi/",
+        "emb_tel": "+254 020 513 5300",
         "emb_address": "4th Floor, Delta Office Suites, Manyani Road, off Waiyaki Way, PO Box 30659-00100, Nairobi",
-        "addresses": [
-            "4th Floor, Delta Office Suites, Manyani Road, off Waiyaki Way, PO Box 30659-00100, Nairobi"
-        ]
+        "consulates": []
     },
     {
         "country": "South Africa",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/southafrica/pretoria/",
-        "tels": [
-            "+27 12 452 1000",
-            "+267 3905807",
-            "+266 223 24182"
-        ],
-        "emb_address": "2nd Floor, Building A, OMK House, 238 Florence Ribeiro Avenue, Nieuw Muckleneuk, Pretoria, South Africa, 0181",
-        "addresses": [
-            "2nd Floor, Building A, OMK House, 238 Florence Ribeiro Avenue, Nieuw Muckleneuk, Pretoria, South Africa, 0181",
-            "Paul Sullivan, Plot 50, Section 1, Gaborone International Commerce Park, PO Box 502555, Gaborone, Botswana",
-            "Ms. Mannete Malethole Ramaili, Cathedral Area, Main South 1 Road, P.O. Box 7159, Maseru 100, Lesotho"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/southafrica/pretoria/",
+        "emb_tel": "+27 12 452 1000",
+        "emb_address": "2nd Floor, Building A, OMK House,, 238 Florence Ribeiro Avenue, Nieuw Muckleneuk,, Pretoria,, South Africa, 0181",
+        "consulates": []
     },
     {
         "country": "South Sudan",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/ethiopia/addisababa/",
-        "tels": [
-            "+251 11 518 0500"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/ethiopia/addisababa/",
+        "emb_tel": "+251 11 518 0500",
         "emb_address": "Guinea Conakry Street, Addis Ababa, Ethiopia",
-        "addresses": [
-            "Guinea Conakry Street, Addis Ababa, Ethiopia"
-        ]
+        "consulates": []
     },
     {
         "country": "Spain",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/spain/madrid/",
-        "tels": [
-            "+34 965 107 485",
-            "+34 932 553 383",
-            "+34 944 230 414",
-            "+34 981 351 480",
-            "+34 92 829 7728",
-            "+34 928 81 52 62",
-            "+34 971 719244",
-            "+34 954 690 689",
-            "+34 922 245 671"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/spain/madrid/",
+        "emb_tel": "+34 965 107 485",
         "emb_address": "Paseo de la Castellana 46-4, 28046, Madrid., Spain",
-        "addresses": [
-            "Paseo de la Castellana 46-4, 28046, Madrid., Spain",
-            "Mr. Rory Byrne, Ctra. De Madrid Km 4, Mercalicante, 03007 Alicante, Spain",
-            "Ms. Susana Ferrer, Avda. Diagonal 640, Planta 8 D, 08017 Barcelona, Spain",
-            "Mr. Rocco Caira, Avda. Madariaga, 1 - 2º Dep. 10, 48014 Bilbao, Spain",
-            "Mr. Tomás Diáz del Rio, Anton Martin Shipping S.L., Calle Alta del Puerto, Edif. \"Los Sauces\", 15401 El Ferrol (La Coruna), Spain",
-            "Mr. Victor Auz Castro, C/ León y Castillo 195 1º der., 35004 Las Palmas de Gran Canaria, Spain",
-            "Ms. Eileen Izquierdo Lawlor, C/Ginés de Castro Alvarez 12, 3B, 35500 Arrecife, Lanzarote, Spain",
-            "Pedro Pablo Marrero Fuster, C/San Miguel, 68 A-7°/8°, 07002 Palma de Mallorca, Spain",
-            "Ignacio de la Oliva Agulló, Avenida de Jerez Nº 21, Edificio Bayort, 41013 – Sevilla, Spain",
-            "Mr. David Piqué Marzán, Calle Pedro Modesto Campos 8, Oficina 6, 38003, Santa Cruz de Tenerife, Canary Islands"
-        ]
+        "consulates": []
     },
     {
         "country": "Sri Lanka",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/india/newdelhi/",
-        "tels": [
-            "+91 11 4940 3200",
-            "+94 11 4523900",
-            "Alt tel: +94 773 936126"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/india/newdelhi/",
+        "emb_tel": "+91 11 4940 3200",
         "emb_address": "C17 Malcha Marg, Chanakyapuri, New Delhi 110 021, India",
-        "addresses": [
-            "C17 Malcha Marg, Chanakyapuri, New Delhi 110 021, India",
-            "Assistant: Ms. Nilima Ranaweerasinghe, PA to Managing Director (Pership), Ireland Consulate - Colombo"
-        ]
+        "consulates": []
     },
     {
         "country": "St Lucia",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/usa/washington/",
-        "tels": [
-            "+1 202 462 3939"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/usa/washington/",
+        "emb_tel": "+1 202 462 3939",
         "emb_address": "2234 Massachusetts Ave, NW Washington DC 20008, USA",
-        "addresses": [
-            "2234 Massachusetts Ave, NW Washington DC 20008, USA"
-        ]
+        "consulates": []
     },
     {
         "country": "Sudan",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/kenya/nairobi/",
-        "tels": [
-            "+254 020 513 5300"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/kenya/nairobi/",
+        "emb_tel": "+254 020 513 5300",
         "emb_address": "4th Floor, Delta Office Suites, Manyani Road, off Waiyaki Way, PO Box 30659-00100, Nairobi",
-        "addresses": [
-            "4th Floor, Delta Office Suites, Manyani Road, off Waiyaki Way, PO Box 30659-00100, Nairobi"
-        ]
+        "consulates": []
     },
     {
         "country": "Suriname",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/brazil/brasilia/",
-        "tels": [
-            "+55 61 3248 8800"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/brazil/brasilia/",
+        "emb_tel": "+55 61 3248 8800",
         "emb_address": "SHIS QL 12 conjunto 05 casa 09, Lago Sul, Brasília - DF, CEP 71630-255, Brazil",
-        "addresses": [
-            "SHIS QL 12 conjunto 05 casa 09, Lago Sul, Brasília - DF, CEP 71630-255, Brazil"
-        ]
+        "consulates": []
     },
     {
         "country": "Sweden",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/sweden/stockholm/",
-        "tels": [
-            "+46 (0) 8 54504040"
-        ],
-        "emb_address": "Visiting Address:, Hovslagargatan 5, 111 48 Stockholm, Sweden",
-        "addresses": [
-            "Visiting Address:, Hovslagargatan 5, 111 48 Stockholm, Sweden"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/sweden/stockholm/",
+        "emb_tel": "+46 (0) 8 54504040",
+        "emb_address": "Visiting Address:, Hovslagargatan 5,, 111 48 Stockholm,, Sweden",
+        "consulates": []
     },
     {
         "country": "Switzerland",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/switzerland/berne/",
-        "tels": [
-            "+41 31 350 03 80",
-            "+41 44 289 25 15",
-            "+41 22 919 1950"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/switzerland/berne/",
+        "emb_tel": "+41 31 350 03 80",
         "emb_address": "2nd floor Kirchenfeldstrasse 68, P.O. Box 262, CH-3000 Berne 6, Switzerland",
-        "addresses": [
-            "2nd floor Kirchenfeldstrasse 68, P.O. Box 262, CH-3000 Berne 6, Switzerland",
-            "Mr Stefan Studer, Honorary Consul of Ireland, Claridenstrasse 25, Postfach 2172, CH-8027 Zü",
-            "Rue de Moillebeau 58, Case Postale 339, 1209 Geneva 19, Switzerland"
-        ]
+        "consulates": []
     },
     {
         "country": "Syria",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/egypt/cairo/",
-        "tels": [
-            "+202 27287100",
-            "+963 11 334 2144"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/egypt/cairo/",
+        "emb_tel": "+202 27287100",
         "emb_address": "18 Hassan Sabry Street, 11561 Zamalek, Cairo, Egypt",
-        "addresses": [
-            "18 Hassan Sabry Street, 11561 Zamalek, Cairo, Egypt",
-            "Mr. Naji-Pierre Chaoui, P.O. Box 46, Damascus, Syria"
-        ]
+        "consulates": []
     },
     {
         "country": "Taiwan",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Tajikistan",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Tanzania",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/tanzania/daressalaam/",
-        "tels": [],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/tanzania/daressalaam/",
+        "emb_tel": "",
         "emb_address": "353 Touré Drive, Masaki, Dar es Salaam, Tanzania",
-        "addresses": [
-            "353 Touré Drive, Masaki, Dar es Salaam, Tanzania"
-        ]
+        "consulates": []
     },
     {
         "country": "Thailand",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/thailand/bangkok/",
-        "tels": [
-            "+66 2 016 1360"
-        ],
-        "emb_address": "208 Wireless Road 12th Floor, Unit 1201, Lumphini, Pathumwan, Bangkok 10330",
-        "addresses": [
-            "208 Wireless Road 12th Floor, Unit 1201, Lumphini, Pathumwan, Bangkok 10330",
-            "Annette Kunigagon, 3/1 Viengbua Road SOI 6, Tambon Chang Puak, Amphoe Muang Chiang Mai, 50300 Thailand"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/thailand/bangkok/",
+        "emb_tel": "+66 2 016 1360",
+        "emb_address": "208 Wireless Road 12th Floor,, Unit 1201, Lumphini, Pathumwan, Bangkok 10330",
+        "consulates": []
     },
     {
         "country": "Timor Leste (East Timor)",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/indonesia/jakarta/",
-        "tels": [
-            "+62 21 280 94300"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/indonesia/jakarta/",
+        "emb_tel": "+62 21 280 94300",
         "emb_address": "World Trade Centre 1, L-14, Jl. Jend. Sudirman Kav 29-31, Jakarta 12920",
-        "addresses": [
-            "World Trade Centre 1, L-14, Jl. Jend. Sudirman Kav 29-31, Jakarta 12920"
-        ]
+        "consulates": []
     },
     {
         "country": "Togo",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/nigeria/abuja/",
-        "tels": [
-            "+234 209 462 1080"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/nigeria/abuja/",
+        "emb_tel": "+234 209 462 1080",
         "emb_address": "11 Negro Crescent, Maitama District, Abuja, Nigeria",
-        "addresses": [
-            "11 Negro Crescent, Maitama District, Abuja, Nigeria"
-        ]
+        "consulates": []
     },
     {
         "country": "Tokelau",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Tonga",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Trinidad and Tobago",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Tunisia",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/morocco/rabat/",
-        "tels": [
-            "+212 530134083",
-            "+216 70 723288"
-        ],
-        "emb_address": "Rabat Mahaj Ryad Centre, Avenue Attine, Bâtiment 7, Hay Ryad, Rabat, Morocco",
-        "addresses": [
-            "Rabat Mahaj Ryad Centre, Avenue Attine, Bâtiment 7, Hay Ryad, Rabat, Morocco",
-            "Mr. Moncef Mzabi, Immeuble le Palace, A.0-1 Avenue Ennajah, Ain Zaghouan Nord"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/morocco/rabat/",
+        "emb_tel": "+212 530134083",
+        "emb_address": "Rabat Mahaj Ryad Centre,, Avenue Attine, Bâtiment 7,, Hay Ryad,, Rabat, Morocco",
+        "consulates": []
     },
     {
         "country": "Türkiye",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/turkiye/ankara/",
-        "tels": [
-            "+90 312 459 1000",
-            "+90 242 247 8945",
-            "+90 232 402 5353"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/turkiye/ankara/",
+        "emb_tel": "+90 312 459 1000",
         "emb_address": "Ugur Mumcu Caddesi No.88, MNG Binasi, A&B Blok, Kat 1, Gaziosmanpasa, Ankara 06700",
-        "addresses": [
-            "Ugur Mumcu Caddesi No.88, MNG Binasi, A&B Blok, Kat 1, Gaziosmanpasa, Ankara 06700",
-            "Mr. Mehmet Seçkin Arkan, Elmali Mah.Subasi Cad. 13. Sk., Balcilar Is Mrk.No:10/5, 07040 Muratpasa, Antalya",
-            "Mr Bulent Akgerman, Sheit Fethi Bey cad. No.55k., 18 Heris Tower Pasaport 35210, Izmir, Türkiye"
-        ]
+        "consulates": []
     },
     {
         "country": "Turkmenistan",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [
-            "+7 4959375911"
-        ],
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "+7 4959375911",
         "emb_address": "Grokholski Pereulok 5, Moscow 129090, Russia",
-        "addresses": [
-            "Grokholski Pereulok 5, Moscow 129090, Russia"
-        ]
+        "consulates": []
     },
     {
         "country": "Turks and Caicos Islands",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/usa/washington/",
-        "tels": [
-            "+1 202 462 3939"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/usa/washington/",
+        "emb_tel": "+1 202 462 3939",
         "emb_address": "2234 Massachusetts Ave, NW Washington DC 20008, USA",
-        "addresses": [
-            "2234 Massachusetts Ave, NW Washington DC 20008, USA"
-        ]
+        "consulates": []
     },
     {
         "country": "Tuvalu",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Uganda",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/uganda/kampala/",
-        "tels": [
-            "+256 417-713000"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/uganda/kampala/",
+        "emb_tel": "+256 417-713000",
         "emb_address": "Post Office Box 7791, Plot 25, Yusuf Lule Road, Nakasero, Kampala",
-        "addresses": [
-            "Post Office Box 7791, Plot 25, Yusuf Lule Road, Nakasero, Kampala"
-        ]
+        "consulates": []
     },
     {
         "country": "Ukraine",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/kyiv/",
-        "tels": [
-            "+380 67 448 0786"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/kyiv/",
+        "emb_tel": "+380 67 448 0786",
         "emb_address": "3rd floor, Volodymyrska Street 101, Kyiv 01033, Ukraine",
-        "addresses": [
-            "3rd floor, Volodymyrska Street 101, Kyiv 01033, Ukraine"
-        ]
+        "consulates": []
     },
     {
         "country": "United Arab Emirates",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/uae/abudhabi/",
-        "tels": [
-            "+971 2 4958200"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/uae/abudhabi/",
+        "emb_tel": "+971 2 4958200",
         "emb_address": "Atiq Bin Majid Al Muhairi Street, Al Bateen, P.O. Box 61581, Abu Dhabi, United Arab Emirates",
-        "addresses": [
-            "Atiq Bin Majid Al Muhairi Street, Al Bateen, P.O. Box 61581, Abu Dhabi, United Arab Emirates"
-        ]
+        "consulates": []
     },
     {
         "country": "United States of America",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/usa/washington/",
-        "tels": [
-            "+1 202 462 3939",
-            "+1 404 554 4980",
-            "+1 512 792 5500",
-            "+1 617 267 9330",
-            "+1 312 337 2700",
-            "+1 310 279 5380",
-            "+305 913 1326",
-            "+1 212 319 2555",
-            "+1 415 392 4214",
-            "+1 (212)421-6934",
-            "+1 619 291 1630",
-            "+1 303 623 9000",
-            "+1 302 388 5460",
-            "+1 (504) 482-8983",
-            "+314 727 1000",
-            "+1440 263 4559",
-            "+1 704 529 1428",
-            "+1 412 708 2184",
-            "+1 843 720 2044"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/usa/washington/",
+        "emb_tel": "+1 202 462 3939",
         "emb_address": "2234 Massachusetts Ave, NW Washington DC 20008, USA",
-        "addresses": [
-            "2234 Massachusetts Ave, NW Washington DC 20008, USA",
-            "Monarch Plaza, 3414 Peachtree Road, Suite 260, Atlanta, GA 30326, USA",
-            "515 Congress Avenue - Suite 1720, Austin, Texas 78701, USA",
-            "535 Boylston Street, Floor 5, Boston, MA 02116, USA",
-            "1 East Wacker Drive, Suite 1820, Chicago, IL 60601, USA",
-            "Suite 1440, 6300 Wilshire Boulevard, Los Angeles, CA 90048, USA",
-            "201 Biscayne Blvd, 28th Floor, Miami, FL 33131, USA",
-            "345 Park Avenue, 17th Floor, New York NY 10154-0037, USA",
-            "One Post Street, Suite 2300, San Francisco, CA 94104, USA",
-            "885 Second Avenue, 21st Floor, (between 47th & 48th st.), NY 10017, USA",
-            "Patrick O'Toole, Irish Outreach Center, 2725 Congress Street, No. 2G, San Diego, CA 92110, USA",
-            "James M Lyons, 1601 19th Street, Suite 1000, Denver, CO, 80202",
-            "Brian McGlinchey, The Station, 110 South French Street, Wilmington, DE 19801, USA",
-            "Judge James F. McKay III, 5190 Canal Blvd., St. 200, New Orleans, Louisiana 70124",
-            "Maureen A. McGlynn, 1015 Locust Street, Suite 710, Saint Louis, MO 63101",
-            "Mark Owens, 1422 Euclid Ave #1652, Cleveland, OH 44115",
-            "Robert John Young, 5925 Carnegie Boulevard, Suite 350, Charlotte, North Carolina 28209",
-            "James J. Lamb, 1601 Marys Avenue, Pittsburgh, PA 15215, USA",
-            "Brian Duffy, Duffy & Young LLC, 96 Broad Street, Charleston SC 29401, USA"
-        ]
+        "consulates": []
     },
     {
         "country": "Uruguay",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/argentina/buenosaires/",
-        "tels": [
-            "+54 (11) 4808-5700"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/argentina/buenosaires/",
+        "emb_tel": "+54 (11) 4808-5700",
         "emb_address": "Edificio Bluesky, 6th Floor, Avenida del Libertador 1068, Recoleta, Buenos Aires",
-        "addresses": [
-            "Edificio Bluesky, 6th Floor, Avenida del Libertador 1068, Recoleta, Buenos Aires"
-        ]
+        "consulates": []
     },
     {
         "country": "USA Minor Outlaying Islands",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/usa/washington/",
-        "tels": [
-            "+1 202 462 3939"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/usa/washington/",
+        "emb_tel": "+1 202 462 3939",
         "emb_address": "2234 Massachusetts Ave, NW Washington DC 20008, USA",
-        "addresses": [
-            "2234 Massachusetts Ave, NW Washington DC 20008, USA"
-        ]
+        "consulates": []
     },
     {
         "country": "Uzbekistan",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [
-            "+7 4959375911"
-        ],
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "+7 4959375911",
         "emb_address": "Grokholski Pereulok 5, Moscow 129090, Russia",
-        "addresses": [
-            "Grokholski Pereulok 5, Moscow 129090, Russia"
-        ]
+        "consulates": []
     },
     {
         "country": "Vanuatu",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Venezuela",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/colombia/bogota/",
-        "tels": [
-            "+57 601 657 6060"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/colombia/bogota/",
+        "emb_tel": "+57 601 657 6060",
         "emb_address": "Oficina 1605, Edificio Tierra Firme, Bogotá DC, Colombia, Ak 9 #115-30",
-        "addresses": [
-            "Oficina 1605, Edificio Tierra Firme, Bogotá DC, Colombia, Ak 9 #115-30"
-        ]
+        "consulates": []
     },
     {
         "country": "Vietnam",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/vietnam/hanoi/",
-        "tels": [
-            "+84 24 3974 3291"
-        ],
-        "emb_address": "2nd floor, 41A Ly Thai To, Hoan Kiem District, Hanoi, Vietnam",
-        "addresses": [
-            "2nd floor, 41A Ly Thai To, Hoan Kiem District, Hanoi, Vietnam"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/vietnam/hanoi/",
+        "emb_tel": "+84 24 3974 3291",
+        "emb_address": "2nd floor,, 41A Ly Thai To, Hoan Kiem District, Hanoi, Vietnam",
+        "consulates": []
     },
     {
         "country": "Virgin Islands (British)",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/usa/washington/",
-        "tels": [
-            "+1 202 462 3939"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/usa/washington/",
+        "emb_tel": "+1 202 462 3939",
         "emb_address": "2234 Massachusetts Ave, NW Washington DC 20008, USA",
-        "addresses": [
-            "2234 Massachusetts Ave, NW Washington DC 20008, USA"
-        ]
+        "consulates": []
     },
     {
         "country": "Virgin Islands (USA)",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/usa/washington/",
-        "tels": [
-            "+1 202 462 3939"
-        ],
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/usa/washington/",
+        "emb_tel": "+1 202 462 3939",
         "emb_address": "2234 Massachusetts Ave, NW Washington DC 20008, USA",
-        "addresses": [
-            "2234 Massachusetts Ave, NW Washington DC 20008, USA"
-        ]
+        "consulates": []
     },
     {
         "country": "Wallis and Futuna Islands",
         "has_emb": false,
-        "ambassador": null,
-        "website": null,
-        "tels": [],
-        "emb_address": null,
-        "addresses": []
+        "ambassador": "",
+        "emb_website": "",
+        "emb_tel": "",
+        "emb_address": "",
+        "consulates": []
     },
     {
         "country": "Yemen",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/saudiarabia/riyadh/",
-        "tels": [
-            "+966 11 407 1530"
-        ],
-        "emb_address": "P.O. Box 94349, Plot No. 3114, Al Idrisi, Assafarat District, Riyadh 12513, Kingdom of Saudi Arabia",
-        "addresses": [
-            "P.O. Box 94349, Plot No. 3114, Al Idrisi, Assafarat District, Riyadh 12513, Kingdom of Saudi Arabia",
-            "P.O. Box 94349, Riyadh 11693, Saudi Arabia"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/saudiarabia/riyadh/",
+        "emb_tel": "+966 11 407 1530",
+        "emb_address": "P.O. Box 94349,, Plot No. 3114, Al Idrisi,, Assafarat District, Riyadh 12513,, Kingdom of Saudi Arabia",
+        "consulates": []
     },
     {
         "country": "Zambia",
         "has_emb": true,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/zambia/lusaka/",
-        "tels": [],
-        "emb_address": "6663 Katima Mulilo Rd, P.O. Box 34923, Lusaka 10101, Zambia",
-        "addresses": [
-            "6663 Katima Mulilo Rd, P.O. Box 34923, Lusaka 10101, Zambia"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/zambia/lusaka/",
+        "emb_tel": "",
+        "emb_address": "6663 Katima Mulilo Rd,, P.O. Box 34923,, Lusaka 10101,, Zambia",
+        "consulates": []
     },
     {
         "country": "Zimbabwe",
         "has_emb": false,
-        "ambassador": null,
-        "website": "https://www.ireland.ie/en/southafrica/pretoria/",
-        "tels": [
-            "+27 12 452 1000"
-        ],
-        "emb_address": "2nd Floor, Building A, OMK House, 238 Florence Ribeiro Avenue, Nieuw Muckleneuk, Pretoria, South Africa, 0181",
-        "addresses": [
-            "2nd Floor, Building A, OMK House, 238 Florence Ribeiro Avenue, Nieuw Muckleneuk, Pretoria, South Africa, 0181"
-        ]
+        "ambassador": "",
+        "emb_website": "https://www.ireland.ie/en/southafrica/pretoria/",
+        "emb_tel": "+27 12 452 1000",
+        "emb_address": "2nd Floor, Building A, OMK House,, 238 Florence Ribeiro Avenue, Nieuw Muckleneuk,, Pretoria,, South Africa, 0181",
+        "consulates": []
     }
 ]
