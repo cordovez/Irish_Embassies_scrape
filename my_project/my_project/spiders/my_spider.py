@@ -22,7 +22,38 @@ class MySpiderSpider(scrapy.Spider):
     ]
     custom_settings = {
         "OFFSITE_ENABLED": False,
+        'FEED_FORMAT': 'json',
+        'FEED_URI': 'embassies.json',
+        'FEED_EXPORT_INDENT': 4,
     }
+
+    def _get_address(self, item) -> str:
+        if addresses := item.css("address"):
+            first_address = addresses[0]
+            raw_address = first_address.css("address::text").getall()
+            return ", ".join(
+                [
+                    line.strip().replace(",, ", ",")
+                    for line in raw_address
+                    if line.strip().replace(",, ", ",")
+                ]
+            )
+        return ""
+
+    def _get_website(self, item, phrase: str) -> str:
+        if child := item.css(f'b:contains("{phrase}")'):
+            return f"https://www.ireland.ie{child.xpath("./parent::a/@href").get()}"
+        elif child := item.css('a:contains("Representation website")'):
+            return f"https://www.ireland.ie{child.xpath("./@href").get()}"
+
+        return ""
+
+    def _get_tel(self, item) -> str:
+        if item.css('a[aria-label="Telephone"]::text').get():
+            raw_tel = item.css('a[aria-label="Telephone"]::text').get()
+            return raw_tel.replace("Tel: ", "")
+        else:
+            return ""
 
     def _get_countries(self, divs):
         countries = []
@@ -36,45 +67,19 @@ class MySpiderSpider(scrapy.Spider):
 
         return countries
 
-    def _populate_country(self, item) -> dict[str:str]:
+    def _populate_country(self, item) -> dict:
         def _assign_emb(item) -> bool:
             return not item.css('div.rich-text p:contains("We do not have an Embassy")')
 
-        def _get_website(item) -> str:
-            child = item.css('b:contains("Embassy Website")')
-            if child:
-                return f"https://www.ireland.ie{child.xpath('./parent::a/@href').get()}"
-            return ""
-
-        def _get_tel(item) -> str:
-            if item.css('a[aria-label="Telephone"]::text').get():
-                raw_tel = item.css('a[aria-label="Telephone"]::text').get()
-                return raw_tel.replace("Tel: ", "")
-            else:
-                return ""
-
-        def _get_embassy_address(item) -> str:
-            addresses = item.css("address")
-            if addresses:
-                first_address = addresses[0]
-                raw_address = first_address.css("address::text").getall()
-                return ", ".join(
-                    [
-                        line.strip().replace(",, ", ",")
-                        for line in raw_address
-                        if line.strip().replace(",, ", ",")
-                    ]
-                )
-            return ""
-
         return {
-            "country": item.css("::attr(id)").get(),
+            "type": "country",
+            "country_name": item.css("::attr(id)").get(),
             "has_emb": _assign_emb(item),
             "ambassador": "",
-            "emb_website": _get_website(item),
-            "emb_tel": _get_tel(item),
-            "emb_address": _get_embassy_address(item),
-            "consulates": [],
+            "emb_address": self._get_address(item),
+            "emb_tel": self._get_tel(item),
+            "emb_website": self._get_website(item, "Embassy Website"),
+            "consulates": self._get_consulates(item),
         }
 
     def _get_missions(self, divs):
@@ -84,12 +89,32 @@ class MySpiderSpider(scrapy.Spider):
             if "Permanent Mission" in mission.css("::attr(id)").get()
         ]
 
+    def _populate_mission(self, item) -> dict[str:str]:
+        return {
+            "type": "mission",
+            "mission_name": item.css("h3::text").get(),
+            "ambassador": "",
+            "emb_address": self._get_address(item),
+            "emb_tel": self._get_tel(item),
+            "emb_website": self._get_website(item, "Mission Website"),
+        }
+
     def _get_perm_reps(self, divs):
         return [
             perm_rep
             for perm_rep in divs
             if "Permanent Representation" in perm_rep.css("::attr(id)").get()
         ]
+
+    def _populate_perm_reps(self, item):
+        return {
+            "type": "permanent representation",
+            "perm_rep_name": item.css("h3::text").get(),
+            "ambassador": "",
+            "perm_rep_address": self._get_address(item),
+            "perm_rep_tel": self._get_tel(item),
+            "perm_rep_website": self._get_website(item, "Representation Website"),
+        }
 
     def _get_partnerships(self, divs):
         return [
@@ -98,53 +123,77 @@ class MySpiderSpider(scrapy.Spider):
             if "Partnership" in partner.css("::attr(id)").get()
         ]
 
-    def _get_consulates(self, item) -> list:
-        pass
+    def _populate_partnerships(self, item):
+        return {
+            "type": "partnership",
+            "partnership_name": item.css("span.embassy_accordion__title::text")
+            .get()
+            .strip(),
+            "partnership_address": self._get_address(item),
+            "partnership_tel": self._get_tel(item),
+            "partnership_website": item.css("div.rich-text a::attr(href)").get(),
+        }
+
+    def _get_consulates(self, country) -> list:
+        consulates = []
+        child_divs = country.css('h3:contains("Consulate General of Ireland,")')
+        for parent in child_divs:
+            consulate = parent.xpath('./ancestor::div[1]')
+            consulates.append({
+                "consulate_name": consulate.css('h3::text').get(),
+                "consulate_address": self._get_address(consulate),
+                "consulate_tel": self._get_tel(consulate),
+                "consulate_website": self._get_website(consulate, "Consulate Website"),
+            })
+        return consulates
+        
 
     def parse(self, response):
+        # sourcery skip: inline-immediately-yielded-variable
 
         accordions = response.css("div.accordion")
         countries = self._get_countries(accordions)
-        # perm_reps = self._get_perm_reps(accordions)
-        # missions = self._get_missions(accordions)
-        # partners = self._get_partnerships(accordions)
+        missions = self._get_missions(accordions)
+        perm_reps = self._get_perm_reps(accordions)
+        partners = self._get_partnerships(accordions)
 
         for country in countries:
             country_data = self._populate_country(country)
+            if country_data['emb_website']:
+                request = scrapy.Request(
+                    country_data['emb_website'],
+                    callback=self.parse_embassy_website,
+                    cb_kwargs={'country_data': country_data}
+                )
+                yield request
+            else:
+                yield country_data
+        
+        # for country in countries:
+        #     yield self._populate_country(country)
 
-            yield country_data
+        for mission in missions:
+            yield self._populate_mission(mission)
 
+        for rep in perm_reps:
+            rep_data = self._populate_perm_reps(rep)
+            if rep_data["perm_rep_website"]:
+                request = scrapy.Request(
+                    rep_data["perm_rep_website"],
+                    callback=self.parse_embassy_website,
+                    cb_kwargs={'country_data': rep_data}
+                )
+                yield request
+            else:
+                yield rep_data
+                
+        # for rep in perm_reps:
+        #     yield self._populate_perm_reps(rep)
 
-# def parse_embassy(self, response):
-#     ambassador_name = response.css("div.story__image_margin h3::text").get()
+        for partner in partners:
+            yield self._populate_partnerships(partner)
 
-
-#     self.logger.debug(
-#         f"Parsing embassy details for {response.meta["country"]}: Ambassador: {ambassador_name}, Website: {response.meta["emb_website"]}"
-#     )
-
-#     yield {
-#         "country": response.meta["country"],
-#         "has_emb": response.meta["has_emb"],
-#         "emb_website": response.meta["emb_website"],
-#         "tels": response.meta["emb_tels"],
-#         "emb_address": response.meta["emb_address"],
-#         "emb_addresses": response.meta["emb_addresses"],
-#         "ambassador": ambassador_name,
-#     }
-# yield scrapy.Request(
-#     url,
-#     callback=self.parse_embassy,
-#     meta={
-#         "country": country,
-#         "has_emb": has_emb,
-#         "emb_website": emb_website,
-#         "emb_tels": emb_tels,
-#         "emb_address": emb_address,
-#         "emb_addresses": emb_addresses,
-#     },
-# )
-# else:
-#     self.logger.debug(
-#         f"Yielding data for {country} without further request"
-#     )
+    def parse_embassy_website(self, response, country_data):
+        ambassador_name = response.css('div.story__image_margin h3::text').get()
+        country_data['ambassador'] = ambassador_name
+        yield country_data
