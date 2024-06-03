@@ -41,7 +41,9 @@ class MySpiderSpider(scrapy.Spider):
         return ""
 
     def _get_website(self, item, phrase: str) -> str:
-        if child := item.css(f'b:contains("{phrase}")'):
+        if item.css('a:attr(href):contains("https://www.ireland.ie/en/")'):
+            return item.css('a:attr(href)').get()
+        elif child := item.css(f'b:contains("{phrase}")'):
             return f"https://www.ireland.ie{child.xpath("./parent::a/@href").get()}"
         elif child := item.css('a:contains("Representation website")'):
             return f"https://www.ireland.ie{child.xpath("./@href").get()}"
@@ -75,7 +77,7 @@ class MySpiderSpider(scrapy.Spider):
             "type": "country",
             "country_name": item.css("::attr(id)").get(),
             "has_emb": _assign_emb(item),
-            "ambassador": "",
+            "head_of_mission": "",
             "emb_address": self._get_address(item),
             "emb_tel": self._get_tel(item),
             "emb_website": self._get_website(item, "Embassy Website"),
@@ -93,7 +95,7 @@ class MySpiderSpider(scrapy.Spider):
         return {
             "type": "mission",
             "mission_name": item.css("h3::text").get(),
-            "ambassador": "",
+            "head_of_mission": "",
             "emb_address": self._get_address(item),
             "emb_tel": self._get_tel(item),
             "emb_website": self._get_website(item, "Mission Website"),
@@ -110,7 +112,7 @@ class MySpiderSpider(scrapy.Spider):
         return {
             "type": "permanent representation",
             "perm_rep_name": item.css("h3::text").get(),
-            "ambassador": "",
+            "head_of_mission": "",
             "perm_rep_address": self._get_address(item),
             "perm_rep_tel": self._get_tel(item),
             "perm_rep_website": self._get_website(item, "Representation Website"),
@@ -141,6 +143,7 @@ class MySpiderSpider(scrapy.Spider):
             consulate = parent.xpath('./ancestor::div[1]')
             consulates.append({
                 "consulate_name": consulate.css('h3::text').get(),
+                "head_of_mission": ""
                 "consulate_address": self._get_address(consulate),
                 "consulate_tel": self._get_tel(consulate),
                 "consulate_website": self._get_website(consulate, "Consulate Website"),
@@ -162,7 +165,7 @@ class MySpiderSpider(scrapy.Spider):
             if country_data['emb_website']:
                 request = scrapy.Request(
                     country_data['emb_website'],
-                    callback=self.parse_embassy_website,
+                    callback=self.parse_mission_website,
                     cb_kwargs={'country_data': country_data}
                 )
                 yield request
@@ -193,7 +196,11 @@ class MySpiderSpider(scrapy.Spider):
         for partner in partners:
             yield self._populate_partnerships(partner)
 
-    def parse_embassy_website(self, response, country_data):
-        ambassador_name = response.css('div.story__image_margin h3::text').get()
-        country_data['ambassador'] = ambassador_name
-        yield country_data
+    # def parse_embassy_website(self, response, country_data):
+    #     ambassador_name = response.css('div.story__image_margin h3::text').get()
+    #     country_data['ambassador'] = ambassador_name
+    #     yield country_data
+    def parse_mission_website(self, response, mission_data):
+        person = response.css('div.story__image_margin h3::text').get()
+        mission_data['head_of_mission'] = person
+        yield mission_data
