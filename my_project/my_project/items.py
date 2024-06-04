@@ -6,7 +6,17 @@
 import scrapy
 
 
-class MyProjectItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+class MissionInfos(scrapy.Item):
+    type_of = scrapy.Field()
+    name = scrapy.Field()
+    head_of_mission = scrapy.Field()
+    address = scrapy.Field()
+    tel = scrapy.Field()
+    website = scrapy.Field()
+
+
+class Country(scrapy.Item):
+    type_of = scrapy.Field()
+    name = scrapy.Field()
+    is_represented = scrapy.Field()
+    covered_by = scrapy.Field()
