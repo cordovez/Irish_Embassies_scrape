@@ -115,19 +115,64 @@ class MySpiderSpider(scrapy.Spider):
     def _get_consulates(self, embassies):
         consulates_divs = []
         city = ""
-        for embassy in embassies:
-            if embassy.css('h3:contains("Consulate General of Ireland, ")'):
-                phrase = embassy.css(
+
+        def get_city_ids(consulates: list) -> list:
+            ids = []
+            for consulate in consulates:
+                phrase = consulate.css(
                     'h3:contains("Consulate General of Ireland, ")::text'
                 ).get()
-                city = (
+
+                city_id = (
                     phrase.replace("Consulate General of Ireland, ", "")
                     .lower()
                     .replace(" ", "")
                 )
+                ids.append(city_id)
+            return ids
+
+        for embassy in embassies:
+            consulate_markers = embassy.css(
+                'h3:contains("Consulate General of Ireland, ")'
+            )
+
+            city_ids = get_city_ids(consulate_markers)
+
+            for city in city_ids:
                 consulates_divs.append(embassy.css(f"div[id = {city}]"))
 
+            # for consulate in consulates_divs:
+            #     consulates_divs.append(consulate)
+
+            # if embassy.css('h3:contains("Consulate General of Ireland, ")'):
+            #     phrase = embassy.css(
+            #         'h3:contains("Consulate General of Ireland, ")::text'
+            #     ).get()
+            #     city = (
+            #         phrase.replace("Consulate General of Ireland, ", "")
+            #         .lower()
+            #         .replace(" ", "")
+            #     )
+            #     consulates_divs.append(embassy.css(f"div[id = {city}]"))
+
         return consulates_divs
+
+    # def _get_consulates(self, embassies):
+    #     consulates_divs = []
+    #     city = ""
+    #     for embassy in embassies:
+    #         if embassy.css('h3:contains("Consulate General of Ireland, ")'):
+    #             phrase = embassy.css(
+    #                 'h3:contains("Consulate General of Ireland, ")::text'
+    #             ).get()
+    #             city = (
+    #                 phrase.replace("Consulate General of Ireland, ", "")
+    #                 .lower()
+    #                 .replace(" ", "")
+    #             )
+    #             consulates_divs.append(embassy.css(f"div[id = {city}]"))
+
+    #     return consulates_divs
 
     def _assign_emb(self, div):
         return not div.css('div.rich-text p:contains("We do not have an Embassy")')

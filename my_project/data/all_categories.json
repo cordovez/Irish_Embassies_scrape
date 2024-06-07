@@ -1389,11 +1389,59 @@
 },
 {
     "type_of": "embassy",
-    "name": "Estonia",
-    "head_of_mission": "James Sherry",
-    "address": "Rävala pst 5, 10143, Tallinn, Estonia",
-    "tel": "+372 (0)6 811 870",
-    "website": "https://www.ireland.ie/en/estonia/tallinn/"
+    "name": "Chile",
+    "head_of_mission": "Colum Hatchell",
+    "address": "Avenida Apoquindo 2929, Piso 18, Las Condes",
+    "tel": "+56 233 04 6600",
+    "website": "https://www.ireland.ie/en/chile/santiago/"
+},
+{
+    "type_of": "consulate",
+    "name": "newyork",
+    "head_of_mission": "Helena Nolan",
+    "address": "345 Park Avenue, 17th Floor, New York NY 10154-0037, USA",
+    "tel": "+1 212 319 2555",
+    "website": "https://www.ireland.ie/en/usa/newyork/"
+},
+{
+    "type_of": "consulate",
+    "name": "miami",
+    "head_of_mission": "Sarah Kavanagh",
+    "address": "201 Biscayne Blvd, 28th Floor, Miami, FL 33131, USA",
+    "tel": "+305 913 1326",
+    "website": "https://www.ireland.ie/en/usa/miami/"
+},
+{
+    "type_of": "consulate",
+    "name": "losangeles",
+    "head_of_mission": "Marcella Smyth",
+    "address": "Suite 1440, 6300 Wilshire Boulevard, Los Angeles, CA 90048, USA",
+    "tel": "+1 310 279 5380",
+    "website": "https://www.ireland.ie/en/usa/losangeles/"
+},
+{
+    "type_of": "consulate",
+    "name": "chicago",
+    "head_of_mission": "Kevin Byrne",
+    "address": "1 East Wacker Drive, Suite 1820, Chicago, IL 60601, USA",
+    "tel": "+1 312 337 2700",
+    "website": "https://www.ireland.ie/en/usa/chicago/"
+},
+{
+    "type_of": "consulate",
+    "name": "boston",
+    "head_of_mission": "Síghle FitzGerald",
+    "address": "535 Boylston Street, Floor 5, Boston, MA 02116, USA",
+    "tel": "+1 617 267 9330",
+    "website": "https://www.ireland.ie/en/usa/boston/"
+},
+{
+    "type_of": "consulate",
+    "name": "austin",
+    "head_of_mission": "Robert Hull",
+    "address": "515 Congress Avenue - Suite 1720, Austin, Texas 78701, USA",
+    "tel": "+1 512 792 5500",
+    "website": "https://www.ireland.ie/en/usa/austin/"
 },
 {
     "type_of": "consulate",
@@ -1429,11 +1477,27 @@
 },
 {
     "type_of": "consulate",
+    "name": "hongkong",
+    "head_of_mission": "Jennifer Bourke",
+    "address": "20/F, 33 Des Voeux Road, Central, Hong Kong",
+    "tel": "+852 2535 0700",
+    "website": "https://www.ireland.ie/en/china/hongkong/"
+},
+{
+    "type_of": "consulate",
     "name": "shanghai",
     "head_of_mission": "Wendy Dorman-Smith",
     "address": "Ireland House, Unit 903, JC Plaza, 1225 Nanjing Road West, Shanghai 200040, People's Republic of China",
     "tel": "+86 21 6010 1360",
     "website": "https://www.ireland.ie/en/china/shanghai/"
+},
+{
+    "type_of": "consulate",
+    "name": "vancouver",
+    "head_of_mission": "Cathy Geagan",
+    "address": "1300-1095 West Pender Street, Vancouver BC, V6E 2M6, Canada",
+    "tel": "+1 236 521 7300",
+    "website": "https://www.ireland.ie/en/canada/vancouver/"
 },
 {
     "type_of": "consulate",
@@ -1885,6 +1949,14 @@
 },
 {
     "type_of": "embassy",
+    "name": "Estonia",
+    "head_of_mission": "James Sherry",
+    "address": "Rävala pst 5, 10143, Tallinn, Estonia",
+    "tel": "+372 (0)6 811 870",
+    "website": "https://www.ireland.ie/en/estonia/tallinn/"
+},
+{
+    "type_of": "embassy",
     "name": "Egypt",
     "head_of_mission": "Nuala O'Brien",
     "address": "18 Hassan Sabry Street, 11561 Zamalek, Cairo, Egypt",
@@ -1938,14 +2010,6 @@
     "address": "3 Ritan Dong Lu, Chaoyang District, Beijing 100600, People's Republic of China",
     "tel": "+86 10 8531 6200",
     "website": "https://www.ireland.ie/en/china/beijing/"
-},
-{
-    "type_of": "embassy",
-    "name": "Chile",
-    "head_of_mission": "Colum Hatchell",
-    "address": "Avenida Apoquindo 2929, Piso 18, Las Condes",
-    "tel": "+56 233 04 6600",
-    "website": "https://www.ireland.ie/en/chile/santiago/"
 },
 {
     "type_of": "embassy",
