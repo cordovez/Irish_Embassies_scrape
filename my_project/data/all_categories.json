@@ -1,0 +1,2062 @@
+[
+{
+    "type_of": "country",
+    "name": "Afghanistan",
+    "is_represented": false,
+    "covered_by": "United Arab Emirates"
+},
+{
+    "type_of": "country",
+    "name": "Albania",
+    "is_represented": false,
+    "covered_by": "Greece"
+},
+{
+    "type_of": "country",
+    "name": "Algeria",
+    "is_represented": false,
+    "covered_by": "Switzerland"
+},
+{
+    "type_of": "country",
+    "name": "Andorra, Principality of",
+    "is_represented": false,
+    "covered_by": "Spain"
+},
+{
+    "type_of": "country",
+    "name": "Angola",
+    "is_represented": false,
+    "covered_by": "Portugal"
+},
+{
+    "type_of": "country",
+    "name": "Anguilla",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Antigua and Barbuda",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Argentina",
+    "is_represented": true,
+    "covered_by": "Argentina"
+},
+{
+    "type_of": "country",
+    "name": "Armenia",
+    "is_represented": false,
+    "covered_by": "Bulgaria"
+},
+{
+    "type_of": "country",
+    "name": "Aruba",
+    "is_represented": false,
+    "covered_by": "The Netherlands"
+},
+{
+    "type_of": "country",
+    "name": "Australia",
+    "is_represented": true,
+    "covered_by": "Australia"
+},
+{
+    "type_of": "country",
+    "name": "Austria",
+    "is_represented": true,
+    "covered_by": "Austria"
+},
+{
+    "type_of": "country",
+    "name": "Azerbaijan",
+    "is_represented": false,
+    "covered_by": "Türkiye"
+},
+{
+    "type_of": "country",
+    "name": "Bahamas",
+    "is_represented": false,
+    "covered_by": "Canada"
+},
+{
+    "type_of": "country",
+    "name": "Bahrain",
+    "is_represented": false,
+    "covered_by": "Saudi Arabia"
+},
+{
+    "type_of": "country",
+    "name": "Bangladesh",
+    "is_represented": false,
+    "covered_by": "India"
+},
+{
+    "type_of": "country",
+    "name": "Barbados",
+    "is_represented": false,
+    "covered_by": "Washington"
+},
+{
+    "type_of": "country",
+    "name": "Belarus",
+    "is_represented": false,
+    "covered_by": "Lithuania"
+},
+{
+    "type_of": "country",
+    "name": "Belgium",
+    "is_represented": true,
+    "covered_by": "Belgium"
+},
+{
+    "type_of": "country",
+    "name": "Belize",
+    "is_represented": false,
+    "covered_by": "Mexico"
+},
+{
+    "type_of": "country",
+    "name": "Benin",
+    "is_represented": false,
+    "covered_by": "Nigeria"
+},
+{
+    "type_of": "country",
+    "name": "Bermuda",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Bhutan",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Bolivia",
+    "is_represented": false,
+    "covered_by": "Argentina"
+},
+{
+    "type_of": "country",
+    "name": "Bosnia-Herzegovina",
+    "is_represented": false,
+    "covered_by": "Slovenia"
+},
+{
+    "type_of": "country",
+    "name": "Botswana",
+    "is_represented": false,
+    "covered_by": "South Africa"
+},
+{
+    "type_of": "country",
+    "name": "Bouvet Island",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Brazil",
+    "is_represented": true,
+    "covered_by": "Brazil"
+},
+{
+    "type_of": "country",
+    "name": "British Indian Ocean Territory",
+    "is_represented": false,
+    "covered_by": "India"
+},
+{
+    "type_of": "country",
+    "name": "Brunei Darussalam",
+    "is_represented": false,
+    "covered_by": "Singapore"
+},
+{
+    "type_of": "country",
+    "name": "Bulgaria",
+    "is_represented": true,
+    "covered_by": "Bulgaria"
+},
+{
+    "type_of": "country",
+    "name": "Burkina Faso",
+    "is_represented": false,
+    "covered_by": "Nigeria"
+},
+{
+    "type_of": "country",
+    "name": "Burundi",
+    "is_represented": false,
+    "covered_by": "Tanzania"
+},
+{
+    "type_of": "country",
+    "name": "Cambodia",
+    "is_represented": false,
+    "covered_by": "Vietnam"
+},
+{
+    "type_of": "country",
+    "name": "Cameroon",
+    "is_represented": false,
+    "covered_by": "Nigeria"
+},
+{
+    "type_of": "country",
+    "name": "Canada",
+    "is_represented": true,
+    "covered_by": "Canada"
+},
+{
+    "type_of": "country",
+    "name": "Cape Verde",
+    "is_represented": false,
+    "covered_by": "Portugal"
+},
+{
+    "type_of": "country",
+    "name": "Cayman Islands",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Central African Republic",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Chad",
+    "is_represented": false,
+    "covered_by": "Chad"
+},
+{
+    "type_of": "country",
+    "name": "Chile",
+    "is_represented": true,
+    "covered_by": "Chile"
+},
+{
+    "type_of": "country",
+    "name": "China",
+    "is_represented": true,
+    "covered_by": "China"
+},
+{
+    "type_of": "country",
+    "name": "Christmas Island",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Cocos (Keeling) Islands",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Colombia",
+    "is_represented": true,
+    "covered_by": "Colombia"
+},
+{
+    "type_of": "country",
+    "name": "Comoros",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Congo",
+    "is_represented": false,
+    "covered_by": "Congo"
+},
+{
+    "type_of": "country",
+    "name": "Congo, Democratic Republic of",
+    "is_represented": false,
+    "covered_by": "Tanzania"
+},
+{
+    "type_of": "country",
+    "name": "Cook Islands",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Costa Rica",
+    "is_represented": false,
+    "covered_by": "Mexico"
+},
+{
+    "type_of": "country",
+    "name": "Côte d'Ivoire",
+    "is_represented": false,
+    "covered_by": "Nigeria"
+},
+{
+    "type_of": "country",
+    "name": "Croatia",
+    "is_represented": true,
+    "covered_by": "Croatia"
+},
+{
+    "type_of": "country",
+    "name": "Cuba",
+    "is_represented": false,
+    "covered_by": "Mexico"
+},
+{
+    "type_of": "country",
+    "name": "Curacao",
+    "is_represented": false,
+    "covered_by": "The Netherlands"
+},
+{
+    "type_of": "country",
+    "name": "Cyprus",
+    "is_represented": true,
+    "covered_by": "Cyprus"
+},
+{
+    "type_of": "country",
+    "name": "Czech Republic",
+    "is_represented": true,
+    "covered_by": "Czech Republic"
+},
+{
+    "type_of": "country",
+    "name": "Denmark",
+    "is_represented": true,
+    "covered_by": "Denmark"
+},
+{
+    "type_of": "country",
+    "name": "Djibouti",
+    "is_represented": false,
+    "covered_by": "Ethiopia"
+},
+{
+    "type_of": "country",
+    "name": "Dominica",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Dominican Republic",
+    "is_represented": false,
+    "covered_by": "Colombia"
+},
+{
+    "type_of": "country",
+    "name": "Ecuador",
+    "is_represented": false,
+    "covered_by": "Chile"
+},
+{
+    "type_of": "country",
+    "name": "Egypt",
+    "is_represented": true,
+    "covered_by": "Egypt"
+},
+{
+    "type_of": "country",
+    "name": "El Salvador",
+    "is_represented": false,
+    "covered_by": "Mexico"
+},
+{
+    "type_of": "country",
+    "name": "Equatorial Guinea",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Eritrea",
+    "is_represented": false,
+    "covered_by": "Kenya"
+},
+{
+    "type_of": "country",
+    "name": "Estonia",
+    "is_represented": true,
+    "covered_by": "Estonia"
+},
+{
+    "type_of": "country",
+    "name": "Eswatini",
+    "is_represented": false,
+    "covered_by": "Mozambique"
+},
+{
+    "type_of": "country",
+    "name": "Ethiopia",
+    "is_represented": true,
+    "covered_by": "Ethiopia"
+},
+{
+    "type_of": "country",
+    "name": "Faroe Islands",
+    "is_represented": true,
+    "covered_by": "Denmark"
+},
+{
+    "type_of": "country",
+    "name": "Fiji",
+    "is_represented": false,
+    "covered_by": "Australia"
+},
+{
+    "type_of": "country",
+    "name": "Finland",
+    "is_represented": true,
+    "covered_by": "Finland"
+},
+{
+    "type_of": "country",
+    "name": "France",
+    "is_represented": true,
+    "covered_by": "France"
+},
+{
+    "type_of": "country",
+    "name": "French Guiana",
+    "is_represented": false,
+    "covered_by": "France"
+},
+{
+    "type_of": "country",
+    "name": "Gabon",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Gambia, Republic of the",
+    "is_represented": false,
+    "covered_by": "Nigeria"
+},
+{
+    "type_of": "country",
+    "name": "Georgia",
+    "is_represented": false,
+    "covered_by": "Bulgaria"
+},
+{
+    "type_of": "country",
+    "name": "Germany",
+    "is_represented": true,
+    "covered_by": "Germany"
+},
+{
+    "type_of": "country",
+    "name": "Ghana",
+    "is_represented": false,
+    "covered_by": "Ghana"
+},
+{
+    "type_of": "country",
+    "name": "Great Britain",
+    "is_represented": true,
+    "covered_by": "Great Britain"
+},
+{
+    "type_of": "country",
+    "name": "Greece",
+    "is_represented": true,
+    "covered_by": "Greece"
+},
+{
+    "type_of": "country",
+    "name": "Greenland",
+    "is_represented": true,
+    "covered_by": "Denmark"
+},
+{
+    "type_of": "country",
+    "name": "Grenada",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Guadeloupe (French)",
+    "is_represented": false,
+    "covered_by": "France"
+},
+{
+    "type_of": "country",
+    "name": "Guatemala",
+    "is_represented": false,
+    "covered_by": "Mexico"
+},
+{
+    "type_of": "country",
+    "name": "Guinea",
+    "is_represented": false,
+    "covered_by": "Sierra Leone"
+},
+{
+    "type_of": "country",
+    "name": "Guinea Bissau",
+    "is_represented": false,
+    "covered_by": "Portugal"
+},
+{
+    "type_of": "country",
+    "name": "Guyana",
+    "is_represented": false,
+    "covered_by": "Brazil"
+},
+{
+    "type_of": "country",
+    "name": "Haiti",
+    "is_represented": true,
+    "covered_by": "Permanent Mission Of Ireland To The Un, New York"
+},
+{
+    "type_of": "country",
+    "name": "Heard and McDonald Islands",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Holy See",
+    "is_represented": true,
+    "covered_by": "Holy See"
+},
+{
+    "type_of": "country",
+    "name": "Honduras",
+    "is_represented": false,
+    "covered_by": "Mexico"
+},
+{
+    "type_of": "country",
+    "name": "Hungary",
+    "is_represented": true,
+    "covered_by": "Hungary"
+},
+{
+    "type_of": "country",
+    "name": "Iceland",
+    "is_represented": false,
+    "covered_by": "Norway"
+},
+{
+    "type_of": "country",
+    "name": "India",
+    "is_represented": true,
+    "covered_by": "India"
+},
+{
+    "type_of": "country",
+    "name": "Indonesia",
+    "is_represented": true,
+    "covered_by": "Indonesia"
+},
+{
+    "type_of": "country",
+    "name": "Iran",
+    "is_represented": false,
+    "covered_by": "Türkiye"
+},
+{
+    "type_of": "country",
+    "name": "Iraq",
+    "is_represented": false,
+    "covered_by": "Jordan"
+},
+{
+    "type_of": "country",
+    "name": "Israel",
+    "is_represented": true,
+    "covered_by": "Israel"
+},
+{
+    "type_of": "country",
+    "name": "Italy",
+    "is_represented": true,
+    "covered_by": "Italy"
+},
+{
+    "type_of": "country",
+    "name": "Jamaica",
+    "is_represented": false,
+    "covered_by": "Canada"
+},
+{
+    "type_of": "country",
+    "name": "Japan",
+    "is_represented": true,
+    "covered_by": "Japan"
+},
+{
+    "type_of": "country",
+    "name": "Jordan",
+    "is_represented": true,
+    "covered_by": "Jordan"
+},
+{
+    "type_of": "country",
+    "name": "Kazakhstan",
+    "is_represented": false,
+    "covered_by": "Russia"
+},
+{
+    "type_of": "country",
+    "name": "Kenya",
+    "is_represented": true,
+    "covered_by": "Kenya"
+},
+{
+    "type_of": "country",
+    "name": "Kiribati",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Korea, Democratic Republic of (North Korea)",
+    "is_represented": false,
+    "covered_by": "Republic Of Korea"
+},
+{
+    "type_of": "country",
+    "name": "Korea, Republic of (South Korea)",
+    "is_represented": true,
+    "covered_by": "The Republic Of Korea"
+},
+{
+    "type_of": "country",
+    "name": "Kosovo",
+    "is_represented": false,
+    "covered_by": "Hungary"
+},
+{
+    "type_of": "country",
+    "name": "Kuwait",
+    "is_represented": false,
+    "covered_by": "The United Arab Emirates (Uae)"
+},
+{
+    "type_of": "country",
+    "name": "Kyrgyz Republic (Kyrgystan)",
+    "is_represented": false,
+    "covered_by": "Russia"
+},
+{
+    "type_of": "country",
+    "name": "Laos",
+    "is_represented": false,
+    "covered_by": "Vietnam"
+},
+{
+    "type_of": "country",
+    "name": "Latvia",
+    "is_represented": true,
+    "covered_by": "Latvia"
+},
+{
+    "type_of": "country",
+    "name": "Lebanon",
+    "is_represented": false,
+    "covered_by": "Egypt"
+},
+{
+    "type_of": "country",
+    "name": "Lesotho",
+    "is_represented": false,
+    "covered_by": "South Africa"
+},
+{
+    "type_of": "country",
+    "name": "Liberia",
+    "is_represented": true,
+    "covered_by": "Liberia"
+},
+{
+    "type_of": "country",
+    "name": "Libya",
+    "is_represented": false,
+    "covered_by": "Italy"
+},
+{
+    "type_of": "country",
+    "name": "Liechtenstein",
+    "is_represented": false,
+    "covered_by": "Switzerland"
+},
+{
+    "type_of": "country",
+    "name": "Lithuania",
+    "is_represented": true,
+    "covered_by": "Lithuania"
+},
+{
+    "type_of": "country",
+    "name": "Luxembourg",
+    "is_represented": true,
+    "covered_by": "Luxembourg"
+},
+{
+    "type_of": "country",
+    "name": "Madagascar",
+    "is_represented": false,
+    "covered_by": "Mozambique"
+},
+{
+    "type_of": "country",
+    "name": "Malawi",
+    "is_represented": true,
+    "covered_by": "Malawi"
+},
+{
+    "type_of": "country",
+    "name": "Malaysia",
+    "is_represented": true,
+    "covered_by": "Malaysia"
+},
+{
+    "type_of": "country",
+    "name": "Maldives",
+    "is_represented": false,
+    "covered_by": "India"
+},
+{
+    "type_of": "country",
+    "name": "Mali",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Malta",
+    "is_represented": true,
+    "covered_by": "Malta"
+},
+{
+    "type_of": "country",
+    "name": "Marshall Islands",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Martinique (French)",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Mauritania",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Mauritius",
+    "is_represented": false,
+    "covered_by": "South Africa"
+},
+{
+    "type_of": "country",
+    "name": "Mayotte",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Mexico",
+    "is_represented": true,
+    "covered_by": "Mexico"
+},
+{
+    "type_of": "country",
+    "name": "Moldova, Republic of",
+    "is_represented": false,
+    "covered_by": "Romania"
+},
+{
+    "type_of": "country",
+    "name": "Monaco",
+    "is_represented": false,
+    "covered_by": "France"
+},
+{
+    "type_of": "country",
+    "name": "Mongolia",
+    "is_represented": false,
+    "covered_by": "China"
+},
+{
+    "type_of": "country",
+    "name": "Montenegro",
+    "is_represented": false,
+    "covered_by": "Hungary"
+},
+{
+    "type_of": "country",
+    "name": "Montserrat",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Morocco",
+    "is_represented": true,
+    "covered_by": "Morocco"
+},
+{
+    "type_of": "country",
+    "name": "Mozambique",
+    "is_represented": true,
+    "covered_by": "Mozambique"
+},
+{
+    "type_of": "country",
+    "name": "Myanmar/Burma",
+    "is_represented": false,
+    "covered_by": "Thailand"
+},
+{
+    "type_of": "country",
+    "name": "Namibia",
+    "is_represented": false,
+    "covered_by": "Zambia"
+},
+{
+    "type_of": "country",
+    "name": "Nauru",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Nepal",
+    "is_represented": false,
+    "covered_by": "India"
+},
+{
+    "type_of": "country",
+    "name": "Netherlands",
+    "is_represented": true,
+    "covered_by": "The Netherlands"
+},
+{
+    "type_of": "country",
+    "name": "Netherlands Antilles",
+    "is_represented": false,
+    "covered_by": "The Netherlands"
+},
+{
+    "type_of": "country",
+    "name": "New Caledonia (French)",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "New Zealand",
+    "is_represented": true,
+    "covered_by": "New Zealand"
+},
+{
+    "type_of": "country",
+    "name": "Nicaragua",
+    "is_represented": false,
+    "covered_by": "Mexico"
+},
+{
+    "type_of": "country",
+    "name": "Niger",
+    "is_represented": false,
+    "covered_by": "Nigeria"
+},
+{
+    "type_of": "country",
+    "name": "Nigeria",
+    "is_represented": true,
+    "covered_by": "Nigeria"
+},
+{
+    "type_of": "country",
+    "name": "Norfolk Island",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "North Macedonia, Republic of",
+    "is_represented": false,
+    "covered_by": "Romania"
+},
+{
+    "type_of": "country",
+    "name": "Northern Mariana Islands",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Norway",
+    "is_represented": true,
+    "covered_by": "Norway"
+},
+{
+    "type_of": "country",
+    "name": "Oman",
+    "is_represented": false,
+    "covered_by": "Saudi Arabia"
+},
+{
+    "type_of": "country",
+    "name": "Pakistan",
+    "is_represented": false,
+    "covered_by": "Türkiye"
+},
+{
+    "type_of": "country",
+    "name": "Palau",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Panama",
+    "is_represented": false,
+    "covered_by": "Colombia"
+},
+{
+    "type_of": "country",
+    "name": "Papua New Guinea",
+    "is_represented": false,
+    "covered_by": "Australia"
+},
+{
+    "type_of": "country",
+    "name": "Paraguay",
+    "is_represented": false,
+    "covered_by": "Argentina"
+},
+{
+    "type_of": "country",
+    "name": "Peru",
+    "is_represented": false,
+    "covered_by": "Chile"
+},
+{
+    "type_of": "country",
+    "name": "Philippines",
+    "is_represented": true,
+    "covered_by": "The Philippines"
+},
+{
+    "type_of": "country",
+    "name": "Pitcairn Island",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Poland",
+    "is_represented": true,
+    "covered_by": "Poland"
+},
+{
+    "type_of": "country",
+    "name": "Polynesia (French)",
+    "is_represented": false,
+    "covered_by": "France"
+},
+{
+    "type_of": "country",
+    "name": "Portugal",
+    "is_represented": true,
+    "covered_by": "Portugal"
+},
+{
+    "type_of": "country",
+    "name": "Puerto Rico",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Qatar",
+    "is_represented": false,
+    "covered_by": "The United Arab Emirates (Uae)"
+},
+{
+    "type_of": "country",
+    "name": "Reunion (French)",
+    "is_represented": false,
+    "covered_by": "France"
+},
+{
+    "type_of": "country",
+    "name": "Romania",
+    "is_represented": true,
+    "covered_by": "Romania"
+},
+{
+    "type_of": "country",
+    "name": "Russian Federation",
+    "is_represented": true,
+    "covered_by": "The Russian Federation"
+},
+{
+    "type_of": "country",
+    "name": "Rwanda",
+    "is_represented": false,
+    "covered_by": "Uganda"
+},
+{
+    "type_of": "country",
+    "name": "S. Georgia and the S. Sandwich Islands",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Saint Helena",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Saint Kitts and Nevis Anguilla",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Saint Pierre and Miquelon",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Saint Tome (Sao Tome) and Principe",
+    "is_represented": false,
+    "covered_by": "Nigeria"
+},
+{
+    "type_of": "country",
+    "name": "Saint Vincent and Grenadines",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Samoa",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "San Marino",
+    "is_represented": false,
+    "covered_by": "Italy"
+},
+{
+    "type_of": "country",
+    "name": "Saudi Arabia",
+    "is_represented": true,
+    "covered_by": "Saudi Arabia"
+},
+{
+    "type_of": "country",
+    "name": "Senegal",
+    "is_represented": true,
+    "covered_by": "Senegal"
+},
+{
+    "type_of": "country",
+    "name": "Serbia",
+    "is_represented": false,
+    "covered_by": "Greece"
+},
+{
+    "type_of": "country",
+    "name": "Seychelles",
+    "is_represented": false,
+    "covered_by": "Tanzania"
+},
+{
+    "type_of": "country",
+    "name": "Sierra Leone",
+    "is_represented": true,
+    "covered_by": "Sierra Leone"
+},
+{
+    "type_of": "country",
+    "name": "Singapore",
+    "is_represented": true,
+    "covered_by": "Singapore"
+},
+{
+    "type_of": "country",
+    "name": "Sint Maarten",
+    "is_represented": false,
+    "covered_by": "The Netherlands"
+},
+{
+    "type_of": "country",
+    "name": "Slovak Republic",
+    "is_represented": true,
+    "covered_by": "The Slovak Republic"
+},
+{
+    "type_of": "country",
+    "name": "Slovenia",
+    "is_represented": true,
+    "covered_by": "Slovenia"
+},
+{
+    "type_of": "country",
+    "name": "Solomon Islands",
+    "is_represented": false,
+    "covered_by": "Australia"
+},
+{
+    "type_of": "country",
+    "name": "Somalia",
+    "is_represented": false,
+    "covered_by": "Kenya"
+},
+{
+    "type_of": "country",
+    "name": "South Africa",
+    "is_represented": true,
+    "covered_by": "South Africa"
+},
+{
+    "type_of": "country",
+    "name": "South Sudan",
+    "is_represented": false,
+    "covered_by": "Ethiopia"
+},
+{
+    "type_of": "country",
+    "name": "Spain",
+    "is_represented": true,
+    "covered_by": "Spain"
+},
+{
+    "type_of": "country",
+    "name": "Sri Lanka",
+    "is_represented": false,
+    "covered_by": "India"
+},
+{
+    "type_of": "country",
+    "name": "St Lucia",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Sudan",
+    "is_represented": false,
+    "covered_by": "Kenya"
+},
+{
+    "type_of": "country",
+    "name": "Suriname",
+    "is_represented": false,
+    "covered_by": "Brazil"
+},
+{
+    "type_of": "country",
+    "name": "Sweden",
+    "is_represented": true,
+    "covered_by": "Sweden"
+},
+{
+    "type_of": "country",
+    "name": "Switzerland",
+    "is_represented": true,
+    "covered_by": "Switzerland"
+},
+{
+    "type_of": "country",
+    "name": "Syria",
+    "is_represented": false,
+    "covered_by": "Egypt"
+},
+{
+    "type_of": "country",
+    "name": "Taiwan",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Tajikistan",
+    "is_represented": false,
+    "covered_by": "Russia"
+},
+{
+    "type_of": "country",
+    "name": "Tanzania",
+    "is_represented": true,
+    "covered_by": "Tanzania"
+},
+{
+    "type_of": "country",
+    "name": "Thailand",
+    "is_represented": true,
+    "covered_by": "Thailand"
+},
+{
+    "type_of": "country",
+    "name": "Timor Leste (East Timor)",
+    "is_represented": false,
+    "covered_by": "Indonesia"
+},
+{
+    "type_of": "country",
+    "name": "Togo",
+    "is_represented": false,
+    "covered_by": "Nigeria"
+},
+{
+    "type_of": "country",
+    "name": "Tokelau",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Tonga",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Trinidad and Tobago",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Tunisia",
+    "is_represented": false,
+    "covered_by": "Morocco"
+},
+{
+    "type_of": "country",
+    "name": "Türkiye",
+    "is_represented": true,
+    "covered_by": "Türkiye"
+},
+{
+    "type_of": "country",
+    "name": "Turkmenistan",
+    "is_represented": false,
+    "covered_by": "Russia"
+},
+{
+    "type_of": "country",
+    "name": "Turks and Caicos Islands",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Tuvalu",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Uganda",
+    "is_represented": true,
+    "covered_by": "Uganda"
+},
+{
+    "type_of": "country",
+    "name": "Ukraine",
+    "is_represented": true,
+    "covered_by": "Ukraine"
+},
+{
+    "type_of": "country",
+    "name": "United Arab Emirates",
+    "is_represented": true,
+    "covered_by": "The United Arab Emirates (Uae)"
+},
+{
+    "type_of": "country",
+    "name": "United States of America",
+    "is_represented": true,
+    "covered_by": "The United States Of America (Usa)"
+},
+{
+    "type_of": "country",
+    "name": "Uruguay",
+    "is_represented": false,
+    "covered_by": "Argentina"
+},
+{
+    "type_of": "country",
+    "name": "USA Minor Outlaying Islands",
+    "is_represented": false,
+    "covered_by": "The Usa"
+},
+{
+    "type_of": "country",
+    "name": "Uzbekistan",
+    "is_represented": false,
+    "covered_by": "Russia"
+},
+{
+    "type_of": "country",
+    "name": "Vanuatu",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Venezuela",
+    "is_represented": false,
+    "covered_by": "Colombia"
+},
+{
+    "type_of": "country",
+    "name": "Vietnam",
+    "is_represented": true,
+    "covered_by": "Vietnam"
+},
+{
+    "type_of": "country",
+    "name": "Virgin Islands (British)",
+    "is_represented": false,
+    "covered_by": "The Usa"
+},
+{
+    "type_of": "country",
+    "name": "Virgin Islands (USA)",
+    "is_represented": false,
+    "covered_by": "The Usa"
+},
+{
+    "type_of": "country",
+    "name": "Wallis and Futuna Islands",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Yemen",
+    "is_represented": false,
+    "covered_by": "Saudi Arabia"
+},
+{
+    "type_of": "country",
+    "name": "Zambia",
+    "is_represented": true,
+    "covered_by": "Zambia"
+},
+{
+    "type_of": "country",
+    "name": "Zimbabwe",
+    "is_represented": false,
+    "covered_by": "South Africa"
+},
+{
+    "type_of": "other",
+    "name": "Palestinian Authority",
+    "head_of_mission": "",
+    "address": "Al-Wataniah Towers building, 2nd floor, Al-Bireh Municipality Street, Ramallah District",
+    "tel": "+972 2 294 9800",
+    "website": "https://dfa.ie/prep/ramallah/"
+},
+{
+    "type_of": "embassy",
+    "name": "Estonia",
+    "head_of_mission": "James Sherry",
+    "address": "Rävala pst 5, 10143, Tallinn, Estonia",
+    "tel": "+372 (0)6 811 870",
+    "website": "https://www.ireland.ie/en/estonia/tallinn/"
+},
+{
+    "type_of": "consulate",
+    "name": "atlanta",
+    "head_of_mission": "Caoimhe Ní Chonchúir",
+    "address": "Monarch Plaza, 3414 Peachtree Road, Suite 260, Atlanta, GA 30326, USA",
+    "tel": "+1 404 554 4980",
+    "website": "https://www.ireland.ie/en/usa/atlanta/"
+},
+{
+    "type_of": "consulate",
+    "name": "mumbai",
+    "head_of_mission": "Anita Kelly",
+    "address": "3rd Floor, TCG Financial Centre, G–Block, Bandra Kurla Complex, Mumbai 400098, India",
+    "tel": "+91 22 69033400",
+    "website": "https://www.ireland.ie/en/india/mumbai/"
+},
+{
+    "type_of": "consulate",
+    "name": "cardiff",
+    "head_of_mission": "Denise McQuade",
+    "address": "2 Caspian Point, Caspian Way, Cardiff Bay, CF10 4DQ, Wales",
+    "tel": "+44 29 2045 5558",
+    "website": "https://www.ireland.ie/en/greatbritain/cardiff/"
+},
+{
+    "type_of": "consulate",
+    "name": "frankfurt",
+    "head_of_mission": "Patrick Jacques",
+    "address": "Signature OpernTurm, Bockenheimer Landstraße 2-4, 60306 Frankfurt am Main, Germany",
+    "tel": "+49 69 667 74 8041",
+    "website": "https://www.ireland.ie/en/germany/frankfurt/"
+},
+{
+    "type_of": "consulate",
+    "name": "shanghai",
+    "head_of_mission": "Wendy Dorman-Smith",
+    "address": "Ireland House, Unit 903, JC Plaza, 1225 Nanjing Road West, Shanghai 200040, People's Republic of China",
+    "tel": "+86 21 6010 1360",
+    "website": "https://www.ireland.ie/en/china/shanghai/"
+},
+{
+    "type_of": "consulate",
+    "name": "toronto",
+    "head_of_mission": "Janice McGann",
+    "address": "Spaces at The Permanent, 320 Bay Street, Toronto, Ontario M5H4A6",
+    "tel": "+1 437 290 6315",
+    "website": "https://www.ireland.ie/en/canada/toronto/"
+},
+{
+    "type_of": "consulate",
+    "name": "sãopaulo",
+    "head_of_mission": "Eoin Bennis",
+    "address": "Alameda Santos, 787, conj 61 – 6 º andar, CEP: 01419-001 Cerqueira César, São Paulo – SP, Brazil",
+    "tel": "+55 11 3149 7600",
+    "website": "https://www.ireland.ie/en/brazil/saopaulo/"
+},
+{
+    "type_of": "consulate",
+    "name": "sydney",
+    "head_of_mission": "Rosie Keane",
+    "address": "Level 26, 1 Market Street, Sydney, NSW 2000",
+    "tel": "+61 2 9273 8500",
+    "website": "https://www.ireland.ie/en/australia/sydney/"
+},
+{
+    "type_of": "embassy",
+    "name": "Zambia",
+    "head_of_mission": "Bronagh Carr",
+    "address": "6663 Katima Mulilo Rd, P.O. Box 34923, Lusaka 10101, Zambia",
+    "tel": "",
+    "website": "https://www.ireland.ie/en/zambia/lusaka/"
+},
+{
+    "type_of": "embassy",
+    "name": "Vietnam",
+    "head_of_mission": null,
+    "address": "2nd floor, 41A Ly Thai To, Hoan Kiem District, Hanoi, Vietnam",
+    "tel": "+84 24 3974 3291",
+    "website": "https://www.ireland.ie/en/vietnam/hanoi/"
+},
+{
+    "type_of": "embassy",
+    "name": "United States of America",
+    "head_of_mission": "Geraldine Byrne Nason",
+    "address": "2234 Massachusetts Ave, NW Washington DC 20008, USA",
+    "tel": "+1 202 462 3939",
+    "website": "https://www.ireland.ie/en/usa/washington/"
+},
+{
+    "type_of": "embassy",
+    "name": "United Arab Emirates",
+    "head_of_mission": "Alison Milton",
+    "address": "Atiq Bin Majid Al Muhairi Street, Al Bateen, P.O. Box 61581, Abu Dhabi, United Arab Emirates",
+    "tel": "+971 2 4958200",
+    "website": "https://www.ireland.ie/en/uae/abudhabi/"
+},
+{
+    "type_of": "embassy",
+    "name": "Ukraine",
+    "head_of_mission": "Thérèse Healy",
+    "address": "3rd floor, Volodymyrska Street 101, Kyiv 01033, Ukraine",
+    "tel": "+380 67 448 0786",
+    "website": "https://www.ireland.ie/en/kyiv/"
+},
+{
+    "type_of": "embassy",
+    "name": "Uganda",
+    "head_of_mission": "Kevin Colgan",
+    "address": "Post Office Box 7791, Plot 25, Yusuf Lule Road, Nakasero, Kampala",
+    "tel": "+256 417-713000",
+    "website": "https://www.ireland.ie/en/uganda/kampala/"
+},
+{
+    "type_of": "embassy",
+    "name": "Türkiye",
+    "head_of_mission": "John McCullagh",
+    "address": "Ugur Mumcu Caddesi No.88, MNG Binasi, A&B Blok, Kat 1, Gaziosmanpasa, Ankara 06700",
+    "tel": "+90 312 459 1000",
+    "website": "https://www.ireland.ie/en/turkiye/ankara/"
+},
+{
+    "type_of": "embassy",
+    "name": "Thailand",
+    "head_of_mission": "Pat Bourne",
+    "address": "208 Wireless Road 12th Floor, Unit 1201, Lumphini, Pathumwan, Bangkok 10330",
+    "tel": "+66 2 016 1360",
+    "website": "https://www.ireland.ie/en/thailand/bangkok/"
+},
+{
+    "type_of": "embassy",
+    "name": "Tanzania",
+    "head_of_mission": "Mary O'Neill",
+    "address": "353 Touré Drive, Masaki, Dar es Salaam, Tanzania",
+    "tel": "",
+    "website": "https://www.ireland.ie/en/tanzania/daressalaam/"
+},
+{
+    "type_of": "embassy",
+    "name": "Switzerland",
+    "head_of_mission": "Aoife McGarry",
+    "address": "2nd floor Kirchenfeldstrasse 68, P.O. Box 262, CH-3000 Berne 6, Switzerland",
+    "tel": "+41 31 350 03 80",
+    "website": "https://www.ireland.ie/en/switzerland/berne/"
+},
+{
+    "type_of": "embassy",
+    "name": "Sweden",
+    "head_of_mission": "Barbara Jones",
+    "address": "Visiting Address:, Hovslagargatan 5, 111 48 Stockholm, Sweden",
+    "tel": "+46 (0) 8 54504040",
+    "website": "https://www.ireland.ie/en/sweden/stockholm/"
+},
+{
+    "type_of": "embassy",
+    "name": "Spain",
+    "head_of_mission": "Frank Smyth",
+    "address": "Paseo de la Castellana 46-4, 28046, Madrid., Spain",
+    "tel": "+34 965 107 485",
+    "website": "https://www.ireland.ie/en/spain/madrid/"
+},
+{
+    "type_of": "embassy",
+    "name": "South Africa",
+    "head_of_mission": "Austin Gormley",
+    "address": "2nd Floor, Building A, OMK House, 238 Florence Ribeiro Avenue, Nieuw Muckleneuk, Pretoria, South Africa, 0181",
+    "tel": "+27 12 452 1000",
+    "website": "https://www.ireland.ie/en/southafrica/pretoria/"
+},
+{
+    "type_of": "embassy",
+    "name": "Slovenia",
+    "head_of_mission": "Adrian Farrell",
+    "address": "Palača Kapitelj, 1st floor, Poljanski nasip 6, 1000 Ljubljana, Slovenia",
+    "tel": "+386 1 300 8970",
+    "website": "https://www.ireland.ie/en/slovenia/ljubljana/"
+},
+{
+    "type_of": "embassy",
+    "name": "Slovak Republic",
+    "head_of_mission": "Dermot McGauran",
+    "address": "Mostová 2, 811 02 Bratislava, Slovak Republic",
+    "tel": "+421 3233 8700",
+    "website": "https://www.ireland.ie/en/slovak-republic/bratislava/"
+},
+{
+    "type_of": "embassy",
+    "name": "Singapore",
+    "head_of_mission": "Sarah McGrath",
+    "address": "18 Cross Street, #13-04, Singapore 048423",
+    "tel": "+65 6238 7616",
+    "website": "https://www.ireland.ie/en/singapore/embassy/"
+},
+{
+    "type_of": "embassy",
+    "name": "Sierra Leone",
+    "head_of_mission": "Aidan Fitzpatrick",
+    "address": "8 St. Joseph’s Avenue, Off Spur Road, Freetown, Sierra Leone",
+    "tel": "+232 79 250628",
+    "website": "https://www.ireland.ie/en/sierraleone/freetown/"
+},
+{
+    "type_of": "embassy",
+    "name": "Saudi Arabia",
+    "head_of_mission": "Gerry Cunningham",
+    "address": "P.O. Box 94349, Plot No. 3114, Al Idrisi, Assafarat District, Riyadh 12513, Kingdom of Saudi Arabia",
+    "tel": "+966 11 407 1530",
+    "website": "https://www.ireland.ie/en/saudiarabia/riyadh/"
+},
+{
+    "type_of": "embassy",
+    "name": "Russian Federation",
+    "head_of_mission": "Brian McElduff",
+    "address": "Grokholski Pereulok 5, Moscow 129090, Russia",
+    "tel": "+7 4959375911",
+    "website": "https://www.ireland.ie/en/moscow/"
+},
+{
+    "type_of": "embassy",
+    "name": "Romania",
+    "head_of_mission": "Brendan Ward",
+    "address": "Bulevardul Iuliu Maniu 6L, București 061072, Bucharest, Romania",
+    "tel": "+40 758611959",
+    "website": "https://www.ireland.ie/en/romania/bucharest/"
+},
+{
+    "type_of": "embassy",
+    "name": "Portugal",
+    "head_of_mission": "Alma Ní Choigligh",
+    "address": "Avenida da Liberdade, Nr. 200, 4th floor, Lisbon, 1250-147",
+    "tel": "+351 213308200",
+    "website": "https://www.ireland.ie/en/portugal/lisbon/"
+},
+{
+    "type_of": "embassy",
+    "name": "Poland",
+    "head_of_mission": "Patrick Haughey",
+    "address": "ul. Mysia 5, 6th Floor, 00-496 Warsaw, Poland",
+    "tel": "+48 22 564 2200",
+    "website": "https://www.ireland.ie/en/poland/warsaw/"
+},
+{
+    "type_of": "embassy",
+    "name": "Philippines",
+    "head_of_mission": "William John Carlos",
+    "address": "30/F Tower 2, RCBC Plaza, 6819 Ayala Avenue, Makati City, 1200, Philippines",
+    "tel": "+632 8859 5140",
+    "website": "https://www.ireland.ie/en/philippines/manila/"
+},
+{
+    "type_of": "embassy",
+    "name": "Norway",
+    "head_of_mission": "Claire Buckley",
+    "address": "Floor 6, Haakon VIIs gate 1, PO Box 4006 AMB, 0244 Oslo, Norway",
+    "tel": "+47 2201 7200",
+    "website": "https://www.ireland.ie/en/norway/oslo/"
+},
+{
+    "type_of": "embassy",
+    "name": "Nigeria",
+    "head_of_mission": "Peter Ryan",
+    "address": "11 Negro Crescent, Maitama District, Abuja, Nigeria",
+    "tel": "+234 209 462 1080",
+    "website": "https://www.ireland.ie/en/nigeria/abuja/"
+},
+{
+    "type_of": "embassy",
+    "name": "New Zealand",
+    "head_of_mission": "Jane Connolly",
+    "address": "Level 10, 86 Victoria Street, PO Box 11498 Manners Street, Wellington 6011, New Zealand",
+    "tel": "+64 4 471 2252",
+    "website": "https://www.ireland.ie/en/new-zealand/wellington/"
+},
+{
+    "type_of": "embassy",
+    "name": "Netherlands",
+    "head_of_mission": "Brendan Rogers",
+    "address": "Scheveningseweg 112, 2584 AE The Hague, The Netherlands",
+    "tel": "+31 (0)70 363 0993",
+    "website": "https://www.ireland.ie/en/thenetherlands/thehague/"
+},
+{
+    "type_of": "embassy",
+    "name": "Mozambique",
+    "head_of_mission": "Patrick Empey",
+    "address": "Avenida Julius Nyerere 3630, Sommershield, Maputo, Mozambique",
+    "tel": "+258 21 501 700",
+    "website": "https://www.ireland.ie/en/mozambique/maputo/"
+},
+{
+    "type_of": "embassy",
+    "name": "Morocco",
+    "head_of_mission": "James McIntyre",
+    "address": "Rabat Mahaj Ryad Centre, Avenue Attine, Bâtiment 7, Hay Ryad, Rabat, Morocco",
+    "tel": "+212 530134083",
+    "website": "https://www.ireland.ie/en/morocco/rabat/"
+},
+{
+    "type_of": "embassy",
+    "name": "Mexico",
+    "head_of_mission": "Maeve von Heynitz",
+    "address": "Goldsmith #53 Piso 4, Col. Polanco, Chapultepec, Alcaldía Miguel Hidalgo, CP, 11560, Ciudad de México, México",
+    "tel": "+52 55 5520 5803",
+    "website": "https://www.ireland.ie/en/mexico/mexicocity/"
+},
+{
+    "type_of": "embassy",
+    "name": "Malta",
+    "head_of_mission": "H.E. Caroline Whelan",
+    "address": "Whitehall Mansions, Ix-Xatt ta’ Ta’ Xbiex, XBX 1026, Malta",
+    "tel": "+356 21334744",
+    "website": "https://www.ireland.ie/en/malta/valletta/"
+},
+{
+    "type_of": "embassy",
+    "name": "Malaysia",
+    "head_of_mission": "Orla Tunney",
+    "address": "South Block, 5th Floor, The Amp Walk, 218 Jalan Ampang, Kuala Lumpur, 50450, Malaysia",
+    "tel": "+603 2167 8200",
+    "website": "https://www.ireland.ie/en/malaysia/kualalumpur/"
+},
+{
+    "type_of": "embassy",
+    "name": "Malawi",
+    "head_of_mission": "Séamus O'Grady",
+    "address": "Arwa House (3rd Floor), 13/14 City Centre, Lilongwe, Malawi",
+    "tel": "+265 985 936 610",
+    "website": "https://www.ireland.ie/en/malawi/lilongwe/"
+},
+{
+    "type_of": "embassy",
+    "name": "Luxembourg",
+    "head_of_mission": "Jean McDonald",
+    "address": "Résidence Christina (2nd floor), 28 route d'Arlon, L-1140 Luxembourg",
+    "tel": "+352 450 610",
+    "website": "https://www.ireland.ie/en/luxembourg/embassy/"
+},
+{
+    "type_of": "embassy",
+    "name": "Lithuania",
+    "head_of_mission": "Séadhna MacHugh",
+    "address": "Gedimino Prospektas 1, Vilnius, LT-01103, Lithuania",
+    "tel": "+370 5 2629460",
+    "website": "https://www.ireland.ie/en/lithuania/vilnius/"
+},
+{
+    "type_of": "embassy",
+    "name": "Liberia",
+    "head_of_mission": "Gerard Considine",
+    "address": "LCL Compound 12th Street, Sinkor, Monrovia, Liberia",
+    "tel": "+231 7767 56020",
+    "website": "https://www.ireland.ie/en/liberia/monrovia/"
+},
+{
+    "type_of": "embassy",
+    "name": "Latvia",
+    "head_of_mission": "Eimear Friel",
+    "address": "Alberta Street 13, Riga, Latvia, LV-1010",
+    "tel": "+371 6703 9370",
+    "website": "https://www.ireland.ie/en/latvia/riga/"
+},
+{
+    "type_of": "embassy",
+    "name": "Korea, Republic of (South Korea)",
+    "head_of_mission": "Michelle Winthrop",
+    "address": "Leema Bldg. 13F., 42, Jongro 1-gil, Jongno-gu, Seoul, Korea 03152",
+    "tel": "+02 721 7200",
+    "website": "https://www.ireland.ie/en/republic-of-korea/seoul/"
+},
+{
+    "type_of": "embassy",
+    "name": "Kenya",
+    "head_of_mission": "Caitríona Ingoldsby",
+    "address": "4th Floor, Delta Office Suites, Manyani Road, off Waiyaki Way, PO Box 30659-00100, Nairobi",
+    "tel": "+254 020 513 5300",
+    "website": "https://www.ireland.ie/en/kenya/nairobi/"
+},
+{
+    "type_of": "embassy",
+    "name": "Jordan",
+    "head_of_mission": "Marianne Bolger",
+    "address": "Bashir Kheir Street 15, Opposite the Orthodox Club, Abdoun, Amman, Jordan",
+    "tel": "+962 65903200",
+    "website": "https://www.ireland.ie/en/jordan/amman/"
+},
+{
+    "type_of": "embassy",
+    "name": "Japan",
+    "head_of_mission": "Damien Cole",
+    "address": "Ireland House, 2-10-7 Kojimachi, Chiyoda-ku, Tokyo, Japan, 102-0083",
+    "tel": "+81 0332630695",
+    "website": "https://www.ireland.ie/en/japan/tokyo/"
+},
+{
+    "type_of": "embassy",
+    "name": "Italy",
+    "head_of_mission": "Patricia O'Brien",
+    "address": "Villa Spada, Via Giacomo Medici 1, Roma 00153, Italy",
+    "tel": "+39 02 551 87569",
+    "website": "https://www.ireland.ie/en/italy/rome/"
+},
+{
+    "type_of": "embassy",
+    "name": "Israel",
+    "head_of_mission": "Sonya McGuinness",
+    "address": "Amot Atrium Tower, 2 Ze'ev Jabotinsky, Ramat Gan, 5250501",
+    "tel": "+972 36964166",
+    "website": "https://www.ireland.ie/en/israel/telaviv/"
+},
+{
+    "type_of": "embassy",
+    "name": "Indonesia",
+    "head_of_mission": "Pádraig Francis",
+    "address": "World Trade Centre 1, L-14, Jl. Jend. Sudirman Kav 29-31, Jakarta 12920",
+    "tel": "+62 21 280 94300",
+    "website": "https://www.ireland.ie/en/indonesia/jakarta/"
+},
+{
+    "type_of": "embassy",
+    "name": "India",
+    "head_of_mission": "Kevin Kelly",
+    "address": "C17 Malcha Marg, Chanakyapuri, New Delhi 110 021, India",
+    "tel": "+91 11 4940 3200",
+    "website": "https://www.ireland.ie/en/india/newdelhi/"
+},
+{
+    "type_of": "embassy",
+    "name": "Hungary",
+    "head_of_mission": "Ragnar Almqvist",
+    "address": "Budapest 1054., Szabadsag ter 7., Bank Center, Budapest",
+    "tel": "+36 1 301 4960",
+    "website": "https://www.ireland.ie/en/hungary/budapest/"
+},
+{
+    "type_of": "embassy",
+    "name": "Holy See",
+    "head_of_mission": "Frances Collins",
+    "address": "Via dei Corridori, 48, 00193 Rome, Italy",
+    "tel": "+39 06 5852 3880",
+    "website": "https://www.ireland.ie/en/holysee/vaticancity/"
+},
+{
+    "type_of": "embassy",
+    "name": "Greece",
+    "head_of_mission": "Iseult Fitzgerald",
+    "address": "7 Leoforos Vasileos Konstantinou, 106 74, Athens, Greece",
+    "tel": "+30 210 723 2771",
+    "website": "https://www.ireland.ie/en/greece/athens/"
+},
+{
+    "type_of": "embassy",
+    "name": "Great Britain",
+    "head_of_mission": "Martin Fraser",
+    "address": "17 Grosvenor Place, London, SW1X 7HR",
+    "tel": "+44 20 72352171",
+    "website": "https://www.ireland.ie/en/greatbritain/london/"
+},
+{
+    "type_of": "embassy",
+    "name": "Germany",
+    "head_of_mission": null,
+    "address": "Jägerstraße 51, 10117 Berlin, Germany",
+    "tel": "+49 30220720",
+    "website": "https://www.ireland.ie/en/germany/berlin/"
+},
+{
+    "type_of": "embassy",
+    "name": "France",
+    "head_of_mission": "Niall Burgess",
+    "address": "12 avenue Foch, (entrance 4 rue Rude), 75116 Paris, France",
+    "tel": "+33 1 44 17 67 00",
+    "website": "https://www.ireland.ie/en/france/paris/"
+},
+{
+    "type_of": "embassy",
+    "name": "Finland",
+    "head_of_mission": "Ruth Parkin",
+    "address": "Erottajankatu 7 A, 00130 Helsinki, Finland",
+    "tel": "+358 9 682 4240",
+    "website": "https://www.ireland.ie/en/finland/helsinki/"
+},
+{
+    "type_of": "embassy",
+    "name": "Ethiopia",
+    "head_of_mission": "Nicola Brennan",
+    "address": "Guinea Conakry Street, Addis Ababa, Ethiopia",
+    "tel": "+251 11 518 0500",
+    "website": "https://www.ireland.ie/en/ethiopia/addisababa/"
+},
+{
+    "type_of": "embassy",
+    "name": "Egypt",
+    "head_of_mission": "Nuala O'Brien",
+    "address": "18 Hassan Sabry Street, 11561 Zamalek, Cairo, Egypt",
+    "tel": "+202 27287100",
+    "website": "https://www.ireland.ie/en/egypt/cairo/"
+},
+{
+    "type_of": "embassy",
+    "name": "Denmark",
+    "head_of_mission": "Elizabeth McCullough",
+    "address": "Østbanegade 21, 2100 Copenhagen Ø, Denmark",
+    "tel": "+45 35 47 32 00",
+    "website": "https://www.ireland.ie/en/denmark/copenhagen/"
+},
+{
+    "type_of": "embassy",
+    "name": "Czech Republic",
+    "head_of_mission": "Alan Gibbons",
+    "address": "Tržiště 13, 118 00 Prague 1, 2nd Floor",
+    "tel": "+420 257 011 280",
+    "website": "https://www.ireland.ie/en/czech-republic/prague/"
+},
+{
+    "type_of": "embassy",
+    "name": "Cyprus",
+    "head_of_mission": "Conor Long",
+    "address": "7 Aiantos Street, St. Omologites, 1082 Nicosia, Cyprus",
+    "tel": "+357 2281 8183",
+    "website": "https://www.ireland.ie/en/cyprus/nicosia/"
+},
+{
+    "type_of": "embassy",
+    "name": "Croatia",
+    "head_of_mission": "Ruaidhri Dowling",
+    "address": "Miramarska Avenue 23/lll, 10000 Zagreb, Croatia",
+    "tel": "+385 1 6278 920",
+    "website": "https://www.ireland.ie/en/croatia/zagreb/"
+},
+{
+    "type_of": "embassy",
+    "name": "Colombia",
+    "head_of_mission": "Fiona Nic Dhonnacha",
+    "address": "Oficina 1605, Edificio Tierra Firme, Bogotá DC, Colombia, Ak 9 #115-30",
+    "tel": "+57 601 657 6060",
+    "website": "https://www.ireland.ie/en/colombia/bogota/"
+},
+{
+    "type_of": "embassy",
+    "name": "China",
+    "head_of_mission": "Ann Derwin",
+    "address": "3 Ritan Dong Lu, Chaoyang District, Beijing 100600, People's Republic of China",
+    "tel": "+86 10 8531 6200",
+    "website": "https://www.ireland.ie/en/china/beijing/"
+},
+{
+    "type_of": "embassy",
+    "name": "Chile",
+    "head_of_mission": "Colum Hatchell",
+    "address": "Avenida Apoquindo 2929, Piso 18, Las Condes",
+    "tel": "+56 233 04 6600",
+    "website": "https://www.ireland.ie/en/chile/santiago/"
+},
+{
+    "type_of": "embassy",
+    "name": "Canada",
+    "head_of_mission": "Eamonn McKee",
+    "address": "150 Metcalfe Street, Suite 1700, Ottawa, ON K2P 1P1",
+    "tel": "+1 613 233 6281",
+    "website": "https://www.ireland.ie/en/canada/ottawa/"
+},
+{
+    "type_of": "embassy",
+    "name": "Bulgaria",
+    "head_of_mission": "Martina Feeney",
+    "address": "Platinum Business Centre, 26-30 Bacho Kiro street, Sofia 1000, Bulgaria",
+    "tel": "+359 2 985 3425",
+    "website": "https://www.ireland.ie/en/bulgaria/sofia/"
+},
+{
+    "type_of": "embassy",
+    "name": "Brazil",
+    "head_of_mission": "Fiona Flood",
+    "address": "SHIS QL 12 conjunto 05 casa 09, Lago Sul, Brasília - DF, CEP 71630-255, Brazil",
+    "tel": "+55 61 3248 8800",
+    "website": "https://www.ireland.ie/en/brazil/brasilia/"
+},
+{
+    "type_of": "embassy",
+    "name": "Belgium",
+    "head_of_mission": null,
+    "address": "Rue Froissart - Froissartstraat 50, 1040 Brussels, Belgium",
+    "tel": "+32 2 2823 400",
+    "website": "https://www.ireland.ie/en/belgium/"
+},
+{
+    "type_of": "embassy",
+    "name": "Austria",
+    "head_of_mission": "Eoin O'Leary",
+    "address": "Rotenturmstraße 16-18, A-1010 Vienna, Austria",
+    "tel": "+43 (0)1 715 4246",
+    "website": "https://www.ireland.ie/en/austria/vienna/"
+},
+{
+    "type_of": "embassy",
+    "name": "Australia",
+    "head_of_mission": "Tim Mawe",
+    "address": "20 Arkana Street, Yarralumla, ACT 2600, Canberra",
+    "tel": "+61 2 62140000",
+    "website": "https://www.ireland.ie/en/australia/canberra/"
+},
+{
+    "type_of": "embassy",
+    "name": "Argentina",
+    "head_of_mission": "Gerard McCoy",
+    "address": "Edificio Bluesky, 6th Floor, Avenida del Libertador 1068, Recoleta, Buenos Aires",
+    "tel": "+54 (11) 4808-5700",
+    "website": "https://www.ireland.ie/en/argentina/buenosaires/"
+},
+{
+    "type_of": "other",
+    "name": "Permanent Mission of Ireland to the United Nations, New York",
+    "head_of_mission": "Fergal Mythen",
+    "address": "885 Second Avenue, 21st Floor, (between 47th & 48th st.), NY 10017, USA",
+    "tel": "+1 (212)421-6934",
+    "website": "https://www.ireland.ie/en/un/newyork/"
+},
+{
+    "type_of": "other",
+    "name": "Permanent Mission of Ireland to the United Nations and other International Organisations at Geneva",
+    "head_of_mission": "Noel White",
+    "address": "Rue de Moillebeau 58, Case Postale 339, 1209 Geneva 19, Switzerland",
+    "tel": "+41 22 919 1950",
+    "website": "https://www.ireland.ie/en/un/geneva/"
+},
+{
+    "type_of": "other",
+    "name": "Permanent Representation of Ireland to the European Union",
+    "head_of_mission": "Aingeal O'Donoghue",
+    "address": "Rue Froissart 50, 1040 Brussels, Belgium",
+    "tel": "+32 2 282 32 00",
+    "website": "https://www.ireland.ie/en/eu/brussels/"
+},
+{
+    "type_of": "other",
+    "name": "Permanent Representation of Ireland to the OSCE",
+    "head_of_mission": "Anne-Marie Callan",
+    "address": "Rotenturmstrasse 16-18, 5th Floor, 1010 Vienna, Austria",
+    "tel": "+43 1 715 76 9826",
+    "website": "https://www.ireland.ie/en/osce/vienna/"
+},
+{
+    "type_of": "other",
+    "name": "Permanent Representation of Ireland to the OECD and UNESCO",
+    "head_of_mission": "Gerard Keown",
+    "address": "12 Avenue Foch, 75116 Paris, France",
+    "tel": "+33 1 44 17 67 50",
+    "website": "https://www.ireland.ie/en/oecd-unesco/paris/"
+},
+{
+    "type_of": "other",
+    "name": "Permanent Representation of Ireland to the Council of Europe",
+    "head_of_mission": "Breifne O'Reilly",
+    "address": "11 boulevard du Président Edwards, 67000 Strasbourg, France",
+    "tel": "",
+    "website": "https://www.ireland.ie/ga/coe/strasbourg/"
+},
+{
+    "type_of": "other",
+    "name": "Partnership for Peace Delegation",
+    "head_of_mission": "Kevin Conmy",
+    "address": "Boulevard Leopold III, 1110 Brussels, Belgium",
+    "tel": "+32 02-707-2693",
+    "website": "https://www.ireland.ie/en/partnership-for-peace-delegation-brussels/"
+}
+]

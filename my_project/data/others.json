@@ -1,0 +1,66 @@
+[
+{
+    "type_of": "other",
+    "name": "Palestinian Authority",
+    "head_of_mission": "",
+    "address": "Al-Wataniah Towers building, 2nd floor, Al-Bireh Municipality Street, Ramallah District",
+    "tel": "+972 2 294 9800",
+    "website": "https://dfa.ie/prep/ramallah/"
+},
+{
+    "type_of": "other",
+    "name": "Permanent Mission of Ireland to the United Nations, New York",
+    "head_of_mission": "Fergal Mythen",
+    "address": "885 Second Avenue, 21st Floor, (between 47th & 48th st.), NY 10017, USA",
+    "tel": "+1 (212)421-6934",
+    "website": "https://www.ireland.ie/en/un/newyork/"
+},
+{
+    "type_of": "other",
+    "name": "Permanent Mission of Ireland to the United Nations and other International Organisations at Geneva",
+    "head_of_mission": "Noel White",
+    "address": "Rue de Moillebeau 58, Case Postale 339, 1209 Geneva 19, Switzerland",
+    "tel": "+41 22 919 1950",
+    "website": "https://www.ireland.ie/en/un/geneva/"
+},
+{
+    "type_of": "other",
+    "name": "Permanent Representation of Ireland to the European Union",
+    "head_of_mission": "Aingeal O'Donoghue",
+    "address": "Rue Froissart 50, 1040 Brussels, Belgium",
+    "tel": "+32 2 282 32 00",
+    "website": "https://www.ireland.ie/en/eu/brussels/"
+},
+{
+    "type_of": "other",
+    "name": "Permanent Representation of Ireland to the OSCE",
+    "head_of_mission": "Anne-Marie Callan",
+    "address": "Rotenturmstrasse 16-18, 5th Floor, 1010 Vienna, Austria",
+    "tel": "+43 1 715 76 9826",
+    "website": "https://www.ireland.ie/en/osce/vienna/"
+},
+{
+    "type_of": "other",
+    "name": "Permanent Representation of Ireland to the OECD and UNESCO",
+    "head_of_mission": "Gerard Keown",
+    "address": "12 Avenue Foch, 75116 Paris, France",
+    "tel": "+33 1 44 17 67 50",
+    "website": "https://www.ireland.ie/en/oecd-unesco/paris/"
+},
+{
+    "type_of": "other",
+    "name": "Permanent Representation of Ireland to the Council of Europe",
+    "head_of_mission": "Breifne O'Reilly",
+    "address": "11 boulevard du Président Edwards, 67000 Strasbourg, France",
+    "tel": "",
+    "website": "https://www.ireland.ie/ga/coe/strasbourg/"
+},
+{
+    "type_of": "other",
+    "name": "Partnership for Peace Delegation",
+    "head_of_mission": "Kevin Conmy",
+    "address": "Boulevard Leopold III, 1110 Brussels, Belgium",
+    "tel": "+32 02-707-2693",
+    "website": "https://www.ireland.ie/en/partnership-for-peace-delegation-brussels/"
+}
+]

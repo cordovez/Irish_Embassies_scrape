@@ -1,0 +1,66 @@
+[
+{
+    "type_of": "consulate",
+    "name": "sydney",
+    "head_of_mission": "Rosie Keane",
+    "address": "Level 26, 1 Market Street, Sydney, NSW 2000",
+    "tel": "+61 2 9273 8500",
+    "website": "https://www.ireland.ie/en/australia/sydney/"
+},
+{
+    "type_of": "consulate",
+    "name": "atlanta",
+    "head_of_mission": "Caoimhe Ní Chonchúir",
+    "address": "Monarch Plaza, 3414 Peachtree Road, Suite 260, Atlanta, GA 30326, USA",
+    "tel": "+1 404 554 4980",
+    "website": "https://www.ireland.ie/en/usa/atlanta/"
+},
+{
+    "type_of": "consulate",
+    "name": "mumbai",
+    "head_of_mission": "Anita Kelly",
+    "address": "3rd Floor, TCG Financial Centre, G–Block, Bandra Kurla Complex, Mumbai 400098, India",
+    "tel": "+91 22 69033400",
+    "website": "https://www.ireland.ie/en/india/mumbai/"
+},
+{
+    "type_of": "consulate",
+    "name": "cardiff",
+    "head_of_mission": "Denise McQuade",
+    "address": "2 Caspian Point, Caspian Way, Cardiff Bay, CF10 4DQ, Wales",
+    "tel": "+44 29 2045 5558",
+    "website": "https://www.ireland.ie/en/greatbritain/cardiff/"
+},
+{
+    "type_of": "consulate",
+    "name": "frankfurt",
+    "head_of_mission": "Patrick Jacques",
+    "address": "Signature OpernTurm, Bockenheimer Landstraße 2-4, 60306 Frankfurt am Main, Germany",
+    "tel": "+49 69 667 74 8041",
+    "website": "https://www.ireland.ie/en/germany/frankfurt/"
+},
+{
+    "type_of": "consulate",
+    "name": "shanghai",
+    "head_of_mission": "Wendy Dorman-Smith",
+    "address": "Ireland House, Unit 903, JC Plaza, 1225 Nanjing Road West, Shanghai 200040, People's Republic of China",
+    "tel": "+86 21 6010 1360",
+    "website": "https://www.ireland.ie/en/china/shanghai/"
+},
+{
+    "type_of": "consulate",
+    "name": "toronto",
+    "head_of_mission": "Janice McGann",
+    "address": "Spaces at The Permanent, 320 Bay Street, Toronto, Ontario M5H4A6",
+    "tel": "+1 437 290 6315",
+    "website": "https://www.ireland.ie/en/canada/toronto/"
+},
+{
+    "type_of": "consulate",
+    "name": "sãopaulo",
+    "head_of_mission": "Eoin Bennis",
+    "address": "Alameda Santos, 787, conj 61 – 6 º andar, CEP: 01419-001 Cerqueira César, São Paulo – SP, Brazil",
+    "tel": "+55 11 3149 7600",
+    "website": "https://www.ireland.ie/en/brazil/saopaulo/"
+}
+]

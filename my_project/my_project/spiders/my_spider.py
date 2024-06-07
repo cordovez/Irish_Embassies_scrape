@@ -25,7 +25,6 @@ class MySpiderSpider(scrapy.Spider):
     custom_settings = {
         "OFFSITE_ENABLED": False,
         "FEED_FORMAT": "json",
-        "FEED_URI": "embassies.json",
         "FEED_EXPORT_INDENT": 4,
     }
 
@@ -36,13 +35,7 @@ class MySpiderSpider(scrapy.Spider):
         if addresses := item.css("address"):
             first_address = addresses[0]
             raw_address = first_address.css("address::text").getall()
-            return ", ".join(
-                [
-                    line.strip().replace(",, ", ",")
-                    for line in raw_address
-                    if line.strip().replace(",, ", ",")
-                ]
-            )
+            return ", ".join([line.strip() for line in raw_address if line.strip()])
         return ""
 
     def _get_website(self, item) -> str:
@@ -92,18 +85,8 @@ class MySpiderSpider(scrapy.Spider):
 
         return countries
 
-    def _get_embassies(self, divs):
-        embassies = []
-        sub_str = "We do not have an Embassy in this country"
-        for div in divs:
-            text_blocks = div.css("div.accordion ::text").getall()
-            full_text = " ".join(text_blocks)
-            if sub_str not in full_text:
-                embassies.append(div)
-        return embassies
-
-    def _get_missions(self, divs):
-        missions = []
+    def _get_others(self, divs):
+        others = []
         for div in divs:
             id_attr = div.css("::attr(id)").get()
             if any(
@@ -115,93 +98,151 @@ class MySpiderSpider(scrapy.Spider):
                     "Palestinian",
                 ]
             ):
-                missions.append(div)
+                others.append(div)
 
-        return missions
+        return others
 
-    def _get_consulates(self, mission):
-        consulates = []
-        child_divs = self.mission.css('h3:contains("Consulate General of Ireland,")')
-        for parent in child_divs:
-            consulate = parent.xpath("./ancestor::div[1]")
-            consulates.append(
-                {
-                    "type_of": "consulate",
-                    "name": consulate.css("h3::text").get(),
-                    "head_of_mission": "",
-                    "address": self._get_address(consulate),
-                    "tel": self._get_tel(consulate),
-                    "website": self._get_website(consulate),
-                }
-            )
-        return consulates
+    def _get_embassies(self, divs):
+        embassies = []
+        sub_str = "We do not have an Embassy in this country"
+        for div in divs:
+            text_blocks = div.css("div.accordion ::text").getall()
+            full_text = " ".join(text_blocks)
+            if sub_str not in full_text:
+                embassies.append(div)
+        return embassies
 
-    def _assign_emb(self, item):
-        return not item.css('div.rich-text p:contains("We do not have an Embassy")')
+    def _get_consulates(self, embassies):
+        consulates_divs = []
+        city = ""
+        for embassy in embassies:
+            if embassy.css('h3:contains("Consulate General of Ireland, ")'):
+                phrase = embassy.css(
+                    'h3:contains("Consulate General of Ireland, ")::text'
+                ).get()
+                city = (
+                    phrase.replace("Consulate General of Ireland, ", "")
+                    .lower()
+                    .replace(" ", "")
+                )
+                consulates_divs.append(embassy.css(f"div[id = {city}]"))
 
-    def _populate_mission(self, div):
-        mission = MissionInfos()
-        mission["type_of"] = ""
-        mission["name"] = self._get_name(div)
-        mission["head_of_mission"] = ""
-        mission["address"] = self._get_address(div)
-        mission["tel"] = self._get_tel(div)
-        mission["website"] = self._get_website(div)
+        return consulates_divs
 
-        if mission["website"]:
-            request = scrapy.Request(
-                mission["website"],
-                callback=self.parse_mission_website,
-                cb_kwargs={"mission_item": mission},
-            )
-            yield request
+    def _assign_emb(self, div):
+        return not div.css('div.rich-text p:contains("We do not have an Embassy")')
+
+    def _covering_mission(self, div):
+        if (
+            div.css('div.rich-text b:contains("Passport Office in Dublin")::text').get()
+            == "Passport Office in Dublin"
+        ):
+            mission = "Passport Office in Dublin"
+        elif div.css("div.rich-text h2"):
+            mission = div.css("div.rich-text h2::text").get()
         else:
-            yield mission
+            mission = div.css("div h3::text").get()
 
-        # if mission["is_represented"]:
-        #     mission["consulates"] = self._get_consulates(div)
-        #     for consulate in item["consulates"]:
-        #         consulate["head_of_mission"] = item["head_of_mission"]
-        #         request = scrapy.Request(
-        #             consulate["website"],
-        #             callback=self.parse_mission_website,
-        #             cb_kwargs={"mission_item": consulate},
-        #         )
-        #         yield request
+        mission = mission.lower()
+
+        phrases = [
+            "diplomatic and consular information for ",
+            "embassy of ireland, ",
+        ]
+
+        for phrase in phrases:
+            if phrase in mission:
+                mission = mission.replace(phrase, "")
+
+        return mission.title()
+
+    def _get_kw_values_for(self, category_type: str, div):
+        category = MissionInfos()
+        category["type_of"] = category_type
+        category["name"] = self._get_name(div)
+        category["head_of_mission"] = ""
+        category["address"] = self._get_address(div).replace(",,", ",")
+        category["tel"] = self._get_tel(div)
+        category["website"] = self._get_website(div)
+
+        return category
 
     def _populate_country(self, div):
         country = Country()
         country["type_of"] = "country"
         country["name"] = div.css("::attr(id)").get()
         country["is_represented"] = self._assign_emb(div)
-        country["covered_by"] = self._get_website(div)
+        country["covered_by"] = self._covering_mission(div)
 
         yield country
+
+    def _populate_other(self, div):
+        other = self._get_kw_values_for("other", div)
+
+        # some websites may not be hosted by ireland.ie
+        if "https://www.ireland.ie/" in other["website"]:
+            yield scrapy.Request(
+                other["website"],
+                callback=self.parse_mission_website,
+                cb_kwargs={"mission_item": other},
+            )
+
+        else:
+            yield other
+
+    def _populate_embassy(self, div):
+        embassy = self._get_kw_values_for("embassy", div)
+
+        if "https://www.ireland.ie/" in embassy["website"]:
+            yield scrapy.Request(
+                embassy["website"],
+                callback=self.parse_mission_website,
+                cb_kwargs={"mission_item": embassy},
+            )
+
+        else:
+            yield embassy
+
+    def _populate_consulate(self, div):
+        consulate = self._get_kw_values_for("consulate", div)
+
+        if "https://www.ireland.ie/" in consulate["website"]:
+            yield scrapy.Request(
+                consulate["website"],
+                callback=self.parse_mission_website,
+                cb_kwargs={"mission_item": consulate},
+            )
+
+        else:
+            yield consulate
 
     def parse(self, response):
         # sourcery skip: inline-immediately-yielded-variable
         accordions = response.css("div.accordion")
         countries = self._get_countries(accordions)
-        others = self._get_missions(accordions)
+        others = self._get_others(accordions)
         embassies = self._get_embassies(countries)
+        consulates = self._get_consulates(embassies)
 
-        # for div in embassies:
-        #     yield from self._populate_mission(div)
-        # for div in countries:
-        #     yield from self._populate_country(div)
+        for country in countries:
+            yield from self._populate_country(country)
 
-        # for div in others:
-        #     yield from self._populate_mission(div)
+        for other in others:
+            yield from self._populate_other(other)
 
-        for div in embassies:
-            yield from self._populate_mission(div)
+        for embassy in embassies:
+            yield from self._populate_embassy(embassy)
 
-    #
-    # To do: def _get_mission_type(self, item):
-    #
-    #
+        for consulate in consulates:
+            yield from self._populate_consulate(consulate)
 
     def parse_mission_website(self, response, mission_item):
-        person = response.css("div.story__image_margin h3::text").get()
-        mission_item["head_of_mission"] = person
-        yield mission_item
+        try:
+            person = response.css("div.story__image_margin h3::text").get()
+            mission_item["head_of_mission"] = person
+        except Exception as e:
+            self.logger.error(
+                f"Failed to parse website for {mission_item['name']}: {e}"
+            )
+        finally:
+            yield mission_item

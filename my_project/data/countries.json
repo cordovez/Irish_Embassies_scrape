@@ -1,0 +1,1382 @@
+[
+{
+    "type_of": "country",
+    "name": "Afghanistan",
+    "is_represented": false,
+    "covered_by": "United Arab Emirates"
+},
+{
+    "type_of": "country",
+    "name": "Albania",
+    "is_represented": false,
+    "covered_by": "Greece"
+},
+{
+    "type_of": "country",
+    "name": "Algeria",
+    "is_represented": false,
+    "covered_by": "Switzerland"
+},
+{
+    "type_of": "country",
+    "name": "Andorra, Principality of",
+    "is_represented": false,
+    "covered_by": "Spain"
+},
+{
+    "type_of": "country",
+    "name": "Angola",
+    "is_represented": false,
+    "covered_by": "Portugal"
+},
+{
+    "type_of": "country",
+    "name": "Anguilla",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Antigua and Barbuda",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Argentina",
+    "is_represented": true,
+    "covered_by": "Argentina"
+},
+{
+    "type_of": "country",
+    "name": "Armenia",
+    "is_represented": false,
+    "covered_by": "Bulgaria"
+},
+{
+    "type_of": "country",
+    "name": "Aruba",
+    "is_represented": false,
+    "covered_by": "The Netherlands"
+},
+{
+    "type_of": "country",
+    "name": "Australia",
+    "is_represented": true,
+    "covered_by": "Australia"
+},
+{
+    "type_of": "country",
+    "name": "Austria",
+    "is_represented": true,
+    "covered_by": "Austria"
+},
+{
+    "type_of": "country",
+    "name": "Azerbaijan",
+    "is_represented": false,
+    "covered_by": "Türkiye"
+},
+{
+    "type_of": "country",
+    "name": "Bahamas",
+    "is_represented": false,
+    "covered_by": "Canada"
+},
+{
+    "type_of": "country",
+    "name": "Bahrain",
+    "is_represented": false,
+    "covered_by": "Saudi Arabia"
+},
+{
+    "type_of": "country",
+    "name": "Bangladesh",
+    "is_represented": false,
+    "covered_by": "India"
+},
+{
+    "type_of": "country",
+    "name": "Barbados",
+    "is_represented": false,
+    "covered_by": "Washington"
+},
+{
+    "type_of": "country",
+    "name": "Belarus",
+    "is_represented": false,
+    "covered_by": "Lithuania"
+},
+{
+    "type_of": "country",
+    "name": "Belgium",
+    "is_represented": true,
+    "covered_by": "Belgium"
+},
+{
+    "type_of": "country",
+    "name": "Belize",
+    "is_represented": false,
+    "covered_by": "Mexico"
+},
+{
+    "type_of": "country",
+    "name": "Benin",
+    "is_represented": false,
+    "covered_by": "Nigeria"
+},
+{
+    "type_of": "country",
+    "name": "Bermuda",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Bhutan",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Bolivia",
+    "is_represented": false,
+    "covered_by": "Argentina"
+},
+{
+    "type_of": "country",
+    "name": "Bosnia-Herzegovina",
+    "is_represented": false,
+    "covered_by": "Slovenia"
+},
+{
+    "type_of": "country",
+    "name": "Botswana",
+    "is_represented": false,
+    "covered_by": "South Africa"
+},
+{
+    "type_of": "country",
+    "name": "Bouvet Island",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Brazil",
+    "is_represented": true,
+    "covered_by": "Brazil"
+},
+{
+    "type_of": "country",
+    "name": "British Indian Ocean Territory",
+    "is_represented": false,
+    "covered_by": "India"
+},
+{
+    "type_of": "country",
+    "name": "Brunei Darussalam",
+    "is_represented": false,
+    "covered_by": "Singapore"
+},
+{
+    "type_of": "country",
+    "name": "Bulgaria",
+    "is_represented": true,
+    "covered_by": "Bulgaria"
+},
+{
+    "type_of": "country",
+    "name": "Burkina Faso",
+    "is_represented": false,
+    "covered_by": "Nigeria"
+},
+{
+    "type_of": "country",
+    "name": "Burundi",
+    "is_represented": false,
+    "covered_by": "Tanzania"
+},
+{
+    "type_of": "country",
+    "name": "Cambodia",
+    "is_represented": false,
+    "covered_by": "Vietnam"
+},
+{
+    "type_of": "country",
+    "name": "Cameroon",
+    "is_represented": false,
+    "covered_by": "Nigeria"
+},
+{
+    "type_of": "country",
+    "name": "Canada",
+    "is_represented": true,
+    "covered_by": "Canada"
+},
+{
+    "type_of": "country",
+    "name": "Cape Verde",
+    "is_represented": false,
+    "covered_by": "Portugal"
+},
+{
+    "type_of": "country",
+    "name": "Cayman Islands",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Central African Republic",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Chad",
+    "is_represented": false,
+    "covered_by": "Chad"
+},
+{
+    "type_of": "country",
+    "name": "Chile",
+    "is_represented": true,
+    "covered_by": "Chile"
+},
+{
+    "type_of": "country",
+    "name": "China",
+    "is_represented": true,
+    "covered_by": "China"
+},
+{
+    "type_of": "country",
+    "name": "Christmas Island",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Cocos (Keeling) Islands",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Colombia",
+    "is_represented": true,
+    "covered_by": "Colombia"
+},
+{
+    "type_of": "country",
+    "name": "Comoros",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Congo",
+    "is_represented": false,
+    "covered_by": "Congo"
+},
+{
+    "type_of": "country",
+    "name": "Congo, Democratic Republic of",
+    "is_represented": false,
+    "covered_by": "Tanzania"
+},
+{
+    "type_of": "country",
+    "name": "Cook Islands",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Costa Rica",
+    "is_represented": false,
+    "covered_by": "Mexico"
+},
+{
+    "type_of": "country",
+    "name": "Côte d'Ivoire",
+    "is_represented": false,
+    "covered_by": "Nigeria"
+},
+{
+    "type_of": "country",
+    "name": "Croatia",
+    "is_represented": true,
+    "covered_by": "Croatia"
+},
+{
+    "type_of": "country",
+    "name": "Cuba",
+    "is_represented": false,
+    "covered_by": "Mexico"
+},
+{
+    "type_of": "country",
+    "name": "Curacao",
+    "is_represented": false,
+    "covered_by": "The Netherlands"
+},
+{
+    "type_of": "country",
+    "name": "Cyprus",
+    "is_represented": true,
+    "covered_by": "Cyprus"
+},
+{
+    "type_of": "country",
+    "name": "Czech Republic",
+    "is_represented": true,
+    "covered_by": "Czech Republic"
+},
+{
+    "type_of": "country",
+    "name": "Denmark",
+    "is_represented": true,
+    "covered_by": "Denmark"
+},
+{
+    "type_of": "country",
+    "name": "Djibouti",
+    "is_represented": false,
+    "covered_by": "Ethiopia"
+},
+{
+    "type_of": "country",
+    "name": "Dominica",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Dominican Republic",
+    "is_represented": false,
+    "covered_by": "Colombia"
+},
+{
+    "type_of": "country",
+    "name": "Ecuador",
+    "is_represented": false,
+    "covered_by": "Chile"
+},
+{
+    "type_of": "country",
+    "name": "Egypt",
+    "is_represented": true,
+    "covered_by": "Egypt"
+},
+{
+    "type_of": "country",
+    "name": "El Salvador",
+    "is_represented": false,
+    "covered_by": "Mexico"
+},
+{
+    "type_of": "country",
+    "name": "Equatorial Guinea",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Eritrea",
+    "is_represented": false,
+    "covered_by": "Kenya"
+},
+{
+    "type_of": "country",
+    "name": "Estonia",
+    "is_represented": true,
+    "covered_by": "Estonia"
+},
+{
+    "type_of": "country",
+    "name": "Eswatini",
+    "is_represented": false,
+    "covered_by": "Mozambique"
+},
+{
+    "type_of": "country",
+    "name": "Ethiopia",
+    "is_represented": true,
+    "covered_by": "Ethiopia"
+},
+{
+    "type_of": "country",
+    "name": "Faroe Islands",
+    "is_represented": true,
+    "covered_by": "Denmark"
+},
+{
+    "type_of": "country",
+    "name": "Fiji",
+    "is_represented": false,
+    "covered_by": "Australia"
+},
+{
+    "type_of": "country",
+    "name": "Finland",
+    "is_represented": true,
+    "covered_by": "Finland"
+},
+{
+    "type_of": "country",
+    "name": "France",
+    "is_represented": true,
+    "covered_by": "France"
+},
+{
+    "type_of": "country",
+    "name": "French Guiana",
+    "is_represented": false,
+    "covered_by": "France"
+},
+{
+    "type_of": "country",
+    "name": "Gabon",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Gambia, Republic of the",
+    "is_represented": false,
+    "covered_by": "Nigeria"
+},
+{
+    "type_of": "country",
+    "name": "Georgia",
+    "is_represented": false,
+    "covered_by": "Bulgaria"
+},
+{
+    "type_of": "country",
+    "name": "Germany",
+    "is_represented": true,
+    "covered_by": "Germany"
+},
+{
+    "type_of": "country",
+    "name": "Ghana",
+    "is_represented": false,
+    "covered_by": "Ghana"
+},
+{
+    "type_of": "country",
+    "name": "Great Britain",
+    "is_represented": true,
+    "covered_by": "Great Britain"
+},
+{
+    "type_of": "country",
+    "name": "Greece",
+    "is_represented": true,
+    "covered_by": "Greece"
+},
+{
+    "type_of": "country",
+    "name": "Greenland",
+    "is_represented": true,
+    "covered_by": "Denmark"
+},
+{
+    "type_of": "country",
+    "name": "Grenada",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Guadeloupe (French)",
+    "is_represented": false,
+    "covered_by": "France"
+},
+{
+    "type_of": "country",
+    "name": "Guatemala",
+    "is_represented": false,
+    "covered_by": "Mexico"
+},
+{
+    "type_of": "country",
+    "name": "Guinea",
+    "is_represented": false,
+    "covered_by": "Sierra Leone"
+},
+{
+    "type_of": "country",
+    "name": "Guinea Bissau",
+    "is_represented": false,
+    "covered_by": "Portugal"
+},
+{
+    "type_of": "country",
+    "name": "Guyana",
+    "is_represented": false,
+    "covered_by": "Brazil"
+},
+{
+    "type_of": "country",
+    "name": "Haiti",
+    "is_represented": true,
+    "covered_by": "Permanent Mission Of Ireland To The Un, New York"
+},
+{
+    "type_of": "country",
+    "name": "Heard and McDonald Islands",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Holy See",
+    "is_represented": true,
+    "covered_by": "Holy See"
+},
+{
+    "type_of": "country",
+    "name": "Honduras",
+    "is_represented": false,
+    "covered_by": "Mexico"
+},
+{
+    "type_of": "country",
+    "name": "Hungary",
+    "is_represented": true,
+    "covered_by": "Hungary"
+},
+{
+    "type_of": "country",
+    "name": "Iceland",
+    "is_represented": false,
+    "covered_by": "Norway"
+},
+{
+    "type_of": "country",
+    "name": "India",
+    "is_represented": true,
+    "covered_by": "India"
+},
+{
+    "type_of": "country",
+    "name": "Indonesia",
+    "is_represented": true,
+    "covered_by": "Indonesia"
+},
+{
+    "type_of": "country",
+    "name": "Iran",
+    "is_represented": false,
+    "covered_by": "Türkiye"
+},
+{
+    "type_of": "country",
+    "name": "Iraq",
+    "is_represented": false,
+    "covered_by": "Jordan"
+},
+{
+    "type_of": "country",
+    "name": "Israel",
+    "is_represented": true,
+    "covered_by": "Israel"
+},
+{
+    "type_of": "country",
+    "name": "Italy",
+    "is_represented": true,
+    "covered_by": "Italy"
+},
+{
+    "type_of": "country",
+    "name": "Jamaica",
+    "is_represented": false,
+    "covered_by": "Canada"
+},
+{
+    "type_of": "country",
+    "name": "Japan",
+    "is_represented": true,
+    "covered_by": "Japan"
+},
+{
+    "type_of": "country",
+    "name": "Jordan",
+    "is_represented": true,
+    "covered_by": "Jordan"
+},
+{
+    "type_of": "country",
+    "name": "Kazakhstan",
+    "is_represented": false,
+    "covered_by": "Russia"
+},
+{
+    "type_of": "country",
+    "name": "Kenya",
+    "is_represented": true,
+    "covered_by": "Kenya"
+},
+{
+    "type_of": "country",
+    "name": "Kiribati",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Korea, Democratic Republic of (North Korea)",
+    "is_represented": false,
+    "covered_by": "Republic Of Korea"
+},
+{
+    "type_of": "country",
+    "name": "Korea, Republic of (South Korea)",
+    "is_represented": true,
+    "covered_by": "The Republic Of Korea"
+},
+{
+    "type_of": "country",
+    "name": "Kosovo",
+    "is_represented": false,
+    "covered_by": "Hungary"
+},
+{
+    "type_of": "country",
+    "name": "Kuwait",
+    "is_represented": false,
+    "covered_by": "The United Arab Emirates (Uae)"
+},
+{
+    "type_of": "country",
+    "name": "Kyrgyz Republic (Kyrgystan)",
+    "is_represented": false,
+    "covered_by": "Russia"
+},
+{
+    "type_of": "country",
+    "name": "Laos",
+    "is_represented": false,
+    "covered_by": "Vietnam"
+},
+{
+    "type_of": "country",
+    "name": "Latvia",
+    "is_represented": true,
+    "covered_by": "Latvia"
+},
+{
+    "type_of": "country",
+    "name": "Lebanon",
+    "is_represented": false,
+    "covered_by": "Egypt"
+},
+{
+    "type_of": "country",
+    "name": "Lesotho",
+    "is_represented": false,
+    "covered_by": "South Africa"
+},
+{
+    "type_of": "country",
+    "name": "Liberia",
+    "is_represented": true,
+    "covered_by": "Liberia"
+},
+{
+    "type_of": "country",
+    "name": "Libya",
+    "is_represented": false,
+    "covered_by": "Italy"
+},
+{
+    "type_of": "country",
+    "name": "Liechtenstein",
+    "is_represented": false,
+    "covered_by": "Switzerland"
+},
+{
+    "type_of": "country",
+    "name": "Lithuania",
+    "is_represented": true,
+    "covered_by": "Lithuania"
+},
+{
+    "type_of": "country",
+    "name": "Luxembourg",
+    "is_represented": true,
+    "covered_by": "Luxembourg"
+},
+{
+    "type_of": "country",
+    "name": "Madagascar",
+    "is_represented": false,
+    "covered_by": "Mozambique"
+},
+{
+    "type_of": "country",
+    "name": "Malawi",
+    "is_represented": true,
+    "covered_by": "Malawi"
+},
+{
+    "type_of": "country",
+    "name": "Malaysia",
+    "is_represented": true,
+    "covered_by": "Malaysia"
+},
+{
+    "type_of": "country",
+    "name": "Maldives",
+    "is_represented": false,
+    "covered_by": "India"
+},
+{
+    "type_of": "country",
+    "name": "Mali",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Malta",
+    "is_represented": true,
+    "covered_by": "Malta"
+},
+{
+    "type_of": "country",
+    "name": "Marshall Islands",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Martinique (French)",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Mauritania",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Mauritius",
+    "is_represented": false,
+    "covered_by": "South Africa"
+},
+{
+    "type_of": "country",
+    "name": "Mayotte",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Mexico",
+    "is_represented": true,
+    "covered_by": "Mexico"
+},
+{
+    "type_of": "country",
+    "name": "Moldova, Republic of",
+    "is_represented": false,
+    "covered_by": "Romania"
+},
+{
+    "type_of": "country",
+    "name": "Monaco",
+    "is_represented": false,
+    "covered_by": "France"
+},
+{
+    "type_of": "country",
+    "name": "Mongolia",
+    "is_represented": false,
+    "covered_by": "China"
+},
+{
+    "type_of": "country",
+    "name": "Montenegro",
+    "is_represented": false,
+    "covered_by": "Hungary"
+},
+{
+    "type_of": "country",
+    "name": "Montserrat",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Morocco",
+    "is_represented": true,
+    "covered_by": "Morocco"
+},
+{
+    "type_of": "country",
+    "name": "Mozambique",
+    "is_represented": true,
+    "covered_by": "Mozambique"
+},
+{
+    "type_of": "country",
+    "name": "Myanmar/Burma",
+    "is_represented": false,
+    "covered_by": "Thailand"
+},
+{
+    "type_of": "country",
+    "name": "Namibia",
+    "is_represented": false,
+    "covered_by": "Zambia"
+},
+{
+    "type_of": "country",
+    "name": "Nauru",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Nepal",
+    "is_represented": false,
+    "covered_by": "India"
+},
+{
+    "type_of": "country",
+    "name": "Netherlands",
+    "is_represented": true,
+    "covered_by": "The Netherlands"
+},
+{
+    "type_of": "country",
+    "name": "Netherlands Antilles",
+    "is_represented": false,
+    "covered_by": "The Netherlands"
+},
+{
+    "type_of": "country",
+    "name": "New Caledonia (French)",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "New Zealand",
+    "is_represented": true,
+    "covered_by": "New Zealand"
+},
+{
+    "type_of": "country",
+    "name": "Nicaragua",
+    "is_represented": false,
+    "covered_by": "Mexico"
+},
+{
+    "type_of": "country",
+    "name": "Niger",
+    "is_represented": false,
+    "covered_by": "Nigeria"
+},
+{
+    "type_of": "country",
+    "name": "Nigeria",
+    "is_represented": true,
+    "covered_by": "Nigeria"
+},
+{
+    "type_of": "country",
+    "name": "Norfolk Island",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "North Macedonia, Republic of",
+    "is_represented": false,
+    "covered_by": "Romania"
+},
+{
+    "type_of": "country",
+    "name": "Northern Mariana Islands",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Norway",
+    "is_represented": true,
+    "covered_by": "Norway"
+},
+{
+    "type_of": "country",
+    "name": "Oman",
+    "is_represented": false,
+    "covered_by": "Saudi Arabia"
+},
+{
+    "type_of": "country",
+    "name": "Pakistan",
+    "is_represented": false,
+    "covered_by": "Türkiye"
+},
+{
+    "type_of": "country",
+    "name": "Palau",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Panama",
+    "is_represented": false,
+    "covered_by": "Colombia"
+},
+{
+    "type_of": "country",
+    "name": "Papua New Guinea",
+    "is_represented": false,
+    "covered_by": "Australia"
+},
+{
+    "type_of": "country",
+    "name": "Paraguay",
+    "is_represented": false,
+    "covered_by": "Argentina"
+},
+{
+    "type_of": "country",
+    "name": "Peru",
+    "is_represented": false,
+    "covered_by": "Chile"
+},
+{
+    "type_of": "country",
+    "name": "Philippines",
+    "is_represented": true,
+    "covered_by": "The Philippines"
+},
+{
+    "type_of": "country",
+    "name": "Pitcairn Island",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Poland",
+    "is_represented": true,
+    "covered_by": "Poland"
+},
+{
+    "type_of": "country",
+    "name": "Polynesia (French)",
+    "is_represented": false,
+    "covered_by": "France"
+},
+{
+    "type_of": "country",
+    "name": "Portugal",
+    "is_represented": true,
+    "covered_by": "Portugal"
+},
+{
+    "type_of": "country",
+    "name": "Puerto Rico",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Qatar",
+    "is_represented": false,
+    "covered_by": "The United Arab Emirates (Uae)"
+},
+{
+    "type_of": "country",
+    "name": "Reunion (French)",
+    "is_represented": false,
+    "covered_by": "France"
+},
+{
+    "type_of": "country",
+    "name": "Romania",
+    "is_represented": true,
+    "covered_by": "Romania"
+},
+{
+    "type_of": "country",
+    "name": "Russian Federation",
+    "is_represented": true,
+    "covered_by": "The Russian Federation"
+},
+{
+    "type_of": "country",
+    "name": "Rwanda",
+    "is_represented": false,
+    "covered_by": "Uganda"
+},
+{
+    "type_of": "country",
+    "name": "S. Georgia and the S. Sandwich Islands",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Saint Helena",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Saint Kitts and Nevis Anguilla",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Saint Pierre and Miquelon",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Saint Tome (Sao Tome) and Principe",
+    "is_represented": false,
+    "covered_by": "Nigeria"
+},
+{
+    "type_of": "country",
+    "name": "Saint Vincent and Grenadines",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Samoa",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "San Marino",
+    "is_represented": false,
+    "covered_by": "Italy"
+},
+{
+    "type_of": "country",
+    "name": "Saudi Arabia",
+    "is_represented": true,
+    "covered_by": "Saudi Arabia"
+},
+{
+    "type_of": "country",
+    "name": "Senegal",
+    "is_represented": true,
+    "covered_by": "Senegal"
+},
+{
+    "type_of": "country",
+    "name": "Serbia",
+    "is_represented": false,
+    "covered_by": "Greece"
+},
+{
+    "type_of": "country",
+    "name": "Seychelles",
+    "is_represented": false,
+    "covered_by": "Tanzania"
+},
+{
+    "type_of": "country",
+    "name": "Sierra Leone",
+    "is_represented": true,
+    "covered_by": "Sierra Leone"
+},
+{
+    "type_of": "country",
+    "name": "Singapore",
+    "is_represented": true,
+    "covered_by": "Singapore"
+},
+{
+    "type_of": "country",
+    "name": "Sint Maarten",
+    "is_represented": false,
+    "covered_by": "The Netherlands"
+},
+{
+    "type_of": "country",
+    "name": "Slovak Republic",
+    "is_represented": true,
+    "covered_by": "The Slovak Republic"
+},
+{
+    "type_of": "country",
+    "name": "Slovenia",
+    "is_represented": true,
+    "covered_by": "Slovenia"
+},
+{
+    "type_of": "country",
+    "name": "Solomon Islands",
+    "is_represented": false,
+    "covered_by": "Australia"
+},
+{
+    "type_of": "country",
+    "name": "Somalia",
+    "is_represented": false,
+    "covered_by": "Kenya"
+},
+{
+    "type_of": "country",
+    "name": "South Africa",
+    "is_represented": true,
+    "covered_by": "South Africa"
+},
+{
+    "type_of": "country",
+    "name": "South Sudan",
+    "is_represented": false,
+    "covered_by": "Ethiopia"
+},
+{
+    "type_of": "country",
+    "name": "Spain",
+    "is_represented": true,
+    "covered_by": "Spain"
+},
+{
+    "type_of": "country",
+    "name": "Sri Lanka",
+    "is_represented": false,
+    "covered_by": "India"
+},
+{
+    "type_of": "country",
+    "name": "St Lucia",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Sudan",
+    "is_represented": false,
+    "covered_by": "Kenya"
+},
+{
+    "type_of": "country",
+    "name": "Suriname",
+    "is_represented": false,
+    "covered_by": "Brazil"
+},
+{
+    "type_of": "country",
+    "name": "Sweden",
+    "is_represented": true,
+    "covered_by": "Sweden"
+},
+{
+    "type_of": "country",
+    "name": "Switzerland",
+    "is_represented": true,
+    "covered_by": "Switzerland"
+},
+{
+    "type_of": "country",
+    "name": "Syria",
+    "is_represented": false,
+    "covered_by": "Egypt"
+},
+{
+    "type_of": "country",
+    "name": "Taiwan",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Tajikistan",
+    "is_represented": false,
+    "covered_by": "Russia"
+},
+{
+    "type_of": "country",
+    "name": "Tanzania",
+    "is_represented": true,
+    "covered_by": "Tanzania"
+},
+{
+    "type_of": "country",
+    "name": "Thailand",
+    "is_represented": true,
+    "covered_by": "Thailand"
+},
+{
+    "type_of": "country",
+    "name": "Timor Leste (East Timor)",
+    "is_represented": false,
+    "covered_by": "Indonesia"
+},
+{
+    "type_of": "country",
+    "name": "Togo",
+    "is_represented": false,
+    "covered_by": "Nigeria"
+},
+{
+    "type_of": "country",
+    "name": "Tokelau",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Tonga",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Trinidad and Tobago",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Tunisia",
+    "is_represented": false,
+    "covered_by": "Morocco"
+},
+{
+    "type_of": "country",
+    "name": "Türkiye",
+    "is_represented": true,
+    "covered_by": "Türkiye"
+},
+{
+    "type_of": "country",
+    "name": "Turkmenistan",
+    "is_represented": false,
+    "covered_by": "Russia"
+},
+{
+    "type_of": "country",
+    "name": "Turks and Caicos Islands",
+    "is_represented": false,
+    "covered_by": "The United States Of America"
+},
+{
+    "type_of": "country",
+    "name": "Tuvalu",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Uganda",
+    "is_represented": true,
+    "covered_by": "Uganda"
+},
+{
+    "type_of": "country",
+    "name": "Ukraine",
+    "is_represented": true,
+    "covered_by": "Ukraine"
+},
+{
+    "type_of": "country",
+    "name": "United Arab Emirates",
+    "is_represented": true,
+    "covered_by": "The United Arab Emirates (Uae)"
+},
+{
+    "type_of": "country",
+    "name": "United States of America",
+    "is_represented": true,
+    "covered_by": "The United States Of America (Usa)"
+},
+{
+    "type_of": "country",
+    "name": "Uruguay",
+    "is_represented": false,
+    "covered_by": "Argentina"
+},
+{
+    "type_of": "country",
+    "name": "USA Minor Outlaying Islands",
+    "is_represented": false,
+    "covered_by": "The Usa"
+},
+{
+    "type_of": "country",
+    "name": "Uzbekistan",
+    "is_represented": false,
+    "covered_by": "Russia"
+},
+{
+    "type_of": "country",
+    "name": "Vanuatu",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Venezuela",
+    "is_represented": false,
+    "covered_by": "Colombia"
+},
+{
+    "type_of": "country",
+    "name": "Vietnam",
+    "is_represented": true,
+    "covered_by": "Vietnam"
+},
+{
+    "type_of": "country",
+    "name": "Virgin Islands (British)",
+    "is_represented": false,
+    "covered_by": "The Usa"
+},
+{
+    "type_of": "country",
+    "name": "Virgin Islands (USA)",
+    "is_represented": false,
+    "covered_by": "The Usa"
+},
+{
+    "type_of": "country",
+    "name": "Wallis and Futuna Islands",
+    "is_represented": false,
+    "covered_by": "Passport Office In Dublin"
+},
+{
+    "type_of": "country",
+    "name": "Yemen",
+    "is_represented": false,
+    "covered_by": "Saudi Arabia"
+},
+{
+    "type_of": "country",
+    "name": "Zambia",
+    "is_represented": true,
+    "covered_by": "Zambia"
+},
+{
+    "type_of": "country",
+    "name": "Zimbabwe",
+    "is_represented": false,
+    "covered_by": "South Africa"
+}
+]

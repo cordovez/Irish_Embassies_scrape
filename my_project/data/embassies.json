@@ -1,6 +1,6 @@
 [
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Argentina",
     "head_of_mission": "Gerard McCoy",
     "address": "Edificio Bluesky, 6th Floor, Avenida del Libertador 1068, Recoleta, Buenos Aires",
@@ -8,23 +8,23 @@
     "website": "https://www.ireland.ie/en/argentina/buenosaires/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Zambia",
     "head_of_mission": "Bronagh Carr",
-    "address": "6663 Katima Mulilo Rd,, P.O. Box 34923,, Lusaka 10101,, Zambia",
+    "address": "6663 Katima Mulilo Rd, P.O. Box 34923, Lusaka 10101, Zambia",
     "tel": "",
     "website": "https://www.ireland.ie/en/zambia/lusaka/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Vietnam",
     "head_of_mission": null,
-    "address": "2nd floor,, 41A Ly Thai To, Hoan Kiem District, Hanoi, Vietnam",
+    "address": "2nd floor, 41A Ly Thai To, Hoan Kiem District, Hanoi, Vietnam",
     "tel": "+84 24 3974 3291",
     "website": "https://www.ireland.ie/en/vietnam/hanoi/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "United States of America",
     "head_of_mission": "Geraldine Byrne Nason",
     "address": "2234 Massachusetts Ave, NW Washington DC 20008, USA",
@@ -32,7 +32,7 @@
     "website": "https://www.ireland.ie/en/usa/washington/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "United Arab Emirates",
     "head_of_mission": "Alison Milton",
     "address": "Atiq Bin Majid Al Muhairi Street, Al Bateen, P.O. Box 61581, Abu Dhabi, United Arab Emirates",
@@ -40,7 +40,7 @@
     "website": "https://www.ireland.ie/en/uae/abudhabi/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Ukraine",
     "head_of_mission": "Thérèse Healy",
     "address": "3rd floor, Volodymyrska Street 101, Kyiv 01033, Ukraine",
@@ -48,7 +48,7 @@
     "website": "https://www.ireland.ie/en/kyiv/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Uganda",
     "head_of_mission": "Kevin Colgan",
     "address": "Post Office Box 7791, Plot 25, Yusuf Lule Road, Nakasero, Kampala",
@@ -56,7 +56,7 @@
     "website": "https://www.ireland.ie/en/uganda/kampala/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Türkiye",
     "head_of_mission": "John McCullagh",
     "address": "Ugur Mumcu Caddesi No.88, MNG Binasi, A&B Blok, Kat 1, Gaziosmanpasa, Ankara 06700",
@@ -64,15 +64,15 @@
     "website": "https://www.ireland.ie/en/turkiye/ankara/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Thailand",
     "head_of_mission": "Pat Bourne",
-    "address": "208 Wireless Road 12th Floor,, Unit 1201, Lumphini, Pathumwan, Bangkok 10330",
+    "address": "208 Wireless Road 12th Floor, Unit 1201, Lumphini, Pathumwan, Bangkok 10330",
     "tel": "+66 2 016 1360",
     "website": "https://www.ireland.ie/en/thailand/bangkok/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Tanzania",
     "head_of_mission": "Mary O'Neill",
     "address": "353 Touré Drive, Masaki, Dar es Salaam, Tanzania",
@@ -80,7 +80,7 @@
     "website": "https://www.ireland.ie/en/tanzania/daressalaam/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Switzerland",
     "head_of_mission": "Aoife McGarry",
     "address": "2nd floor Kirchenfeldstrasse 68, P.O. Box 262, CH-3000 Berne 6, Switzerland",
@@ -88,15 +88,15 @@
     "website": "https://www.ireland.ie/en/switzerland/berne/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Sweden",
     "head_of_mission": "Barbara Jones",
-    "address": "Visiting Address:, Hovslagargatan 5,, 111 48 Stockholm,, Sweden",
+    "address": "Visiting Address:, Hovslagargatan 5, 111 48 Stockholm, Sweden",
     "tel": "+46 (0) 8 54504040",
     "website": "https://www.ireland.ie/en/sweden/stockholm/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Spain",
     "head_of_mission": "Frank Smyth",
     "address": "Paseo de la Castellana 46-4, 28046, Madrid., Spain",
@@ -104,23 +104,23 @@
     "website": "https://www.ireland.ie/en/spain/madrid/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "South Africa",
     "head_of_mission": "Austin Gormley",
-    "address": "2nd Floor, Building A, OMK House,, 238 Florence Ribeiro Avenue, Nieuw Muckleneuk,, Pretoria,, South Africa, 0181",
+    "address": "2nd Floor, Building A, OMK House, 238 Florence Ribeiro Avenue, Nieuw Muckleneuk, Pretoria, South Africa, 0181",
     "tel": "+27 12 452 1000",
     "website": "https://www.ireland.ie/en/southafrica/pretoria/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Slovenia",
     "head_of_mission": "Adrian Farrell",
-    "address": "Palača Kapitelj, 1st floor,, Poljanski nasip 6, 1000 Ljubljana, Slovenia",
+    "address": "Palača Kapitelj, 1st floor, Poljanski nasip 6, 1000 Ljubljana, Slovenia",
     "tel": "+386 1 300 8970",
     "website": "https://www.ireland.ie/en/slovenia/ljubljana/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Slovak Republic",
     "head_of_mission": "Dermot McGauran",
     "address": "Mostová 2, 811 02 Bratislava, Slovak Republic",
@@ -128,15 +128,15 @@
     "website": "https://www.ireland.ie/en/slovak-republic/bratislava/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Singapore",
     "head_of_mission": "Sarah McGrath",
-    "address": "541 Orchard Road, Liat Towers, 8th Floor, Singapore 238881",
+    "address": "18 Cross Street, #13-04, Singapore 048423",
     "tel": "+65 6238 7616",
     "website": "https://www.ireland.ie/en/singapore/embassy/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Sierra Leone",
     "head_of_mission": "Aidan Fitzpatrick",
     "address": "8 St. Joseph’s Avenue, Off Spur Road, Freetown, Sierra Leone",
@@ -144,15 +144,15 @@
     "website": "https://www.ireland.ie/en/sierraleone/freetown/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Saudi Arabia",
     "head_of_mission": "Gerry Cunningham",
-    "address": "P.O. Box 94349,, Plot No. 3114, Al Idrisi,, Assafarat District, Riyadh 12513,, Kingdom of Saudi Arabia",
+    "address": "P.O. Box 94349, Plot No. 3114, Al Idrisi, Assafarat District, Riyadh 12513, Kingdom of Saudi Arabia",
     "tel": "+966 11 407 1530",
     "website": "https://www.ireland.ie/en/saudiarabia/riyadh/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Russian Federation",
     "head_of_mission": "Brian McElduff",
     "address": "Grokholski Pereulok 5, Moscow 129090, Russia",
@@ -160,23 +160,23 @@
     "website": "https://www.ireland.ie/en/moscow/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Romania",
     "head_of_mission": "Brendan Ward",
-    "address": "Bulevardul Iuliu Maniu 6L,, București 061072,, Bucharest, Romania",
+    "address": "Bulevardul Iuliu Maniu 6L, București 061072, Bucharest, Romania",
     "tel": "+40 758611959",
     "website": "https://www.ireland.ie/en/romania/bucharest/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Portugal",
     "head_of_mission": "Alma Ní Choigligh",
-    "address": "Avenida da Liberdade,, Nr. 200, 4th floor,, Lisbon, 1250-147",
+    "address": "Avenida da Liberdade, Nr. 200, 4th floor, Lisbon, 1250-147",
     "tel": "+351 213308200",
     "website": "https://www.ireland.ie/en/portugal/lisbon/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Poland",
     "head_of_mission": "Patrick Haughey",
     "address": "ul. Mysia 5, 6th Floor, 00-496 Warsaw, Poland",
@@ -184,7 +184,7 @@
     "website": "https://www.ireland.ie/en/poland/warsaw/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Philippines",
     "head_of_mission": "William John Carlos",
     "address": "30/F Tower 2, RCBC Plaza, 6819 Ayala Avenue, Makati City, 1200, Philippines",
@@ -192,15 +192,15 @@
     "website": "https://www.ireland.ie/en/philippines/manila/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Norway",
     "head_of_mission": "Claire Buckley",
-    "address": "Floor 6,, Haakon VIIs gate 1, PO Box 4006 AMB, 0244 Oslo, Norway",
+    "address": "Floor 6, Haakon VIIs gate 1, PO Box 4006 AMB, 0244 Oslo, Norway",
     "tel": "+47 2201 7200",
     "website": "https://www.ireland.ie/en/norway/oslo/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Nigeria",
     "head_of_mission": "Peter Ryan",
     "address": "11 Negro Crescent, Maitama District, Abuja, Nigeria",
@@ -208,7 +208,7 @@
     "website": "https://www.ireland.ie/en/nigeria/abuja/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "New Zealand",
     "head_of_mission": "Jane Connolly",
     "address": "Level 10, 86 Victoria Street, PO Box 11498 Manners Street, Wellington 6011, New Zealand",
@@ -216,7 +216,7 @@
     "website": "https://www.ireland.ie/en/new-zealand/wellington/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Netherlands",
     "head_of_mission": "Brendan Rogers",
     "address": "Scheveningseweg 112, 2584 AE The Hague, The Netherlands",
@@ -224,23 +224,23 @@
     "website": "https://www.ireland.ie/en/thenetherlands/thehague/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Mozambique",
     "head_of_mission": "Patrick Empey",
-    "address": "Avenida Julius Nyerere 3630,, Sommershield,, Maputo,, Mozambique",
+    "address": "Avenida Julius Nyerere 3630, Sommershield, Maputo, Mozambique",
     "tel": "+258 21 501 700",
     "website": "https://www.ireland.ie/en/mozambique/maputo/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Morocco",
     "head_of_mission": "James McIntyre",
-    "address": "Rabat Mahaj Ryad Centre,, Avenue Attine, Bâtiment 7,, Hay Ryad,, Rabat, Morocco",
+    "address": "Rabat Mahaj Ryad Centre, Avenue Attine, Bâtiment 7, Hay Ryad, Rabat, Morocco",
     "tel": "+212 530134083",
     "website": "https://www.ireland.ie/en/morocco/rabat/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Mexico",
     "head_of_mission": "Maeve von Heynitz",
     "address": "Goldsmith #53 Piso 4, Col. Polanco, Chapultepec, Alcaldía Miguel Hidalgo, CP, 11560, Ciudad de México, México",
@@ -248,7 +248,7 @@
     "website": "https://www.ireland.ie/en/mexico/mexicocity/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Malta",
     "head_of_mission": "H.E. Caroline Whelan",
     "address": "Whitehall Mansions, Ix-Xatt ta’ Ta’ Xbiex, XBX 1026, Malta",
@@ -256,7 +256,7 @@
     "website": "https://www.ireland.ie/en/malta/valletta/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Malaysia",
     "head_of_mission": "Orla Tunney",
     "address": "South Block, 5th Floor, The Amp Walk, 218 Jalan Ampang, Kuala Lumpur, 50450, Malaysia",
@@ -264,7 +264,7 @@
     "website": "https://www.ireland.ie/en/malaysia/kualalumpur/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Malawi",
     "head_of_mission": "Séamus O'Grady",
     "address": "Arwa House (3rd Floor), 13/14 City Centre, Lilongwe, Malawi",
@@ -272,7 +272,7 @@
     "website": "https://www.ireland.ie/en/malawi/lilongwe/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Luxembourg",
     "head_of_mission": "Jean McDonald",
     "address": "Résidence Christina (2nd floor), 28 route d'Arlon, L-1140 Luxembourg",
@@ -280,7 +280,7 @@
     "website": "https://www.ireland.ie/en/luxembourg/embassy/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Lithuania",
     "head_of_mission": "Séadhna MacHugh",
     "address": "Gedimino Prospektas 1, Vilnius, LT-01103, Lithuania",
@@ -288,7 +288,7 @@
     "website": "https://www.ireland.ie/en/lithuania/vilnius/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Liberia",
     "head_of_mission": "Gerard Considine",
     "address": "LCL Compound 12th Street, Sinkor, Monrovia, Liberia",
@@ -296,7 +296,7 @@
     "website": "https://www.ireland.ie/en/liberia/monrovia/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Latvia",
     "head_of_mission": "Eimear Friel",
     "address": "Alberta Street 13, Riga, Latvia, LV-1010",
@@ -304,7 +304,7 @@
     "website": "https://www.ireland.ie/en/latvia/riga/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Korea, Republic of (South Korea)",
     "head_of_mission": "Michelle Winthrop",
     "address": "Leema Bldg. 13F., 42, Jongro 1-gil, Jongno-gu, Seoul, Korea 03152",
@@ -312,7 +312,7 @@
     "website": "https://www.ireland.ie/en/republic-of-korea/seoul/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Kenya",
     "head_of_mission": "Caitríona Ingoldsby",
     "address": "4th Floor, Delta Office Suites, Manyani Road, off Waiyaki Way, PO Box 30659-00100, Nairobi",
@@ -320,7 +320,7 @@
     "website": "https://www.ireland.ie/en/kenya/nairobi/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Jordan",
     "head_of_mission": "Marianne Bolger",
     "address": "Bashir Kheir Street 15, Opposite the Orthodox Club, Abdoun, Amman, Jordan",
@@ -328,7 +328,7 @@
     "website": "https://www.ireland.ie/en/jordan/amman/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Japan",
     "head_of_mission": "Damien Cole",
     "address": "Ireland House, 2-10-7 Kojimachi, Chiyoda-ku, Tokyo, Japan, 102-0083",
@@ -336,7 +336,7 @@
     "website": "https://www.ireland.ie/en/japan/tokyo/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Italy",
     "head_of_mission": "Patricia O'Brien",
     "address": "Villa Spada, Via Giacomo Medici 1, Roma 00153, Italy",
@@ -344,7 +344,7 @@
     "website": "https://www.ireland.ie/en/italy/rome/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Israel",
     "head_of_mission": "Sonya McGuinness",
     "address": "Amot Atrium Tower, 2 Ze'ev Jabotinsky, Ramat Gan, 5250501",
@@ -352,7 +352,7 @@
     "website": "https://www.ireland.ie/en/israel/telaviv/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Indonesia",
     "head_of_mission": "Pádraig Francis",
     "address": "World Trade Centre 1, L-14, Jl. Jend. Sudirman Kav 29-31, Jakarta 12920",
@@ -360,7 +360,7 @@
     "website": "https://www.ireland.ie/en/indonesia/jakarta/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "India",
     "head_of_mission": "Kevin Kelly",
     "address": "C17 Malcha Marg, Chanakyapuri, New Delhi 110 021, India",
@@ -368,7 +368,7 @@
     "website": "https://www.ireland.ie/en/india/newdelhi/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Hungary",
     "head_of_mission": "Ragnar Almqvist",
     "address": "Budapest 1054., Szabadsag ter 7., Bank Center, Budapest",
@@ -376,7 +376,7 @@
     "website": "https://www.ireland.ie/en/hungary/budapest/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Holy See",
     "head_of_mission": "Frances Collins",
     "address": "Via dei Corridori, 48, 00193 Rome, Italy",
@@ -384,7 +384,7 @@
     "website": "https://www.ireland.ie/en/holysee/vaticancity/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Haiti",
     "head_of_mission": "Fergal Mythen",
     "address": "885 Second Avenue, 21st Floor, (between 47th & 48th st.), NY 10017, USA",
@@ -392,7 +392,7 @@
     "website": "https://www.ireland.ie/en/un/newyork/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Greece",
     "head_of_mission": "Iseult Fitzgerald",
     "address": "7 Leoforos Vasileos Konstantinou, 106 74, Athens, Greece",
@@ -400,7 +400,7 @@
     "website": "https://www.ireland.ie/en/greece/athens/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Great Britain",
     "head_of_mission": "Martin Fraser",
     "address": "17 Grosvenor Place, London, SW1X 7HR",
@@ -408,7 +408,7 @@
     "website": "https://www.ireland.ie/en/greatbritain/london/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Germany",
     "head_of_mission": null,
     "address": "Jägerstraße 51, 10117 Berlin, Germany",
@@ -416,7 +416,7 @@
     "website": "https://www.ireland.ie/en/germany/berlin/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "France",
     "head_of_mission": "Niall Burgess",
     "address": "12 avenue Foch, (entrance 4 rue Rude), 75116 Paris, France",
@@ -424,7 +424,7 @@
     "website": "https://www.ireland.ie/en/france/paris/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Finland",
     "head_of_mission": "Ruth Parkin",
     "address": "Erottajankatu 7 A, 00130 Helsinki, Finland",
@@ -432,7 +432,7 @@
     "website": "https://www.ireland.ie/en/finland/helsinki/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Ethiopia",
     "head_of_mission": "Nicola Brennan",
     "address": "Guinea Conakry Street, Addis Ababa, Ethiopia",
@@ -440,7 +440,7 @@
     "website": "https://www.ireland.ie/en/ethiopia/addisababa/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Estonia",
     "head_of_mission": "James Sherry",
     "address": "Rävala pst 5, 10143, Tallinn, Estonia",
@@ -448,7 +448,7 @@
     "website": "https://www.ireland.ie/en/estonia/tallinn/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Egypt",
     "head_of_mission": "Nuala O'Brien",
     "address": "18 Hassan Sabry Street, 11561 Zamalek, Cairo, Egypt",
@@ -456,7 +456,7 @@
     "website": "https://www.ireland.ie/en/egypt/cairo/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Denmark",
     "head_of_mission": "Elizabeth McCullough",
     "address": "Østbanegade 21, 2100 Copenhagen Ø, Denmark",
@@ -464,7 +464,7 @@
     "website": "https://www.ireland.ie/en/denmark/copenhagen/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Czech Republic",
     "head_of_mission": "Alan Gibbons",
     "address": "Tržiště 13, 118 00 Prague 1, 2nd Floor",
@@ -472,7 +472,7 @@
     "website": "https://www.ireland.ie/en/czech-republic/prague/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Cyprus",
     "head_of_mission": "Conor Long",
     "address": "7 Aiantos Street, St. Omologites, 1082 Nicosia, Cyprus",
@@ -480,7 +480,7 @@
     "website": "https://www.ireland.ie/en/cyprus/nicosia/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Croatia",
     "head_of_mission": "Ruaidhri Dowling",
     "address": "Miramarska Avenue 23/lll, 10000 Zagreb, Croatia",
@@ -488,7 +488,7 @@
     "website": "https://www.ireland.ie/en/croatia/zagreb/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Colombia",
     "head_of_mission": "Fiona Nic Dhonnacha",
     "address": "Oficina 1605, Edificio Tierra Firme, Bogotá DC, Colombia, Ak 9 #115-30",
@@ -496,7 +496,7 @@
     "website": "https://www.ireland.ie/en/colombia/bogota/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "China",
     "head_of_mission": "Ann Derwin",
     "address": "3 Ritan Dong Lu, Chaoyang District, Beijing 100600, People's Republic of China",
@@ -504,7 +504,7 @@
     "website": "https://www.ireland.ie/en/china/beijing/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Chile",
     "head_of_mission": "Colum Hatchell",
     "address": "Avenida Apoquindo 2929, Piso 18, Las Condes",
@@ -512,23 +512,23 @@
     "website": "https://www.ireland.ie/en/chile/santiago/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Canada",
     "head_of_mission": "Eamonn McKee",
-    "address": "150 Metcalfe Street,, Suite 1700,, Ottawa, ON K2P 1P1",
+    "address": "150 Metcalfe Street, Suite 1700, Ottawa, ON K2P 1P1",
     "tel": "+1 613 233 6281",
     "website": "https://www.ireland.ie/en/canada/ottawa/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Bulgaria",
     "head_of_mission": "Martina Feeney",
-    "address": "Platinum Business Centre, 26-30 Bacho Kiro street, Sofia 1000,, Bulgaria",
+    "address": "Platinum Business Centre, 26-30 Bacho Kiro street, Sofia 1000, Bulgaria",
     "tel": "+359 2 985 3425",
     "website": "https://www.ireland.ie/en/bulgaria/sofia/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Brazil",
     "head_of_mission": "Fiona Flood",
     "address": "SHIS QL 12 conjunto 05 casa 09, Lago Sul, Brasília - DF, CEP 71630-255, Brazil",
@@ -536,7 +536,7 @@
     "website": "https://www.ireland.ie/en/brazil/brasilia/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Belgium",
     "head_of_mission": null,
     "address": "Rue Froissart - Froissartstraat 50, 1040 Brussels, Belgium",
@@ -544,7 +544,7 @@
     "website": "https://www.ireland.ie/en/belgium/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Austria",
     "head_of_mission": "Eoin O'Leary",
     "address": "Rotenturmstraße 16-18, A-1010 Vienna, Austria",
@@ -552,7 +552,7 @@
     "website": "https://www.ireland.ie/en/austria/vienna/"
 },
 {
-    "type_of": "",
+    "type_of": "embassy",
     "name": "Australia",
     "head_of_mission": "Tim Mawe",
     "address": "20 Arkana Street, Yarralumla, ACT 2600, Canberra",
