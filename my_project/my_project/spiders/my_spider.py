@@ -141,38 +141,7 @@ class MySpiderSpider(scrapy.Spider):
             for city in city_ids:
                 consulates_divs.append(embassy.css(f"div[id = {city}]"))
 
-            # for consulate in consulates_divs:
-            #     consulates_divs.append(consulate)
-
-            # if embassy.css('h3:contains("Consulate General of Ireland, ")'):
-            #     phrase = embassy.css(
-            #         'h3:contains("Consulate General of Ireland, ")::text'
-            #     ).get()
-            #     city = (
-            #         phrase.replace("Consulate General of Ireland, ", "")
-            #         .lower()
-            #         .replace(" ", "")
-            #     )
-            #     consulates_divs.append(embassy.css(f"div[id = {city}]"))
-
         return consulates_divs
-
-    # def _get_consulates(self, embassies):
-    #     consulates_divs = []
-    #     city = ""
-    #     for embassy in embassies:
-    #         if embassy.css('h3:contains("Consulate General of Ireland, ")'):
-    #             phrase = embassy.css(
-    #                 'h3:contains("Consulate General of Ireland, ")::text'
-    #             ).get()
-    #             city = (
-    #                 phrase.replace("Consulate General of Ireland, ", "")
-    #                 .lower()
-    #                 .replace(" ", "")
-    #             )
-    #             consulates_divs.append(embassy.css(f"div[id = {city}]"))
-
-    #     return consulates_divs
 
     def _assign_emb(self, div):
         return not div.css('div.rich-text p:contains("We do not have an Embassy")')
